@@ -15,7 +15,9 @@ Publications in Journals
 ------
 
 {% for post in site.publications reversed %}
+  journal0
   {% if post.collection == 'publications-journals' %}
+    journal1
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -24,7 +26,9 @@ Publications in Conferences
 ------
 
 {% for post in site.publications reversed %}
+  conf0
   {% if post.collection == 'publications-conferences' %}
+    conf1
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
