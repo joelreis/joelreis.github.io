@@ -11,12 +11,20 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
 Publications in Journals
 ------
 
+{% for post in site.publications reversed %}
+  {% if post.collection == 'publications' %}
+    {% include archive-single.html %}
+{% endfor %}
+
 Publications in Conferences
 ------
+
+{% for post in site.publications reversed %}
+  {% if post.collection == 'publications-conferences' %}
+    {% include archive-single.html %}
+{% endfor %}
