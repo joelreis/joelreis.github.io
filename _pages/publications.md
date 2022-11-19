@@ -17,7 +17,7 @@ Publications in Journals
 {% for post in site.publications reversed %}
   journal0
   {{ post.venue }}
-  {% if post.collection == 'publications-journals' %}
+  {% if post.collection == 'journals' %}
     journal1
     {% include archive-single.html %}
   {% endif %}
@@ -28,7 +28,7 @@ Publications in Conferences
 
 {% for post in site.publications reversed %}
   conf0
-  {% if post.collection == 'publications-conferences' %}
+  {% if post.collection == 'conferences' %}
     conf1
     {% include archive-single.html %}
   {% endif %}
