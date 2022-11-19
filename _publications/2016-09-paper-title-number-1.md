@@ -3,7 +3,7 @@ title: "Design and Experimental Validation of a USBL Underwater Acoustic Positio
 collection: publications
 permalink: /publication/2016-09-paper-title-number-1
 excerpt: 'This paper presents the steps for developing a low-cost portable navigation tool for underwater scenarios to be used as a localization device for subsea targets.'
-date: 2016-09
+date: 2016-09-01
 venue: 'Sensors'
 type: 'journal'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
