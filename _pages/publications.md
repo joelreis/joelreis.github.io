@@ -16,7 +16,7 @@ Publications in Journals
 
 {% for post in site.publications reversed %}
   journal0
-  {{ post.venue }}
+  {{ post.collection }}
   {% if post.collection == 'journals' %}
     journal1
     {% include archive-single.html %}
