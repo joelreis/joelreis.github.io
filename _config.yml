@@ -178,10 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications-journals:
-    output: true
-    permalink: /:collection/:path/
-  publications-conferences:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -190,7 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
