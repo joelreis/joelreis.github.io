@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joel Oliveira Reis / My personal webpage"
+title                    : "Joel Reis / My webpage"
 title_separator          : "-"
 name                     : &name "Joel Reis"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joel Reis"
-  avatar           : "profile.png"
+  name             : "Joel Oliveira Reis"
+  avatar           : "profile.jpg"
   bio              : 
   location         : "Macau, China"
   employer         :
