@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "List of Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,13 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-
-
 Publications in Journals
 ------
 
 {% for post in site.publications reversed %}
-  {% if post.collection == 'publications' %}
+  {% if post.collection == 'publications-journals' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
