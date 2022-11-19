@@ -16,6 +16,7 @@ Publications in Journals
 
 {% for post in site.publications reversed %}
   {% if post.type == 'journal' %}
+    here
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
