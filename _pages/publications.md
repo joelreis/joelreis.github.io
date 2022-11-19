@@ -19,6 +19,7 @@ Publications in Journals
 {% for post in site.publications reversed %}
   {% if post.collection == 'publications' %}
     {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 Publications in Conferences
@@ -27,4 +28,5 @@ Publications in Conferences
 {% for post in site.publications reversed %}
   {% if post.collection == 'publications-conferences' %}
     {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
