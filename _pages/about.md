@@ -24,7 +24,7 @@ My doctoral dissertation focused primarily on the design of attitude estimation 
 Applications include navigation of submarines or large ships, assisting autonomous robots in precise maneuvers, offshore platform stabilization, etc. 
 
 Experimental setup for validation of attitude estimation algorithms; it consists of an Ideal Aerosmith motion rate table and a KVH 1775 Fiber Optic Gyro Inertial Measurement Unit.
-![AttitudeSetup](/images/mrt-setup.jpg)
+![AttitudeSetup](/images/mrt-setup.JPG)
 
 I am currently a Post-doctoral Fellow at UM, working in the Sensor-based Cooperative Robotics Research (SCORE) laboratory.
 My research interests include estimation and control theory with applications to air, marine surface, and underwater autonomous vehicles.
