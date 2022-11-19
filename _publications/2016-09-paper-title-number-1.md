@@ -13,4 +13,4 @@ This paper presents the steps for developing a low-cost portable navigation tool
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Reis J, Morgado M, Batista P, Oliveira P, Silvestre C. Design and Experimental Validation of a USBL Underwater Acoustic Positioning System. Sensors. 2016; 16(9):1491. https://doi.org/10.3390/s16091491.
+Recommended citation: Reis J, Morgado M, Batista P, Oliveira P, Silvestre C. Design and Experimental Validation of a USBL Underwater Acoustic Positioning System. Sensors. 2016; 16(9):1491. doi:10.3390/s16091491.
