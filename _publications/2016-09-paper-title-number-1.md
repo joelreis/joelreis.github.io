@@ -6,6 +6,7 @@ excerpt: 'This paper presents the steps for developing a low-cost portable navig
 date: 2016-09-01
 venue: 'Sensors'
 type: 'journal'
+authors: [reis,morgado,batista,oliveira,silvestre]
 paperurl: 'https://www.mdpi.com/1424-8220/16/9/1491'
 citation: 'J. Reis, M. Morgado, P. Batista, P. Oliveira, and C. Silvestre, "Design and Experimental Validation of a USBL Underwater Acoustic Positioning System," Sensors, 16(9):1491, Sep. 2016, doi:10.3390/s16091491'
 ---

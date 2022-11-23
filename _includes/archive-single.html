@@ -38,6 +38,16 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+        {%- for author in post.authors -%}
+          {%- assign paperauthor = site.data.authors[author] -%}
+            {%- if author == 'reis' -%}
+              <b>{{ paperauthor.name }}</b>
+            {%- else -%}
+              {{ paperauthor.name }}
+            {%- endif -%}
+          {%- if forloop.last -%}{%- else -%}, {% endif %}
+        {% endfor %}
+
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}

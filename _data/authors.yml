@@ -1,18 +1,46 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+reis:
+  name  : Joel Reis
+  uri   : "http://name.com"
+  email : "joelreis@um.edu.mo"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+batista:
+  name  : Pedro Batista
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+oliveira:
+  name  : Paulo Oliveira
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+silvestre:
+  name  : Carlos Silvestre
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+cabecinhas:
+  name  : David Cabecinhas
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+xiewei:
+  name  : Wei Xie
+  uri   : "http://name.com"
+  email : "weixie@sjtu.edu.cn"
+
+yugan:
+  name  : Gan Yu
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+casau:
+  name  : Pedro Casau
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+morgado:
+  name  : Marco Morgado
+  uri   : "http://name.com"
+  email : "name@name.com"

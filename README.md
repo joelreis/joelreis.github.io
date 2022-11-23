@@ -29,3 +29,16 @@ See more info at https://academicpages.github.io/
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
 To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+
+## Additional steps to run locally on Windows
+
+1. Run `bundle add webrick` on the Git Bash
+1. Run `gem install faraday-retry` on the Git Bash
+1. Add `gem 'faraday-retry'` to your Gemfile if you wish the recompilation to proceed automatically whenever you make a change to one of the project files.
+
+Change your github username to `[metadata]` in the "config.yml" file If you want to get rid of the following warning during jekyll execution
+
+```
+No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+```
+
