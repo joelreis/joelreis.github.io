@@ -6,6 +6,7 @@ excerpt: 'In this article, we tackle the problem of path following control of an
 date: 2022-11-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 type: 'journal'
+number: 11
 authors: [reis, xiewei, cabecinhas, silvestre]
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Reis J, Xie W, Cabecinhas D, Silvestre C. "Nonlinear Backstepping Controller for an Underactuated ASV With Model Parametric Uncertainty: Design and Experimental Validation," in IEEE Transactions on Intelligent Vehicles, 2022, doi:10.1109/TIV.2022.3221739.'

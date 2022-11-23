@@ -6,6 +6,7 @@ excerpt: 'This paper presents a novel filtering technique to estimate the positi
 date: 2018-12-01
 venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 type: 'journal'
+number: 2
 authors: [reis,batista,oliveira,silvestre]
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Reis J, Batista P, Oliveira P, Silvestre C, "Source Localization Based on Acoustic Single Direction Measurements," in IEEE Transactions on Aerospace and Electronic Systems, vol. 54, no. 6, pp. 2837-2852, Dec. 2018, doi: 10.1109/TAES.2018.2831118.'

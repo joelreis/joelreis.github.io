@@ -6,6 +6,7 @@ excerpt: 'This article addresses the problem of simultaneously estimating: 1) th
 date: 2022-03-01
 venue: 'IEEE/ASME Transactions on Mechatronics'
 type: 'journal'
+number: 9
 authors: [reis,batista,oliveira,silvestre]
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Reis J, Batista P, Oliveira P, Silvestre C. "Earth Velocity and Rigid-Body Attitude Estimation on SO(3) Using Biased Measurements," in IEEE/ASME Transactions on Mechatronics, doi: 10.1109/TMECH.2022.3152220.'

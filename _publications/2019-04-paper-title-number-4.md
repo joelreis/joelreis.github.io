@@ -6,6 +6,7 @@ excerpt: 'This article describes an offline calibration methodology, resorting t
 date: 2019-04-01
 venue: 'IEEE Sensors Letters'
 type: 'journal'
+number: 4
 authors: [reis,batista,oliveira,silvestre]
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'J. Reis, P. Batista, P. Oliveira and C. Silvestre, "Calibration of High-Grade Inertial Measurement Units Using a Rate Table," in IEEE Sensors Letters, vol. 3, no. 4, pp. 1-4, April 2019, Art no. 6000704, doi: 10.1109/LSENS.2019.2906569.'
