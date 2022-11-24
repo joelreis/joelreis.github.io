@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-08-paper-title-number-10
 excerpt: 'This paper presents a control solution for the problem of slung load transportation, with simultaneous damping of oscillations, using an underactuated autonomous quadrotor vehicle in the presence of external disturbances.'
 date: 2022-08-01
-venue: 'International Journal of Robust and Nonlinear Control'
+venue: ijrnc
 type: 'journal'
 number: 10
 authors: [reis,yugan,cabecinhas,silvestre]

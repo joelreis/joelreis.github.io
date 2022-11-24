@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-11-paper-title-number-5
 excerpt: 'This paper addresses the problem of attitude estimation using the angular velocity of Earth as a reference vector.'
 date: 2019-11-01
-venue: 'Control Engineering Practice'
+venue: cep
 type: 'journal'
 number: 5
 authors: [reis,batista,oliveira,silvestre]

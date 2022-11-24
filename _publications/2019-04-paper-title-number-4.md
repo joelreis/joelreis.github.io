@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-04-paper-title-number-4
 excerpt: 'This article describes an offline calibration methodology, resorting to a three-axis rate and positioning table, for high-grade inertial measurement units that encompass three sets of triaxial sensors: advanced fiber optic gyroscopes sensitive to the Earth''s rotational velocity; low-noise accelerometers; and integrated magnetometers.'
 date: 2019-04-01
-venue: 'IEEE Sensors Letters'
+venue: sl
 type: 'journal'
 number: 4
 authors: [reis,batista,oliveira,silvestre]

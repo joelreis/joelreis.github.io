@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-12-paper-title-number-2
 excerpt: 'This paper presents a novel filtering technique to estimate the position of a moving target based on discrete-time direction and velocity measurements.'
 date: 2018-12-01
-venue: 'IEEE Transactions on Aerospace and Electronic Systems'
+venue: taes
 type: 'journal'
 number: 2
 authors: [reis,batista,oliveira,silvestre]

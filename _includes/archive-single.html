@@ -12,6 +12,11 @@
   {% assign title = post.title %}
 {% endif %}
 
+<style>
+.bold { font-weight: bold; }
+.red { color: #FF0000; }
+</style>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -52,26 +57,22 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.type == 'journal' %}
-            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% assign venue = site.data.journals[post.venue] %}
+            <p>Published in <i>{{ venue.name }}</i>, 
+            {% if venue.IF %}
+              Impact Factor: <span class="bold red">{{ venue.IF }}</span>
+            {% endif %}</p>
           {% elsif post.type == 'conference' %}
             <p>Published in <i>{{ post.venue }}</i>, {{post.location}}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-    
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %}
 
   </article>
 </div>
 
-<button class="collapsible" id="yaml{{ post.number }}">Cite this.</button>
+<button class="collapsible" id="yaml{{ post.number }}">Cite this paper.</button>
 
 <div class="content" id="yaml{{ post.number }}data" markdown="1">
   <p> {{ post.citation }} </p>

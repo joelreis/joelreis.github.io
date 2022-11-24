@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-paper-title-number-11
 excerpt: 'In this article, we tackle the problem of path following control of an underactuated autonomous surface vehicle in the presence of external disturbances and model parametric uncertainty.'
 date: 2022-11-01
-venue: 'IEEE Transactions on Intelligent Vehicles'
+venue: tiv
 type: 'journal'
 number: 11
 authors: [reis, xiewei, cabecinhas, silvestre]

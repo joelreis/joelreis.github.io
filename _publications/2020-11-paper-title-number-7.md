@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-11-paper-title-number-7
 excerpt: 'This paper addresses the problem of trajectory tracking control of an underactuated surface vessel moving in a two-dimensional space in the presence of unknown disturbances.'
 date: 2020-11-01
-venue: 'Nonlinear Dynamics'
+venue: nody
 type: 'journal'
 number: 7
 authors: [xiewei,reis,cabecinhas,silvestre]

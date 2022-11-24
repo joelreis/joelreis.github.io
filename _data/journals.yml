@@ -1,0 +1,59 @@
+# Journals
+
+automatica:
+  name    : Automatica
+  IF      : 6.150
+  quartile: Q1
+  edition : SCI
+
+tmech:
+  name    : IEEE-ASME Transactions on Mechatronics
+  IF      : 5.867
+  quartile: Q1
+  edition : SCI
+
+cep:
+  name    : Control Engineering Practice
+  IF      : 4.057
+  quartile: Q2
+  edition : SCI
+
+ijrnc:
+  name    : International Journal of Robust and Nonlinear Control
+  IF      : 3.897
+  quartile: Q1
+  edition : SCI
+
+nody:
+  name    : Nonlinear Dynamics
+  IF      : 5.741
+  quartile: Q1
+  edition : SCI
+
+tiv:
+  name    : IEEE Transactions on Intelligent Vehicles
+  IF      : 5.009
+  quartile: Q1
+  edition : SCI
+
+csl:
+  name    : IEEE Control Systems Letters
+  quartile: Q3
+  edition : ESCI
+
+sl:
+  name    : IEEE Sensors Letters
+  quartile: Q3
+  edition : ESCI
+
+sensors:
+  name    : Sensors
+  IF      : 3.847
+  quartile: Q2
+  edition : SCI
+
+taes:
+  name    : IEEE Transactions on Aerospace and Electronic Systems
+  IF      : 3.491
+  quartile: Q1
+  edition : SCI

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-paper-title-number-6
 excerpt: 'This article presents a discrete-time attitude estimation solution based on a cascade of two linear time-varying Kalman filters.'
 date: 2020-02-01
-venue: 'IEEE/ASME Transactions on Mechatronics'
+venue: tmech
 type: 'journal'
 number: 6
 authors: [reis,batista,oliveira,silvestre]

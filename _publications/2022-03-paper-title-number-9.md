@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-03-paper-title-number-9
 excerpt: 'This article addresses the problem of simultaneously estimating: 1) the attitude of a rigid body on the special orthogonal group of order 3; 2) the Earth’s spin vector expressed in body-fixed coordinates; and 3) a pair of time-varying sensor measurement biases.'
 date: 2022-03-01
-venue: 'IEEE/ASME Transactions on Mechatronics'
+venue: tmech
 type: 'journal'
 number: 9
 authors: [reis,batista,oliveira,silvestre]
