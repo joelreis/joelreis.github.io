@@ -60,7 +60,7 @@
             {% assign venue = site.data.journals[post.venue] -%}
             <p>Published in <i>{{ venue.name }}</i> 
             {%- if venue.IF -%}
-              , Impact Factor: <span class="bold red">{{ venue.IF }}</span>, {{ venue.edition }}
+              , Impact Factor: <span class="bold red">{{ venue.IF }}</span>, {{ venue.edition }} {{ venue.quartile }}
             {%- endif -%}</p>
           {% elsif post.type == 'conference' %}
             <p>Published in <i>{{ post.venue }}</i>, {{post.location}}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -72,16 +72,22 @@
   </article>
 </div>
 
+<div class="collapsible-container">
 
- 
-<button class="collapsible" id="citeb{{ post.number }}">Cite this paper.</button>
-<div class="content" id="citeb{{ post.number }}data" markdown="1">
-  <p> {{ post.citation }} </p>
-</div>
+  <details>
+    <summary>Cite this paper</summary>
+    <div>
+      <p> {{ post.citation }} </p>
+    </div>
+  </details>
+  
+  <details>
+    <summary>Bibtex</summary>
+    <div>
+      <p> {{ post.bibtex }} </p>
+    </div>
+  </details>
 
-<button class="collapsible" id="bibtexb{{ post.number }}">Bibtex.</button>
-<div class="content" id="bibtexb{{ post.number }}data" markdown="1">
-  <p> {{ post.bibtex }} </p>
 </div>
 
 
