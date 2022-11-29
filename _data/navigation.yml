@@ -7,7 +7,14 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    sublinks:
+      - title: "Courses"
+        url: /courses/
+      - title: "Books"
+        url: /books/
+      - title: "Software"
+        url: /software/
     
   - title: "Portfolio"
     url: /portfolio/
