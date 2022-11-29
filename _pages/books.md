@@ -1,0 +1,77 @@
+---
+layout: archive
+title: "Books"
+permalink: /books/
+author_profile: true
+---
+
+We know it's not an easy task to condense all relevant knowledge into a couple of bibliographical references.
+Content and methodologies vary greatly from field to field.
+Below are the books that I've personally grown accustomed to always recommending to new students who work with me.
+They contain the essentials, but students are still encouraged to explore other (more advanced and specific) materials on their own. 
+
+---
+
+Control Theory
+======
+
+> * **Nonlinear Systems**, by Hassan K. Khalil
+
+| <img src="/images/khalil.jpg" width="200px">| *For a first-year graduate-level course on nonlinear systems. It may also be used for self-study or reference by engineers and applied mathematicians. The text is written to build the level of mathematical sophistication from chapter to chapter.It has been reorganized into four parts: Basic analysis, Analysis of feedback systems, Advanced analysis, and Nonlinear feedback control.* |
+
+
+> * **Applied Nonlinear Control**, by Jean-Jacques E. Slotine & Weiping Li
+
+| <img src="/images/slotine.jpg" width="200px">| *Covers in a progressive fashion a number of analysis tools and design techniques directly applicable to nonlinear control problems in high performance systems (in aerospace, robotics and automotive areas).* |
+
+
+> * **Modern Control Engineering**, by Katsuhiko Ogata
+
+| <img src="/images/katsuhiko.jpg" width="200px">| *For senior or graduate-level students taking a first course in Control Theory (in departments of Mechanical, Electrical, Aerospace, and Chemical Engineering). A comprehensive, senior-level textbook for control engineering. Ogata’s Modern Control Engineering, 5/e, offers the comprehensive coverage of continuous-time control systems that all senior students must have, including frequency response approach, root-locus approach, and state-space approach to analysis and design of control systems. The text provides a gradual development of control theory, shows how to solve all computational problems with MATLAB, and avoids highly mathematical arguments. A wealth of examples and worked problems are featured throughout the text.* |
+
+
+---
+
+Linear Systems
+======
+
+> * **Linear System Theory**, by Wilson J. Rugh
+
+| <img src="/images/rugh.jpg" width="200px">| *Appropriate for beginning graduate level courses on linear systems, graduate courses introducing linear control, and for self-study. The basic theory of linear systems is developed in a unified, accessible, and careful manner, with parallel, independent treatment of continuous-time and discrete-time linear systems. Modest mathematical background is assumed, and the technical presentation is explicit and step-by-step. There are many examples to help the reader, and carefully chosen exercises. Includes extensive, annotated citations. The presentation has been repeatedly class tested and refined.* |
+
+
+> * **Linear Systems Theory**, by João P. Hespanha
+
+| <img src="/images/hespanha.jpg" width="200px">| *The textbook presents only the most essential mathematical derivations and places comments, discussion, and terminology in sidebars so that readers can follow the core material easily and without distraction. Annotated proofs with sidebars explain the techniques of proof construction, including contradiction, contraposition, cycles of implications to prove equivalence, and the difference between necessity and sufficiency. Annotated theoretical developments also use sidebars to discuss relevant commands available in MATLAB, allowing students to understand these tools. This second edition contains a large number of new practice exercises with solutions. Based on typical problems, these exercises guide students to succinct and precise answers, helping to clarify issues and consolidate knowledge. The book's balanced chapters can each be covered in approximately two hours of lecture time, simplifying course planning and student review.* |
+
+---
+
+Estimation Theory
+======
+
+> * **Stochastic Processes and Filtering Theory**, by Andrew H. Jazwinski
+
+| <img src="/images/jazwinski.jpg" width="200px">| *This unified treatment of linear and nonlinear filtering theory presents material previously available only in journals, and in terms accessible to engineering students. Its sole prerequisites are advanced calculus, the theory of ordinary differential equations, and matrix analysis. Although theory is emphasized, the text discusses numerous practical applications as well. Taking the state-space approach to filtering, this text models dynamical systems by finite-dimensional Markov processes, outputs of stochastic difference, and differential equations. Starting with background material on probability theory and stochastic processes, the author introduces and defines the problems of filtering, prediction, and smoothing. He presents the mathematical solutions to nonlinear filtering problems, and he specializes the nonlinear theory to linear problems. The final chapters deal with applications, addressing the development of approximate nonlinear filters, and presenting a critical analysis of their performance.* |
+
+
+> * **Optimal State Estimation**, by Dan Simon
+
+| <img src="/images/simon.jpg" width="200px">| *A bottom-up approach that enables readers to master and apply the latest techniques in state estimation. This book offers the best mathematical approaches to estimating the state of a general system. The author presents state estimation theory clearly and rigorously, providing the right amount of advanced material, recent research results, and references to enable the reader to apply state estimation techniques confidently across a variety of fields in science and engineering.While there are other textbooks that treat state estimation, this one offers special features and a unique perspective and pedagogical approach that speed learning.* |
+
+---
+
+Signal Processing
+======
+
+> * **Discrete-time Signal Processing**, by Alan V. Oppenheim & Ronald W. Schafer
+
+| <img src="/images/oppenheim.jpg" width="200px">| *For senior/graduate-level courses in Discrete-Time Signal Processing. The definitive, authoritative text on DSP — ideal for those with an introductory-level knowledge of signals and systems. Written by prominent DSP pioneers, it provides thorough treatment of the fundamental theorems and properties of discrete-time linear systems, filtering, sampling, and discrete-time Fourier Analysis. By focusing on the general and universal concepts in discrete-time signal processing, it remains vital and relevant to the new challenges arising in the field.* |
+
+---
+
+Robotics
+======
+
+> * **Introduction to Robotics**, by John J. Craig
+
+| <img src="/images/craig.jpg" width="200px">| *Introduction to Robotics by John J. Craig provides readers with real-world practicality with underlying theory presented. With one half of the material from traditional mechanical engineering material, one fourth control theoretical material, and one fourth computer science, the book covers rigid-body transformations, forward and inverse positional kinematics, velocities and Jacobians of linkages, dynamics, linear control, non-linear control, force control methodologies, mechanical design aspects and programming of robots. For engineers.* |
