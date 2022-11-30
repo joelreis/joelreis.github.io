@@ -16,15 +16,17 @@ I'm from Fátima, Portugal, living in Macau, China, since 2014.
 
 In 2013, I graduated from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), Lisbon, with a master's degree in Aerospace Engineering (Avionics major).
 During my master's thesis, I worked on the development of an ultra-short baseline (USBL) acoustic positioning system (see photo below).
-This type of system, similar to a constellation of radionavigation satellites, enables accurate localization and navigation of underwater vehicles in challenging environments.
+This type of system, similar to a constellation of radio-navigation satellites, enables accurate localization and navigation of underwater vehicles in challenging environments.
 It's an extremely demanding (but rewarding) area of robotics engineering, with many innovative and exciting developments in the horizon!
 
 **Final inverted USBL receiver prototype ready for tests at Doca de Belém, Lisbon**
 ![USBL Receiver](/images/usbl.jpg)
 
 Afterwards, I pursued a PhD degree at the University of Macau (UM), under the guidance of [Prof. Carlos Silvestre](https://www.google.com/url?q=https%3A%2F%2Fwww.fst.um.edu.mo%2Fpersonal%2Fcsilvestre%2F&sa=D), [Prof. Pedro Batista](https://www.google.com/url?q=https%3A%2F%2Fpbatista.weebly.com%2F&sa=D) and [Prof. Paulo Oliveira](https://www.google.com/url?q=http%3A%2F%2Fwww.dem.ist.utl.pt%2Fpoliveira%2F&sa=D).
-My doctoral dissertation focused primarily on the design of attitude estimation techniques that take into account the rotation of the planet.
-Applications include navigation of submarines or large ships, assisting autonomous robots in precise maneuvers, offshore platform stabilization, etc. 
+My doctoral dissertation focused primarily on the design of attitude estimation techniques that take into account the rotation of the planet!
+This is possible thanks to a class of high-grade rate gyros (devices that measure how fast an object rotates) that are extremely sensitive.
+Applications are aplenty and they come with many benefits.
+Examples of applications are navigation of submarines or large ships, assisting autonomous robots in precise maneuvers, or offshore platform stabilization. 
 
 **Experimental setup for validation of attitude estimation algorithms: Ideal Aerosmith motion rate table + KVH 1775 Fiber Optic Gyro Inertial Measurement Unit**
 ![AttitudeSetup](/images/mrt-setup.JPG)

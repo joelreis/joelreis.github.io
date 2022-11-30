@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joel Reis / My webpage"
+title                    : "Joel Reis / About me"
 title_separator          : "-"
 name                     : &name "Joel Reis"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : 
   location         : "Macau, China"
-  employer         :
+  employer         : "University of Macau"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QIi3y4wAAAAJ"
   email            :
