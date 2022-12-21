@@ -15,7 +15,10 @@ bibtex: '@ARTICLE{Reis2022-zs,<br />
   author    = "Reis, Joel and Batista, Pedro and Oliveira, Paulo and Silvestre, Carlos",<br />
   journal   = "IEEE ASME Trans. Mechatron.",<br />
   publisher = "Institute of Electrical and Electronics Engineers (IEEE)",<br />
-  pages     = "1--12",<br />
+  volume    =  27,<br />
+  number    =  6,<br />
+  pages     = "4246--4257",<br />
+  month     = dec,<br />
   year      =  2022}'
 ---
 This article addresses the problem of simultaneously estimating: 1) the attitude of a rigid body on the special orthogonal group of order 3; 2) the Earth’s spin vector expressed in body-fixed coordinates; and 3) a pair of time-varying sensor measurement biases.
