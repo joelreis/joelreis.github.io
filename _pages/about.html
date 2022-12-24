@@ -1,0 +1,135 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<style>
+
+* {box-sizing: border-box}
+
+/* Container needed to position the overlay. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 100%;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+/* Make the image to responsive */
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The overlay effect - lays on top of the container and over the image */
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+/* When you mouse over the container, fade in the overlay title */
+.container:hover .overlay {
+  opacity: 1;
+}
+
+h1 {
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-bottom: solid 5px #e1e1e1;
+}
+
+.colorgradlink a{
+  color: inherit;
+  text-decoration: none;
+}
+
+.colorgradlink a {
+  background:
+    linear-gradient(
+      to right,
+      rgba(100, 200, 200, 1),
+      rgba(100, 200, 200, 1)
+    ),
+    linear-gradient(
+      to right,
+      rgba(46, 170, 250, 1),
+      rgba(31, 47, 152, 1)
+  );
+  background-size: 100% 3px, 0 3px;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
+.colorgradlink a:hover {
+  background-size: 0 3px, 100% 3px;
+}
+
+.blur img{
+  transition: 1s ease;
+}
+
+.blur img:hover {
+  -webkit-filter: blur(5px);
+  transition: 1s ease;
+}
+
+</style>
+
+<body>
+
+<p>Hello there!</p>
+<p>My name is Joel Oliveira Reis.</p>
+<p>I'm from Fátima, Portugal, living in Macau, China, since 2014.</p>
+<p>In 2013, I graduated from <span class="colorgradlink"><a href="https://tecnico.ulisboa.pt/en/" target="_blank">Instituto Superior Técnico</a></span>, Lisbon, with a master's degree in Aerospace Engineering (Avionics major).</p>
+<p>During my master's thesis, I worked on the development of an ultra-short baseline (USBL) acoustic positioning system (see photo below).</p>
+<p>This type of system, similar to a constellation of radio-navigation satellites, enables accurate localization and navigation of underwater vehicles in challenging environments.</p>
+<p>It's an extremely demanding (but rewarding) area of robotics engineering, with many innovative and exciting developments in the horizon!</p>
+
+<div class="container">
+<div class="blur">
+  <img src="/images/usbl.jpg" style="border-radius:50px;">
+  <div class="overlay">Final inverted USBL receiver prototype ready for tests at Doca de Belém, Lisbon</div>
+</div>
+</div>
+
+<p>Afterwards, I pursued a PhD degree at the University of Macau (UM), under the guidance of <span class="colorgradlink"><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.fst.um.edu.mo%2Fpersonal%2Fcsilvestre%2F&sa=D" target="_blank">Professor Carlos Silvestre</a></span>, <span class="colorgradlink"><a href="https://www.google.com/url?q=https%3A%2F%2Fpbatista.weebly.com%2F&sa=D" target="_blank">Professor Pedro Batista</a></span> and <span class="colorgradlink"><a href="https://www.google.com/url?q=http%3A%2F%2Fwww.dem.ist.utl.pt%2Fpoliveira%2F&sa=D" target="_blank">Professor Paulo Oliveira</a></span>.</p>
+<p>My doctoral dissertation focused primarily on the design of attitude estimation techniques that take into account the rotation of the planet!</p>
+<p>This is possible thanks to a class of high-grade rate gyros (devices that measure how fast an object rotates) that are extremely sensitive.</p>
+<p>Applications are aplenty and they come with many benefits.</p>
+<p>Examples of applications are navigation of submarines or large ships, assisting autonomous robots in precise maneuvers, or offshore platform stabilization.</p>
+
+<div class="container">
+<div class="blur">
+  <img src="/images/mrt-setup.JPG" style="border-radius:50px;">
+  <div class="overlay">Experimental setup for validation of attitude estimation algorithms: Ideal Aerosmith motion rate table + KVH 1775 Fiber Optic Gyro Inertial Measurement Unit</div>
+</div>
+</div>
+
+<p>I am currently a Post-doctoral Fellow at UM, working in the Sensor-based Cooperative Robotics Research (SCORE) laboratory.</p>
+<p>My research interests include estimation and control theory with applications to air, marine surface, and underwater autonomous vehicles.</p>
+
+<header>
+  <h1>Reading</h1>
+</header>
+If, like me, you enjoy reading, have a look at my <span class="colorgradlink"><a href="https://www.goodreads.com/user/show/20214521-joel" target="_blank">Goodreads</a></span> ratings (and a few reviews).
+</body>
