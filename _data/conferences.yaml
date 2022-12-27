@@ -1,0 +1,17 @@
+# Conferences
+
+icra:
+  name     : International Conference on Robotics and Automation
+  publisher: IEEE
+
+cdc:
+  name     : Conference on Decision and Control
+  publisher: IEEE
+
+ccta:
+  name     : Conference on Control Technology and Applications
+  publisher: IEEE
+
+acc:
+  name     : American Control Conference
+  publisher: IEEE

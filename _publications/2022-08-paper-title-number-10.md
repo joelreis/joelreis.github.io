@@ -8,7 +8,7 @@ venue: ijrnc
 type: 'journal'
 number: 10
 authors: [reis,yugan,cabecinhas,silvestre]
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.researchgate.net/publication/361982862_High_performance_quadrotor_slung_load_transportation_with_damped_oscillations'
 citation: 'Joel Reis, Gan Yu, David Cabecinhas, Carlos Silvestre, "High-performance quadrotor slung load transportation with damped oscillations," Int J Robust Nonlinear Control, 1-30, Aug. 2022, doi:10.1002/rnc.6306'
 bibtex: '@ARTICLE{Reis2022-in,<br />
   title     = "High‐performance quadrotor slung load transportation with damped oscillations",<br />
@@ -18,8 +18,9 @@ bibtex: '@ARTICLE{Reis2022-in,<br />
   month     =  aug,<br />
   year      =  2022}'
 ---
-This paper presents a control solution for the problem of slung load transportation, with simultaneous damping of oscillations, using an underactuated autonomous quadrotor vehicle in the presence of external disturbances.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Reis J, Yu G, Cabecinhas D, Silvestre C. High-performance quadrotor slung load transportation with damped oscillations. Int J Robust Nonlinear Control. 2022; 1-30. doi:10.1002/rnc.6306
+**Abstract**
+---
+This paper presents a control solution for the problem of slung load transportation , with simultaneous damping of oscillations, using an underactuated autonomous quadrotor vehicle in the presence of external disturbances.
+The strategy put forward is divided into two parts: i) resorting to an error definition that encompasses the pen-dular motion of the suspended load, a controller inspired in sliding-mode theory is developed to compute a vectored thrust actuation that actively damps out the system's oscillations; ii) two different approaches are illustrated for the stage of attitude tracking: one stemming from the conventional backstepping technique, which controls the vehicle in angular velocity commands; and another, also based on sliding-mode theory, and built intrinsically in (3), that produces torque commands.
+The overall control scheme is proved to be robust and stable, with the load oscillations shown to be damped out in the process.
+Simulation and experimental results are presented in a trajectory tracking scenario to validate and assess the robustness and efficiency of the proposed technique.
