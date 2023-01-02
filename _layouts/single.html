@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 {% include base_path %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -43,7 +48,9 @@ layout: default
             {% assign venue = site.data.conferences[page.venue] -%}
           {% endif %}
           <p>Published in <i>{{ venue.publisher }} {{ venue.name }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-          <p>Location: {{ page.location }}</p>
+          {% if page.type == 'conference' %}
+            <p>Location: {{ page.location }}</p>
+          {% endif %}
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}

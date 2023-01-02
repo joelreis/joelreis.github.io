@@ -9,7 +9,7 @@ type: 'journal'
 number: 10
 authors: [reis,yugan,cabecinhas,silvestre]
 paperurl: 'https://www.researchgate.net/publication/361982862_High_performance_quadrotor_slung_load_transportation_with_damped_oscillations'
-citation: 'Joel Reis, Gan Yu, David Cabecinhas, Carlos Silvestre, "High-performance quadrotor slung load transportation with damped oscillations," Int J Robust Nonlinear Control, 1-30, Aug. 2022, doi:10.1002/rnc.6306'
+citation: 'Joel Reis, Gan Yu, David Cabecinhas and Carlos Silvestre, "High-performance quadrotor slung load transportation with damped oscillations," Int J Robust Nonlinear Control, 1-30, Aug. 2022, doi:10.1002/rnc.6306'
 bibtex: '@ARTICLE{Reis2022-in,<br />
   title     = "High‐performance quadrotor slung load transportation with damped oscillations",<br />
   author    = "Reis, Joel and Yu, Gan and Cabecinhas, David and Silvestre, Carlos",<br />

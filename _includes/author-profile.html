@@ -23,7 +23,7 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><img src="{{ author.flag | prepend: "/images/" | prepend: base_path }}" style="width:7.88px;height: 10.5px; margin-left:2.81px; margin-right:2.81px;"> {{ author.location }}</li>
+        <li><img src="{{ author.flag | prepend: "/images/" | prepend: base_path }}" style="width:14px; margin-left:0px; margin-right:0px;"> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

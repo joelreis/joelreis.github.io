@@ -8,7 +8,7 @@ venue: csl
 type: 'journal'
 number: 3
 authors: [reis,batista,oliveira,silvestre]
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://www.researchgate.net/publication/329637470_Nonlinear_Observer_on_SO3_for_Attitude_Estimation_on_Rotating_Earth_Using_Single_Vector_Measurements'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Nonlinear Observer on SO(3) for Attitude Estimation on Rotating Earth Using Single Vector Measurements," IEEE Control Systems Letters, vol. 3, no. 2, pp. 392-397, April 2019, doi:10.1109/LCSYS.2018.2886740.'
 bibtex: '@ARTICLE{Reis2019-gg,<br />
   title     = "Nonlinear observer on {SO(3}) for attitude estimation on rotating earth using single vector measurements",<br />
@@ -21,8 +21,9 @@ bibtex: '@ARTICLE{Reis2019-gg,<br />
   month     =  apr,<br />
   year      =  2019}'
 ---
-This letter presents a novel attitude estimation solution, built on SO(3) , that resorts to single measurements of a constant inertial vector, in addition to angular velocity readings provided by a set of three high-grade fiber optic rate gyros, which are assumed to be sensitive to the angular motion of the Earth.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Reis J, Batista P, Oliveira P, Silvestre C, "Nonlinear Observer on SO(3) for Attitude Estimation on Rotating Earth Using Single Vector Measurements," in IEEE Control Systems Letters, vol. 3, no. 2, pp. 392-397, April 2019, doi: 10.1109/LCSYS.2018.2886740.
+**Abstract**
+---
+This letter presents a novel attitude estimation solution, built on $$SO(3)$$, that resorts to single measurements of a constant inertial vector, in addition to angular velocity readings provided by a set of three high-grade fiber optic rate gyros, which are assumed to be sensitive to the angular motion of the Earth.
+This approach contrasts with typical attitude solutions that require either a single but time-varying inertial vector, or measurements of two non-collinear inertial vectors.
+The designed nonlinear observer features only one tuning scalar parameter that, in view of the region of convergence of the rotation matrix error, is shown to render the proposed solution almost globally asymptotically stable.
+Extensive simulation results with realistic noise, including Monte Carlo, are presented that allow to assess the achievable performance.

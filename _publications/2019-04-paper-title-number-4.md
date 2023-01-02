@@ -8,7 +8,7 @@ venue: sl
 type: 'journal'
 number: 4
 authors: [reis,batista,oliveira,silvestre]
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.researchgate.net/publication/332054740_Calibration_of_High-Grade_Inertial_Measurement_Units_Using_a_Rate_Table'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Calibration of High-Grade Inertial Measurement Units Using a Rate Table," IEEE Sensors Letters, vol. 3, no. 4, pp. 1-4, April 2019, Art no. 6000704, doi:10.1109/LSENS.2019.2906569.'
 bibtex: '@ARTICLE{Reis2019-el,<br />
   title     = "Calibration of high-grade inertial measurement units using a rate table",<br />
@@ -21,8 +21,8 @@ bibtex: '@ARTICLE{Reis2019-el,<br />
   month     =  apr,<br />
   year      =  2019}'
 ---
-This article describes an offline calibration methodology, resorting to a three-axis rate and positioning table, for high-grade inertial measurement units that encompass three sets of triaxial sensors: advanced fiber optic gyroscopes sensitive to the Earth's rotational velocity; low-noise accelerometers; and integrated magnetometers.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: J. Reis, P. Batista, P. Oliveira and C. Silvestre, "Calibration of High-Grade Inertial Measurement Units Using a Rate Table," in IEEE Sensors Letters, vol. 3, no. 4, pp. 1-4, April 2019, Art no. 6000704, doi: 10.1109/LSENS.2019.2906569.
+**Abstract**
+---
+This letter describes an offline calibration methodology, resorting to a three-axis rate and positioning table, for high-grade inertial measurement units that encompass three sets of tri-axial sensors: advanced fiber optic gyroscopes sensitive to the Earth's rotational velocity; low-noise accelerometers; and, integrated magnetometers.
+The calibration routine, which is similar for all sensory devices, yields three constant parameters: a correction matrix; a bias vector; and, a reference vector related to a known inertial quantity.
+Experimental results are presented, featuring the calibration of both high-grade rate gyros and accelerometers, that allow to verify the effectiveness of the proposed method.

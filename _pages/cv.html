@@ -1,0 +1,219 @@
+---
+layout: archive
+title: "Curriculum Vitae"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+<style>
+.container {
+  display: flex;
+  /*justify-content: left;*/
+  padding-right: 20px;
+}
+
+h1 {
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-bottom: solid 5px #e1e1e1;
+}
+
+h2 {
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-bottom: solid 2px #3792cb;
+}
+
+.colored_list {
+  list-style: none;
+}
+
+.colored_list li{
+   padding-left: 10px;
+}
+
+.colored_list li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: blue; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+  position: absolute;
+}
+
+
+.colored_list2 {
+  list-style: none;
+  
+}
+
+.colored_list2 li{
+  padding-left: 20px;
+}
+
+.colored_list2 li::before {
+  content: "\2023";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: orangered; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+  position: absolute;
+}
+
+.cvbtn {
+  background-color: #2993FC;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+/* Darker background on mouse-over */
+.cvbtn:hover {
+  background-color: #446DDE;
+}
+
+</style>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<br>
+  <a href="/files/cv.pdf">
+    <button class="cvbtn"><i class="fa fa-download"></i> Download my CV</button>
+  </a>
+<br>
+
+<body>
+<div>
+  <h1><i class="fas fa-graduation-cap" style="color:#2993FC" aria-hidden="true"></i> Education</h1>
+</div>
+<div class="container">
+  <ul class="colored_list">
+    <li>B.S. in Aerospace Engineering, Instituto Superior Técnico, Lisbon, 2011</li>
+    <li>M.S. in Aerospace Engineering, Instituto Superior Técnico, Lisbon, 2013</li>
+    <li>Ph.D in Electrical and Computer Engineering, University of Macau, 2019</li>
+  </ul>
+</div>
+<div>
+  <h1><i class="fas fa-award" style="color:#2993FC" aria-hidden="true"></i> Awards</h1>
+</div>
+<div class=container>
+<ul class="colored_list">
+  <li>2022 FDCT Funding Scheme for Postdoctoral Researchers of Higher Education Institutions
+    <ul class="colored_list2">
+      <li>Macau, China</li>
+      <li>Awarded a post-doctoral fellowship for a period of 24 months</li>
+    </ul>
+  </li>
+  <li>2020 First Zhuhai Wanshan International Intelligent Vessel Competition
+    <ul class="colored_list2">
+      <li>Zhuhai, China</li>
+      <li>Winner of Sailing Race Project - Development of a path following controller for an unmanned surface vessel</li>
+    </ul>
+  </li>
+  <li>2020 Macau Science and Technology Development Fund (FDCT)</a>
+    <ul class="colored_list2">
+      <li>Macau, China</li>
+      <li>Recipient of Scientific and Technological R&D Award for Postgraduates</li>
+    </ul>
+  </li>
+</ul>
+</div>
+<div>
+  <h1><i class="fas fa-toolbox" style="color:#2993FC" aria-hidden="true"></i> Work experience</h1>
+</div>
+<ul class="colored_list">
+  <li>2022–2024 University of Macau: Post-doctoral Fellow
+    <ul class="colored_list2">
+      <li>Funded by the FDCT Funding Scheme for Postdoctoral Researchers of Higher Education Institutions of the UM
+Macao Talent Programme</li>
+      <li>Period of two years dedicated to the practical development and testing of prototypes for autonomous aerial
+and underwater vehicles</li>
+    </ul>
+  </li>
+  <li>2019–2021 Faculty of Science and Technology, University of Macau: Research Assistant
+    <ul class="colored_list2">
+      <li>Involved in UM Funded projects STEALTH (STate EstimAtion in Large neTworks with Heterogenous agents) and SECANTS (Self-triggered and Event-triggered Control of Autonomous NeTworked Systems, and in FDCT funded project SLOTMAV (Slung Load Transportation by Multiple Aerial Vehicles)</li>
+    </ul>
+  </li>
+  <li>2012–2014 Institute for Systems and Robotics, Lisbon: Fellow Researcher
+    <ul class="colored_list2">
+      <li>Worked in the Project MAST/AM: Advanced Tracking and Telemetry Methodologies to Study Marine Animals, which was funded by FCT —Fundação para a Ciência e Tecnologia. Main work consisted in programming a Digital Signal Processor C6713 from Texas Instruments that served as the backbone of an ultra-short baseline acoustic positioning system</li>
+    </ul>
+  </li>
+</ul>
+<div>
+  <h1><i class="fas fa-wrench" style="color:#2993FC" aria-hidden="true"></i> Skills</h1>
+</div>
+<div class="container">
+<ul class="colored_list">
+  <li>Matlab</li>
+  <li>Python, C/C++</li>
+  <li>ROS</li>
+  <li>Git</li>
+  <li>Linux, macOS, Windows</li>
+  <li>SolidWorks</li>
+  <li>LaTeX</li>
+</ul>
+</div>
+<div>
+  <h1><i class="fas fa-highlighter" style="color:#2993FC" aria-hidden="true"></i> Professional Service</h1>
+</div>
+<div class="container">
+<ul class="colored_list">
+  <li>Journal Reviewer
+    <ul class="colored_list2">
+      <li>IEEE Transactions on Automatic Control</li>
+      <li>IEEE Transactions on Cybernetics</li>
+      <li>IEEE Transactions on Systems, Man, and Cybernetics</li>
+      <li>IEEE/ASME Transactions on Mechatronics</li>
+      <li>IEEE Transactions on Aerospace and Electronic Systems</li>
+      <li>IEEE Transactions on Cognitive and Developmental Systems</li>
+      <li>IEEE Sensors Journal</li>
+      <li>IEEE Transactions on Instrumentation and Measurement</li>
+      <li>Automatica</li>
+      <li>Asian Journal of Control</li>
+      <li>The International Journal of Robotic Research</li>
+      <li>Ocean Engineering</li>
+    </ul>
+  </li>
+  <li>Conference Reviewer
+    <ul class="colored_list2">
+      <li>IEEE Conference on Decision and Control (CDC)</li>
+      <li>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</li>
+      <li>The International Conference on Unmanned Aircraft Systems (ICUAS)</li>
+    </ul>
+</ul>
+</div>
+<div>
+  <h1><i class="fas fa-edit" style="color:#2993FC" aria-hidden="true"></i> Publications</h1>
+</div>
+  <div>
+    <h2>in Journals</h2>
+  </div>
+  {% for post in site.publications reversed %}
+    {% if post.type == 'journal' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+  <div>
+    <h2>in Conferences</h2>
+  </div>
+  {% for post in site.publications reversed %}
+    {% if post.type == 'conference' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+</body>
+  

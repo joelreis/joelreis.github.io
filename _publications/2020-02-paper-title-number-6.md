@@ -8,8 +8,8 @@ venue: tmech
 type: 'journal'
 number: 6
 authors: [reis,batista,oliveira,silvestre]
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Joel Reis, Pedro Batista, Paulo Oliveira, Carlos Silvestre, "Kalman Filter Cascade for Attitude Estimation on Rotating Earth," IEEE-ASME Transactions on Mechatronics, vol. 25, no. 1, pp. 327-338, Feb. 2020, doi:10.1109/TMECH.2019.2959080.'
+paperurl: 'https://www.researchgate.net/publication/339351489_Kalman_Filter_Cascade_for_Attitude_Estimation_on_Rotating_Earth'
+citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Kalman Filter Cascade for Attitude Estimation on Rotating Earth," IEEE-ASME Transactions on Mechatronics, vol. 25, no. 1, pp. 327-338, Feb. 2020, doi:10.1109/TMECH.2019.2959080.'
 bibtex: '@ARTICLE{Reis2020-no,<br />
   title     = "Kalman filter cascade for attitude estimation on rotating earth",<br />
   author    = "Reis, Joel and Batista, Pedro and Oliveira, Paulo and Silvestre, Carlos",<br />
@@ -21,8 +21,12 @@ bibtex: '@ARTICLE{Reis2020-no,<br />
   month     =  feb,<br />
   year      =  2020}'
 ---
-This article presents a discrete-time attitude estimation solution based on a cascade of two linear time-varying Kalman filters.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Reis J, Batista P, Oliveira P, Silvestre C, "Kalman Filter Cascade for Attitude Estimation on Rotating Earth," in IEEE/ASME Transactions on Mechatronics, vol. 25, no. 1, pp. 327-338, Feb. 2020, doi: 10.1109/TMECH.2019.2959080.
+**Abstract**
+---
+This paper presents a discrete-time attitude estimation solution based on a cascade of two linear time-varying Kalman filters (KFs).
+Under mild assumptions, the cascade's first KF resorts to body-fixed measurements of angular velocity and of a constant inertial vector to yield an estimate of Earth's angular velocity.
+The latter, in addition to all previous measurements, is fed to the second KF to obtain an estimate of the rotation matrix.
+Although topological constructions are lifted, a last-step projection operator is employed that maps the final rotation matrix estimate onto SO(3).
+Briefly, two linear time-varying systems are designed, with no linearisations whatsoever, that are shown to be uniformly completely observable, thus rendering the overall solution globally exponentially stable.
+Simulation results are presented that allow to assess the performance of the cascaded KF duo.
+A set of experimental results is also presented that validates the efficiency of the proposed solution and deems it a suitable attitude estimation choice for applications where only one body-vector measurement is available.
