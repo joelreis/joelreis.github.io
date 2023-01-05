@@ -66,7 +66,9 @@ layout: default
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
         
+        {% if page.citation and page.paperurl %}
         <img class="softwareicon" style="--neoncolor: #CD252F;" src="/images/pdficon.png" onclick="window.open('{{ page.paperurl }}', '_blank');">
+        {% endif %}
     
         </header>
       {% endunless %}
