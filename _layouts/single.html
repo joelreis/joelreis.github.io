@@ -56,15 +56,17 @@ layout: default
         {% endif %}
         
         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p><b>Recommended citation:</b> {{ page.citation }} </p>
           {% if page.type == 'journal' %}
-            <p><a href="{{ page.paperurl }}"><u>Download PDF here.</u></a></p>
+            <p> <b>Download journal pdf:</b></p>
           {% elsif page.type == 'conference' %}
-            <p><a href="{{ page.paperurl }}"><u>Link to publisher.</u></a></p>
+            <p> <b>Download conference pdf:</b></p>
           {% endif %}
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
+        
+        <img class="softwareicon" style="--neoncolor: #CD252F;" src="/images/pdficon.png" onclick="window.open('{{ page.paperurl }}', '_blank');">
     
         </header>
       {% endunless %}
@@ -85,6 +87,7 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
+    
 
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}

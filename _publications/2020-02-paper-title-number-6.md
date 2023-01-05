@@ -8,7 +8,7 @@ venue: tmech
 type: 'journal'
 number: 6
 authors: [reis,batista,oliveira,silvestre]
-paperurl: 'https://www.researchgate.net/publication/339351489_Kalman_Filter_Cascade_for_Attitude_Estimation_on_Rotating_Earth'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2020_TMECH_Kalman_Filter_Cascade_for_Attitude_Estimation_on_Rotating_Earth.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Kalman Filter Cascade for Attitude Estimation on Rotating Earth," IEEE-ASME Transactions on Mechatronics, vol. 25, no. 1, pp. 327-338, Feb. 2020, doi:10.1109/TMECH.2019.2959080.'
 bibtex: '@ARTICLE{Reis2020-no,<br />
   title     = "Kalman filter cascade for attitude estimation on rotating earth",<br />

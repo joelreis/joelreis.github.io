@@ -60,8 +60,8 @@
             {% assign venue = site.data.journals[post.venue] -%}
             <p>Published in <i>{{ venue.name }}</i> 
             {%- if venue.IF -%}
-              , Impact Factor: <span class="bold red">{{ venue.IF }}</span>, {{ venue.edition }} {{ venue.quartile }}
-            {%- endif -%}</p>
+              , Impact Factor: <span class="bold red">{{ venue.IF }}</span>, {{ venue.edition }} {{ venue.quartile }}  
+            {%- endif -%} </p>
           {% elsif post.type == 'conference' %}
             {% assign venue = site.data.conferences[post.venue] -%}
             <p>Published in <i>{{ venue.name }}</i>, {{post.location}}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -69,10 +69,8 @@
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-
   </article>
 </div>
-
 <div class="collapsible-container">
 
   <details>

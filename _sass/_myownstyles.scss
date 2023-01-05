@@ -29,3 +29,26 @@
   background-size: 0 3px, 100% 3px;
 }
 
+.softwareicon {
+  margin: 5px;
+  width: 180px;
+  text-align: center;
+  transition: background-color 0.15s;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  object-position: center;
+  cursor:pointer;
+  cursor:hand;
+  border:0;
+  background: transparent;
+}
+
+.softwareicon:hover {
+    
+    filter: drop-shadow(0px 0px 30px var(--neoncolor));
+    width:100px;
+    height:100px;
+}
+
+

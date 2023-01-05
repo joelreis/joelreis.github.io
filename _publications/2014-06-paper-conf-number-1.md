@@ -9,7 +9,7 @@ location: Hong Kong, China
 type: 'conference'
 number: 1
 authors: [reis,oliveira,batista,silvestre]
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/6907285'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2014_ICRA_Filter_design_for_localization_aided_by_direction_and_Doppler_measurements.pdf'
 citation: 'Joel Reis, Paulo Oliveira, Pedro Batista and Carlos Silvestre, "Filter design for localization aided by direction and Doppler measurements," 2014 IEEE International Conference on Robotics and Automation (ICRA), 2014, pp. 2957-2962, doi: 10.1109/ICRA.2014.6907285.'
 bibtex: '@INPROCEEDINGS{6907285,<br />
   author={Reis, Joel and Oliveira, Paulo and Batista, Pedro and Silvestre, Carlos},<br />

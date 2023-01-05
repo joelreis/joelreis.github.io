@@ -8,7 +8,7 @@ venue: sensors
 type: 'journal'
 number: 1
 authors: [reis,morgado,batista,oliveira,silvestre]
-paperurl: 'https://www.researchgate.net/publication/308399792_Design_and_Experimental_Validation_of_a_USBL_Underwater_Acoustic_Positioning_System#fullTextFileContent'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2016_SENSORS_Design_and_Experimental_Validation_of_a_USBL_Underwater_Acoustic_Positioning_System.pdf'
 citation: 'Joel Reis, Marco Morgado, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Design and Experimental Validation of a USBL Underwater Acoustic Positioning System," Sensors, 16(9):1491, Sep. 2016, doi:10.3390/s16091491'
 bibtex: '@ARTICLE{Reis2016-bt,<br />
   title    = "Design and experimental validation of a {USBL} underwater acoustic positioning system",<br />

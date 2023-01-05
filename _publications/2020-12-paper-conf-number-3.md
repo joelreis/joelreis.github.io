@@ -9,7 +9,7 @@ location: Jeju, Korea (South)
 type: 'conference'
 number: 3
 authors: [reis,silvestre,batista,oliveira]
-paperurl: 'https://ieeexplore.ieee.org/document/9304161'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2020_CDC_Attitude_observers_aided_by_implicit_measurements_of_the_Earth_angular_velocity.pdf'
 citation: 'Joel Reis, Carlos Silvestre, Pedro Batista and Paulo Oliveira, "Attitude observers aided by implicit measurements of the Earth angular velocity," 2020 59th IEEE Conference on Decision and Control (CDC), 2020, pp. 1300-1305, doi: 10.1109/CDC42340.2020.9304161.'
 bibtex: '@INPROCEEDINGS{9304161,<br />
   author={Reis, Joel and Silvestre, Carlos and Batista, Pedro and Oliveira, Paulo},<br />

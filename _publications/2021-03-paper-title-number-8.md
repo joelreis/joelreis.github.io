@@ -8,7 +8,7 @@ venue: automatica
 type: 'journal'
 number: 8
 authors: [reis,batista,oliveira,silvestre]
-paperurl: 'https://www.researchgate.net/publication/348441781_Attitude_body-fixed_Earth_rotation_rate_and_sensor_bias_estimation_using_single_observations_of_direction_of_gravitational_field'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2021_AUTOMATICA_Attitude_body_fixed_Earth_rotation_rate_and_sensor_bias_estimation_using_single_observations_of_direction_of_gravitational_field.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Attitude, body-fixed Earth rotation rate, and sensor bias estimation using single observations of direction of gravitational field," Automatica, Volume 125, 109475, ISSN 0005-1098, Mar. 2021, doi:10.1016/j.automatica.2020.109475.'
 bibtex: '@ARTICLE{Reis2021-gg,<br />
   title     = "Attitude, body-fixed Earth rotation rate, and sensor bias estimation using single observations of direction of gravitational field",<br />

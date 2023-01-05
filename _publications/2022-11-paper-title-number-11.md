@@ -8,7 +8,7 @@ venue: tiv
 type: 'journal'
 number: 11
 authors: [reis, xiewei, cabecinhas, silvestre]
-paperurl: 'https://www.researchgate.net/publication/365233105_Nonlinear_backstepping_controller_for_an_underactuated_ASV_with_model_parametric_uncertainty_design_and_experimental_validation'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2022_TIV_Nonlinear_Backstepping_Controller_for_an_Underactuated_ASV_With_Model_Parametric_Uncertainty_Design_and_Experimental_Validation.pdf'
 citation: 'Joel Reis, Wei Xie, David Cabecinhas and Carlos Silvestre, "Nonlinear Backstepping Controller for an Underactuated ASV With Model Parametric Uncertainty: Design and Experimental Validation," IEEE Transactions on Intelligent Vehicles, 2022, doi:10.1109/TIV.2022.3221739.'
 bibtex: '@ARTICLE{Reis2022-qv,<br />
   title     = "Nonlinear backstepping controller for an underactuated {ASV} with model parametric uncertainty: Design and experimental validation",<br />

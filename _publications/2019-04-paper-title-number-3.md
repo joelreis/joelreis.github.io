@@ -8,7 +8,7 @@ venue: csl
 type: 'journal'
 number: 3
 authors: [reis,batista,oliveira,silvestre]
-paperurl: 'https://www.researchgate.net/publication/329637470_Nonlinear_Observer_on_SO3_for_Attitude_Estimation_on_Rotating_Earth_Using_Single_Vector_Measurements'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2019_CSL_Nonlinear_Observer_on_SO3_for_Attitude_Estimation_on_Rotating_Earth_Using_Single_Vector_Measurements.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Nonlinear Observer on SO(3) for Attitude Estimation on Rotating Earth Using Single Vector Measurements," IEEE Control Systems Letters, vol. 3, no. 2, pp. 392-397, April 2019, doi:10.1109/LCSYS.2018.2886740.'
 bibtex: '@ARTICLE{Reis2019-gg,<br />
   title     = "Nonlinear observer on {SO(3}) for attitude estimation on rotating earth using single vector measurements",<br />

@@ -8,7 +8,7 @@ venue: cep
 type: 'journal'
 number: 5
 authors: [reis,batista,oliveira,silvestre]
-paperurl: 'https://www.researchgate.net/publication/336961567_Attitude_estimation_using_high-grade_gyroscopes'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2019_CEP_Attitude_estimation_using_high_grade_gyroscopes.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Attitude estimation using high-grade gyroscopes," Control Engineering Practice, Volume 92, 2019, 104134, ISSN 0967-0661, doi:10.1016/j.conengprac.2019.104134.'
 bibtex: '@ARTICLE{Reis2019-tg,<br />
   title     = "Attitude estimation using high-grade gyroscopes",<br />

@@ -9,7 +9,7 @@ location: Copenhagen, Denmark
 type: 'conference'
 number: 2
 authors: [reis,batista,oliveira,silvestre]
-paperurl: 'https://ieeexplore.ieee.org/document/8511381'
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2018_CCTA_Nonlinear_Attitude_Observer_on_SO3_Based_on_Single_Body-Vector_Measurements.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Nonlinear Attitude Observer on SO(3) Based on Single Body-Vector Measurements (CCTA), 2018, pp. 1319-1324, doi: 10.1109/CCTA.2018.8511381.'
 bibtex: '@INPROCEEDINGS{8511381,<br />
   author={Reis, Joel and Batista, Pedro and Oliveira, Paulo and Silvestre, Carlos},<br />
