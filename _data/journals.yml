@@ -41,6 +41,12 @@ csl:
   quartile: Q3
   edition : ESCI
 
+ral:
+  name    : IEEE Robotics and Automation Letters
+  IF      : 4.321
+  quartile: Q2
+  edition : SCI
+
 sl:
   name    : IEEE Sensors Letters
   quartile: Q3
