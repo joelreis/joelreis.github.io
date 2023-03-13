@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Movies"
+title: "IMDb Data Analyzer"
 permalink: /movies/
 author_profile: true
 ---
@@ -9,7 +9,15 @@ author_profile: true
 
 ***
 
+I love movies.
 
+There was a time when IMDb provided some user statistics within our own profile. Not anymore...
+
+I decided then to code a basic (and far from good) Python script to bring those and more statistics back to life.
+
+You have some suggestions for the code/statistics, please let me know.
+
+***
 
 To the best of my knowledge, Github pages, Jekyll and Jupyter Notebooks do not play along very well.
 
