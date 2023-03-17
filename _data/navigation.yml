@@ -17,7 +17,7 @@ main:
     url: /cv/
 
   - title: "IMDb"
-    url: /movies/
+    url: /imdb/
     
   - title: "Guide"
     url: /markdown/
