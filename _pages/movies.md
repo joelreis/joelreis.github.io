@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "IMDb Data Analyzer"
-permalink: /movies/
+permalink: /imdb/
 author_profile: true
 ---
 
@@ -15,7 +15,9 @@ There was a time when IMDb provided some user statistics within our own profile.
 
 I decided then to code a basic (and far from good) Python script to bring those and more statistics back to life.
 
-You have some suggestions for the code/statistics, please let me know.
+If you have some suggestions for the code/statistics, please let me know.
+
+You can check the code [here](https://github.com/joelreis/imdb-data-analyzer)
 
 ***
 
