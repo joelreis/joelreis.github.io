@@ -9,13 +9,16 @@ type: 'journal'
 number: 12
 authors: [yugan, reis, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_RAL_Quadrotor_Neural_Network_Adaptive_Control_Design_and_Experimental_Validation.pdf'
-citation: 'Gan Yu, Joel Reis and Carlos Silvestre, "Quadrotor Neural Network Adaptive Control: Design and Experimental Validation," IEEE Robotics and Automation Letters, 2023.'
+citation: 'G. Yu, J. Reis and C. Silvestre, "Quadrotor Neural Network Adaptive Control: Design and Experimental Validation," in IEEE Robotics and Automation Letters, vol. 8, no. 5, pp. 2574-2581, May 2023, doi: 10.1109/LRA.2023.3254450.'
 bibtex: '@ARTICLE{yu2023-ral,<br />
   title     = "Quadrotor Neural Network Adaptive Control: Design and Experimental Validation",<br />
   author    = "Yu, Gan and Reis, Joel and Silvestre, Carlos",<br />
   journal   = "IEEE Robotics and Automation Letters",<br />
   publisher = "Institute of Electrical and Electronics Engineers (IEEE)",<br />
-  pages     = "1--8",<br />
+  volume    = 8,<br /> 
+  issue     = 5,<br />
+  pages     = "2574--2581",<br />
+  month     = "May", <br /> 
   year      =  2023}'
 ---
 **Abstract**
