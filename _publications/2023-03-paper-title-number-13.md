@@ -18,7 +18,6 @@ bibtex: '@ARTICLE{reis2023-oe,<br />
   year = {2023},<br />
   issn = {0029-8018},<br />
   doi = {https://doi.org/10.1016/j.oceaneng.2023.114240},<br />
-  url = {https://www.sciencedirect.com/science/article/pii/S0029801823006248},<br />
   author = {Joel Reis and Pedro Batista and Paulo Oliveira and Carlos Silvestre}'
 ---
 **Abstract**
