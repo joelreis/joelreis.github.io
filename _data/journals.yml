@@ -52,6 +52,13 @@ sensors:
   quartile: Q2
   edition : SCI
 
+smca:
+  name    : >
+            IEEE Transactions on Systems, Man, and Cybernetics: Systems
+  IF      : 11.471
+  quartile: Q1
+  edition : SCI
+
 taes:
   name    : IEEE Transactions on Aerospace and Electronic Systems
   IF      : 3.491

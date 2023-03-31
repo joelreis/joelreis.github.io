@@ -1,12 +1,27 @@
 # Authors
 
-reis:
-  name  : Joel Reis
-  uri   : "http://name.com"
-  email : "joelreis@um.edu.mo"
-
 batista:
   name  : Pedro Batista
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+cabecinhas:
+  name  : David Cabecinhas
+  uri   : "http://name.com"
+  email : "dcabecinhas@isr.tecnico.ulisboa.pt"
+
+casau:
+  name  : Pedro Casau
+  uri   : "http://name.com"
+  email : "name@name.com"
+
+cunha:
+  name  : Rita Cunha
+  uri   : "http://name.com"
+  email : "rita@isr.tecnico.ulisboa.pt"
+
+morgado:
+  name  : Marco Morgado
   uri   : "http://name.com"
   email : "name@name.com"
 
@@ -15,32 +30,23 @@ oliveira:
   uri   : "http://name.com"
   email : "name@name.com"
 
+reis:
+  name  : Joel Reis
+  uri   : "http://name.com"
+  email : "joelreis@um.edu.mo"
+
 silvestre:
   name  : Carlos Silvestre
   uri   : "http://name.com"
-  email : "name@name.com"
+  email : "csilvestre@um.edu.mo"
 
-cabecinhas:
-  name  : David Cabecinhas
+yugan:
+  name  : Gan Yu
   uri   : "http://name.com"
-  email : "name@name.com"
+  email : "ganyu@um.edu.mo"
 
 xiewei:
   name  : Wei Xie
   uri   : "http://name.com"
   email : "weixie@sjtu.edu.cn"
 
-yugan:
-  name  : Gan Yu
-  uri   : "http://name.com"
-  email : "name@name.com"
-
-casau:
-  name  : Pedro Casau
-  uri   : "http://name.com"
-  email : "name@name.com"
-
-morgado:
-  name  : Marco Morgado
-  uri   : "http://name.com"
-  email : "name@name.com"
