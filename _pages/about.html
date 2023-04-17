@@ -68,17 +68,87 @@ h1 {
   transition: 1s ease;
 }
 
+div.box {
+    border-radius: 8px;
+    box-shadow: 1px 1px 0px #555;
+    min-width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+}
+div.box > header {
+    background:#36454F;
+    color: white;
+    padding: 0px 0px;
+}
+div.box > header > h2 {
+    line-height:20px;
+    font-size:20px;
+    text-align: center;
+}
+div.box div.body {
+    line-height:20px;
+    font-size:20px;
+    color:#333;
+    background:#eaeaea;
+    padding: 20px;
+    text-align: center;
+    font-style: italic;
+}
+div.box div.body img {
+  width: 200px;
+  height: 300px;
+}
+
 </style>
 
 <body>
 
+<div>
 <p>Hello there!</p>
 <p>My name is Joel Oliveira Reis.</p>
 <p>I'm from Fátima, Portugal, living in Macau, China, since 2014.</p>
 <p>In 2013, I graduated from <span class="colorgradlink"><a href="https://tecnico.ulisboa.pt/en/" target="_blank">Instituto Superior Técnico</a></span>, Lisbon, with a master's degree in Aerospace Engineering (Avionics major).</p>
+</div>
+
+<header>
+  <h1>What I'm doing now (in my spare time)</h1>
+</header>
+
+<div class="box">
+    <header>
+         <h2>Reading</h2>
+    </header>
+    <div class="body"><p>A House for Mr. Biswas</p>
+      <img src="/images/housemrbiswas.jpg" style="border-radius:50px;">
+    </div>
+</div>
+<div class="box">
+    <header>
+         <h2>Watching</h2>
+    </header>
+    <div class="body"><p>Succession</p>
+      <img src="/images/succession.jpg" style="border-radius:50px;">
+    </div>
+</div>
+<div class="box">
+    <header>
+         <h2>Listening</h2>
+    </header>
+    <div class="body"><p>Swim slowly</p>
+      <img src="/images/swimslowly.jpg" style="border-radius:50px;">
+    </div>
+</div>
+
+<header>
+  <h1>Master's in IST, Lisbon</h1>
+</header>
+
+<div>
 <p>During my master's thesis, I worked on the development of an ultra-short baseline (USBL) acoustic positioning system (see photo below).</p>
 <p>This type of system, similar to a constellation of radio-navigation satellites, enables accurate localization and navigation of underwater vehicles in challenging environments.</p>
 <p>It's an extremely demanding (but rewarding) area of robotics engineering, with many innovative and exciting developments in the horizon!</p>
+</div>
 
 <div class="container">
 <div class="blur">
@@ -86,6 +156,10 @@ h1 {
   <div class="overlay">Final inverted USBL receiver prototype ready for tests at Doca de Belém, Lisbon</div>
 </div>
 </div>
+
+<header>
+  <h1>PhD in UM, Macau</h1>
+</header>
 
 <p>Afterwards, I pursued a PhD degree at the <span class="colorgradlink"><a href="https://www.um.edu.mo/" target="_blank">University of Macau</a></span> (UM), under the guidance of <span class="colorgradlink"><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.fst.um.edu.mo%2Fpersonal%2Fcsilvestre%2F&sa=D" target="_blank">Professor Carlos Silvestre</a></span>, <span class="colorgradlink"><a href="https://www.google.com/url?q=https%3A%2F%2Fpbatista.weebly.com%2F&sa=D" target="_blank">Professor Pedro Batista</a></span> and <span class="colorgradlink"><a href="https://www.google.com/url?q=http%3A%2F%2Fwww.dem.ist.utl.pt%2Fpoliveira%2F&sa=D" target="_blank">Professor Paulo Oliveira</a></span>.</p>
 <p>My doctoral dissertation focused primarily on the design of attitude estimation techniques that take into account the rotation of the planet!</p>
@@ -104,7 +178,7 @@ h1 {
 <p>My research interests include estimation and control theory with applications to air, marine surface, and underwater autonomous vehicles.</p>
 
 <header>
-  <h1>Reading</h1>
+  <h1>Further Reading</h1>
 </header>
 If, like me, you enjoy reading, have a look at my <span class="colorgradlink"><a href="https://www.goodreads.com/user/show/20214521-joel" target="_blank">Goodreads</a></span> ratings (and a few reviews).
 </body>
