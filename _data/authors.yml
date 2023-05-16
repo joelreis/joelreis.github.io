@@ -20,6 +20,11 @@ cunha:
   uri   : "http://name.com"
   email : "rita@isr.tecnico.ulisboa.pt"
 
+linghuan:
+  name  : Linghuan Kong
+  uri   : "http://name.com"
+  email : "kong.ahuan@gmail.com"
+
 morgado:
   name  : Marco Morgado
   uri   : "http://name.com"
@@ -44,6 +49,11 @@ yugan:
   name  : Gan Yu
   uri   : "http://name.com"
   email : "ganyu@um.edu.mo"
+
+weihe:
+  name  : Wei He
+  uri   : "http://name.com"
+  email : "weihe@ieee.org"
 
 xiewei:
   name  : Wei Xie

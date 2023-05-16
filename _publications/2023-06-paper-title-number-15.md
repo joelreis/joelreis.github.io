@@ -1,0 +1,32 @@
+---
+title: "Kalman-based velocity-free trajectory tracking control of an
+underactuated aerial vehicle with unknownsystem dynamics"
+collection: publications
+permalink: /publication/2023-06-paper-title-number-15
+excerpt: 'In this paper we solve the problem of trajectory tracking control of an underactuated autonomous aerial vehicle in the presence of unknown time-varying dynamics.'
+date: 2023-06-01
+venue: automatica
+type: 'journal'
+number: 15
+authors: [reis, yugan, silvestre]
+paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_Automatica_Kalman_based_velocity_free_trajectory_tracking_control_of_an_underactuated_aerial_vehicle_with_unknown_system_dynamics.pdf'
+citation: 'Joel Reis, Gan Yu, Carlos Silvestre, "Kalman-based velocity-free trajectory tracking control of an underactuated aerial vehicle with unknownsystem dynamics," Automatica, 2023. (in press)'
+bibtex: '@ARTICLE{2023_Reis_Automatica,<br />
+  title = {Kalman-based velocity-free trajectory tracking control of an underactuated aerial vehicle with unknown system dynamics},<br />
+  journal   = "Automatica (Oxf.)",<br />
+  publisher = "Elsevier BV",<br />
+  volume = {},<br />
+  pages = {},<br />
+  year = {2023},<br />
+  issn = {},<br />
+  doi = {},<br />
+  author = {Joel Reis and Gan Yu and Carlos Silvestre}'
+---
+**Abstract**
+---
+In this paper we solve the problem of trajectory tracking control of an underactuated autonomous aerial vehicle in the presence of unknown time-varying dynamics.
+We begin our approach with the design of a Kalman filter for the linear motion subsystem under non-vanishing perturbations.
+The filter attenuates the noise of position measurements, and simultaneously estimates the linear velocity of the vehicle as well as an unknown term of lumped dynamics, which includes model parametric uncertainty and exogenous perturbations.
+The output and residual of the filter are then fed to a nonlinear controller whose thrust actuation is bounded with respect to the position and velocity errors.
+The total error stemming from the closed-loop system is shown to be uniformly ultimately bounded.
+Experimental results and comparison data are presented to showcase the performance of our strategy in diferent real-world applications using a quadrotor vehicle.

@@ -71,6 +71,12 @@ tiv:
   quartile: Q1
   edition : SCI
 
+tcst:
+  name    : IEEE Transactions on Control Systems Technology
+  IF      : 5.418
+  quartile: Q1
+  edition : SCI
+
 tmech:
   name    : IEEE-ASME Transactions on Mechatronics
   IF      : 5.867
