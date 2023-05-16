@@ -29,4 +29,4 @@ We begin our approach with the design of a Kalman filter for the linear motion s
 The filter attenuates the noise of position measurements, and simultaneously estimates the linear velocity of the vehicle as well as an unknown term of lumped dynamics, which includes model parametric uncertainty and exogenous perturbations.
 The output and residual of the filter are then fed to a nonlinear controller whose thrust actuation is bounded with respect to the position and velocity errors.
 The total error stemming from the closed-loop system is shown to be uniformly ultimately bounded.
-Experimental results and comparison data are presented to showcase the performance of our strategy in diferent real-world applications using a quadrotor vehicle.
+Experimental results and comparison data are presented to showcase the performance of our strategy in different real-world applications using a quadrotor vehicle.
