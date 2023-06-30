@@ -2,84 +2,86 @@
 
 automatica:
   name    : Automatica
-  IF      : 6.150
+  IF      : 6.4
   quartile: Q1
   edition : SCI
 
 cep:
   name    : Control Engineering Practice
-  IF      : 4.057
+  IF      : 4.9
   quartile: Q2
   edition : SCI
 
 csl:
   name    : IEEE Control Systems Letters
-  quartile: Q3
+  IF      : 3.0     
+  quartile: Q2
   edition : ESCI
 
 ijrnc:
   name    : International Journal of Robust and Nonlinear Control
-  IF      : 3.897
+  IF      : 3.9
   quartile: Q1
   edition : SCI
 
 nody:
   name    : Nonlinear Dynamics
-  IF      : 5.741
+  IF      : 5.6
   quartile: Q1
   edition : SCI
 
 oe:
   name    : Ocean Engineering
-  IF      : 4.372
+  IF      : 5.0
   quartile: Q1
   edition : SCI
 
 ral:
   name    : IEEE Robotics and Automation Letters
-  IF      : 4.321
+  IF      : 5.2
   quartile: Q2
   edition : SCI
 
 sl:
   name    : IEEE Sensors Letters
+  IF      : 2.8
   quartile: Q3
   edition : ESCI
 
 sensors:
   name    : Sensors
-  IF      : 3.847
+  IF      : 3.9
   quartile: Q2
   edition : SCI
 
 smca:
   name    : >
             IEEE Transactions on Systems, Man, and Cybernetics: Systems
-  IF      : 11.471
+  IF      : 8.7
   quartile: Q1
   edition : SCI
 
 taes:
   name    : IEEE Transactions on Aerospace and Electronic Systems
-  IF      : 3.491
+  IF      : 4.4
   quartile: Q1
   edition : SCI
 
 tiv:
   name    : IEEE Transactions on Intelligent Vehicles
-  IF      : 5.009
+  IF      : 8.2
   quartile: Q1
   edition : SCI
 
 tcst:
   name    : IEEE Transactions on Control Systems Technology
-  IF      : 5.418
-  quartile: Q1
+  IF      : 4.8
+  quartile: Q2
   edition : SCI
 
 tmech:
   name    : IEEE-ASME Transactions on Mechatronics
-  IF      : 5.867
+  IF      : 6.4
   quartile: Q1
   edition : SCI
 
