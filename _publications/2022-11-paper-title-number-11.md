@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear backstepping controller for an underactuated ASV with model parametric uncertainty: design and experimental validation"
+title: "Nonlinear Backstepping Controller for an Underactuated ASV With Model Parametric Uncertainty: Design and Experimental Validation"
 collection: publications
 permalink: /publication/2022-11-paper-title-number-11
 excerpt: 'In this article, we tackle the problem of path following control of an underactuated autonomous surface vehicle in the presence of external disturbances and model parametric uncertainty.'

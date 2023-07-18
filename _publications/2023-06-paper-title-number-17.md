@@ -1,16 +1,16 @@
 ---
-title: "Experimental validation of a robust prescribed performance nonlinear controller for an unmanned aerial vehicle with unknown mass"
+title: "Experimental Validation of a Robust Prescribed Performance Nonlinear Controller for an Unmanned Aerial Vehicle With Unknown Mass"
 collection: publications
 permalink: /publication/2023-06-paper-title-number-17
-excerpt: 'We develop and experimentally test a prescribed performance control methodology for trajectory tracking of underactuated autonomous aerial vehicles under unknown timevarying disturbances.'
+excerpt: 'We develop and experimentally test a prescribed performance control methodology for trajectory tracking of underactuated autonomous aerial vehicles under unknown time-varying disturbances.'
 date: 2023-06-01
 venue: tmech
 type: 'journal'
 number: 17
 authors: [linghuan, reis, weihe, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_TMECH_Experimental_validation_of_a_robust_prescribed_performance_nonlinear_controller_for_an_unmanned_aerial_vehicle_with_unknown_mass.pdf'
-citation: 'Linghuan Kong, Joel Reis, Wei He, Carlos Silvestre, "Experimental validation of a robust prescribed performance nonlinear controller for an unmanned aerial vehicle with unknown mass," IEEE Transactions on Mechatronics, 2023. (in press)'
-bibtex: '@ARTICLE{2023_Reis_Automatica,<br />
+citation: 'L. Kong, J. Reis, W. He, and C. Silvestre, "Experimental validation of a robust prescribed performance nonlinear controller for an unmanned aerial vehicle with unknown mass," IEEE Transactions on Mechatronics, doi:10.1109/TMECH.2023.3282782, 2023. (in press)'
+bibtex: '@ARTICLE{2023_Kong_TMECH,<br />
   title = {Experimental validation of a robust prescribed performance nonlinear controller for an unmanned aerial vehicle with unknown mass},<br />
   journal   = "Transactions on Mechatronics",<br />
   publisher = "IEEE",<br />
@@ -18,7 +18,7 @@ bibtex: '@ARTICLE{2023_Reis_Automatica,<br />
   pages = {},<br />
   year = {2023},<br />
   issn = {},<br />
-  doi = {},<br />
+  doi = {10.1109/TMECH.2023.3282782},<br />
   author = {Linghuan Kong and Joel Reis and Wei He and Carlos Silvestre}'
 ---
 **Abstract**

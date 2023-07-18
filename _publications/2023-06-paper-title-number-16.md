@@ -9,7 +9,7 @@ type: 'journal'
 number: 16
 authors: [linghuan, reis, weihe, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_TCST_Comprehensive_nonlinear_control_strategy_for_VTOL_UAVs_with_windowed_output_constraints.pdf'
-citation: 'Linghuan Kong, Joel Reis, Wei He, Carlos Silvestre, "Comprehensive nonlinear control strategy for
+citation: 'L. Kong, J. Reis, W. He, and C. Silvestre, "Comprehensive nonlinear control strategy for
 VTOL-UAVs with windowed output constraints," IEEE Transactions on Control Systems Technology, 2023. (in press)'
 bibtex: '@ARTICLE{2023_Kong_TCST,<br />
   title = {Comprehensive nonlinear control strategy for VTOL-UAVs with windowed output constraints},<br />

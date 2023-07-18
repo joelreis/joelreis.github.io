@@ -9,7 +9,7 @@ type: 'journal'
 number: 13
 authors: [reis, batista, oliveira, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_OE_Discrete_time_Kalman_filter_for_heave_motion_estimation.pdf'
-citation: 'Joel Reis, Pedro Batista, Paulo Oliveira, Carlos Silvestre, "Discrete-time Kalman filter for heave motion estimation," Ocean Engineering, Volume 277, p. 114240, 2023.'
+citation: 'J. Reis, P. Batista, P. Oliveira, and C. Silvestre, "Discrete-time Kalman filter for heave motion estimation," Ocean Engineering, Volume 277, p. 114240, 2023.'
 bibtex: '@ARTICLE{reis2023-oe,<br />
   title = {Discrete-time Kalman filter for heave motion estimation},<br />
   journal = {Ocean Engineering},<br />
