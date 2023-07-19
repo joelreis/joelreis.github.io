@@ -9,16 +9,16 @@ type: 'journal'
 number: 14
 authors: [yugan, reis, cabecinhas, cunha, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_SMCA_Reduced_complexity_active_disturbance_rejection_controller_for_quadrotor_slung_load_transportation.pdf'
-citation: 'G. Yu, J. Reis, D. Cabecinhas, R. Cunha and C. Silvestre, "Reduced-Complexity Active Disturbance Rejection Controller for Quadrotor-Slung-Load Transportation," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2023.3263881.'
-bibtex: '@ARTICLE{2023_Yu_SMCA_,<br />
-  title = {Reduced-complexity active disturbance rejection controller for quadrotor slung load transportation},<br />
-  journal = {IEEE Transactions on Systems, Man, and Cybernetics: Systems},<br />
-  volume = {},<br />
-  pages = {},<br />
-  year = {2023},<br />
-  issn = {2168-2216},<br />
-  doi = {http://dx.doi.org/10.1109/TSMC.2023.3263881},<br />
-  author = {Gan Yu and Joel Reis and David Cabecinhas and Rita Cunha and Carlos Silvestre}'
+citation: 'G. Yu, J. Reis, D. Cabecinhas, R. Cunha and C. Silvestre, "Reduced-Complexity Active Disturbance Rejection Controller for Quadrotor-Slung-Load Transportation," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 8, pp. 5248-5259, Aug. 2023, doi: 10.1109/TSMC.2023.3263881.'
+bibtex: '@ARTICLE{10103212,<br />
+  author={Yu, Gan and Reis, Joel and Cabecinhas, David and Cunha, Rita and Silvestre, Carlos},<br />
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},<br />
+  title={Reduced-Complexity Active Disturbance Rejection Controller for Quadrotor-Slung-Load Transportation},<br />
+  year={2023},<br />
+  volume={53},<br />
+  number={8},<br />
+  pages={5248-5259},<br />
+  doi={10.1109/TSMC.2023.3263881}}'
 ---
 **Abstract**
 ---
