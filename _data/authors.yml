@@ -50,6 +50,11 @@ yugan:
   uri   : "http://name.com"
   email : "ganyu@um.edu.mo"
 
+weiming:
+  name  : Weiming Yang 
+  uri   : "http://name.com"
+  email : "weiming.yang@connect.um.edu.mo"
+
 weihe:
   name  : Wei He
   uri   : "http://name.com"
