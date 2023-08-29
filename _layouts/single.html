@@ -7,6 +7,27 @@ layout: default
 	type="text/javascript">
 </script>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
 {% include base_path %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -67,16 +88,18 @@ layout: default
 				{% endif %}
 				
 				{% if page.citation and page.paperurl %}
+
 					<div class="row">
 						<div class="column">
 							<h2>Author's version</h2>
 							<img class="softwareicon" style="--neoncolor: #CD252F;" src="/images/pdficon.png" onclick="window.open('{{ page.paperurl }}', '_blank');">
 						</div>
-						<div class="column" style="background-color:#bbb;">
+						<div class="column">
 							<h2>Publisher's version</h2>
 							<img class="softwareicon" style="--neoncolor: #CD252F;" src="/images/ieeexploreicon.png" onclick="window.open('{{ page.paperurl }}', '_blank');">
 						</div>
 					</div>
+
 				{% endif %}
 		
 				</header>
