@@ -5,9 +5,11 @@ permalink: /publication/2018-12-paper-title-number-2
 excerpt: 'This paper presents a novel filtering technique to estimate the position of a moving target based on discrete-time direction and velocity measurements.'
 date: 2018-12-01
 venue: taes
+publisher: ieee
 type: 'journal'
 number: 2
 authors: [reis,batista,oliveira,silvestre]
+publisherurl: 'https://ieeexplore.ieee.org/abstract/document/8351953'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2018_TAES_Source_Localization_Based_on_Acoustic_Single_Direction_Measurements.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Source Localization Based on Acoustic Single Direction Measurements," IEEE Transactions on Aerospace and Electronic Systems, vol. 54, no. 6, pp. 2837-2852, Dec. 2018, doi:10.1109/TAES.2018.2831118.'
 bibtex: '@ARTICLE{Reis2018-wu,<br />

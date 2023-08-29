@@ -5,9 +5,11 @@ permalink: /publication/2023-06-paper-title-number-17
 excerpt: 'We develop and experimentally test a prescribed performance control methodology for trajectory tracking of underactuated autonomous aerial vehicles under unknown time-varying disturbances.'
 date: 2023-06-01
 venue: tmech
+publisher: ieee
 type: 'journal'
 number: 17
 authors: [linghuan, reis, weihe, silvestre]
+publisherurl: 'https://ieeexplore.ieee.org/document/10175189'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_TMECH_Experimental_validation_of_a_robust_prescribed_performance_nonlinear_controller_for_an_unmanned_aerial_vehicle_with_unknown_mass.pdf'
 citation: 'L. Kong, J. Reis, W. He, and C. Silvestre, "Experimental validation of a robust prescribed performance nonlinear controller for an unmanned aerial vehicle with unknown mass," IEEE Transactions on Mechatronics, doi:10.1109/TMECH.2023.3282782, 2023. (in press)'
 bibtex: '@ARTICLE{2023_Kong_TMECH,<br />

@@ -5,9 +5,11 @@ permalink: /publication/2023-04-paper-title-number-14
 excerpt: 'In this paper we address the problem of trajectory tracking control of a quadrotor-slung-load system.'
 date: 2023-04-01
 venue: smca
+publisher: ieee
 type: 'journal'
 number: 14
 authors: [yugan, reis, cabecinhas, cunha, silvestre]
+publisherurl: 'https://ieeexplore.ieee.org/document/10103212'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_SMCA_Reduced_complexity_active_disturbance_rejection_controller_for_quadrotor_slung_load_transportation.pdf'
 citation: 'G. Yu, J. Reis, D. Cabecinhas, R. Cunha and C. Silvestre, "Reduced-Complexity Active Disturbance Rejection Controller for Quadrotor-Slung-Load Transportation," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 8, pp. 5248-5259, Aug. 2023, doi: 10.1109/TSMC.2023.3263881.'
 bibtex: '@ARTICLE{10103212,<br />

@@ -5,9 +5,11 @@ permalink: /publication/2022-11-paper-title-number-11
 excerpt: 'In this article, we tackle the problem of path following control of an underactuated autonomous surface vehicle in the presence of external disturbances and model parametric uncertainty.'
 date: 2022-11-01
 venue: tiv
+publisher: ieee
 type: 'journal'
 number: 11
 authors: [reis, xiewei, cabecinhas, silvestre]
+publisherurl: 'https://ieeexplore.ieee.org/document/9947332'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2022_TIV_Nonlinear_Backstepping_Controller_for_an_Underactuated_ASV_With_Model_Parametric_Uncertainty_Design_and_Experimental_Validation.pdf'
 citation: 'J. Reis, W. Xie, D. Cabecinhas and C. Silvestre, "Nonlinear Backstepping Controller for an Underactuated ASV With Model Parametric Uncertainty: Design and Experimental Validation," in IEEE Transactions on Intelligent Vehicles, vol. 8, no. 3, pp. 2514-2526, March 2023, doi: 10.1109/TIV.2022.3221739.'
 bibtex: '@ARTICLE{2023_Reis_TIV,<br />

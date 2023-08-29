@@ -5,9 +5,11 @@ permalink: /publication/2019-11-paper-title-number-5
 excerpt: 'This paper addresses the problem of attitude estimation using the angular velocity of Earth as a reference vector.'
 date: 2019-11-01
 venue: cep
+publisher: elsevier
 type: 'journal'
 number: 5
 authors: [reis,batista,oliveira,silvestre]
+publisherurl: 'https://www.sciencedirect.com/science/article/pii/S096706611930139X'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2019_CEP_Attitude_estimation_using_high_grade_gyroscopes.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Attitude estimation using high-grade gyroscopes," Control Engineering Practice, Volume 92, 2019, 104134, ISSN 0967-0661, doi:10.1016/j.conengprac.2019.104134.'
 bibtex: '@ARTICLE{Reis2019-tg,<br />

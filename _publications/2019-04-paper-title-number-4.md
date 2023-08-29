@@ -5,9 +5,11 @@ permalink: /publication/2019-04-paper-title-number-4
 excerpt: 'This article describes an offline calibration methodology, resorting to a three-axis rate and positioning table, for high-grade inertial measurement units that encompass three sets of triaxial sensors: advanced fiber optic gyroscopes sensitive to the Earth''s rotational velocity; low-noise accelerometers; and integrated magnetometers.'
 date: 2019-04-01
 venue: sl
+publisher: ieee
 type: 'journal'
 number: 4
 authors: [reis,batista,oliveira,silvestre]
+publisherurl: 'https://ieeexplore.ieee.org/abstract/document/8675345'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2019_SL_Calibration_of_High-Grade_Inertial_Measurement_Units_Using_a_Rate_Table.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Calibration of High-Grade Inertial Measurement Units Using a Rate Table," IEEE Sensors Letters, vol. 3, no. 4, pp. 1-4, April 2019, Art no. 6000704, doi:10.1109/LSENS.2019.2906569.'
 bibtex: '@ARTICLE{Reis2019-el,<br />

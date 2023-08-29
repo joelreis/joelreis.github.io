@@ -5,9 +5,11 @@ permalink: /publication/2023-02-paper-title-number-12
 excerpt: 'In this letter, we present the design and experimental study of an adaptive nonlinear controller for Unmanned Aerial Vehicles (UAVs) in the presence of unknown time-varying disturbances, and model parametric uncertainty.'
 date: 2023-02-01
 venue: ral
+publisher: ieee
 type: 'journal'
 number: 12
 authors: [yugan, reis, silvestre]
+publisherurl: 'https://ieeexplore.ieee.org/document/10064027'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_RAL_Quadrotor_Neural_Network_Adaptive_Control_Design_and_Experimental_Validation.pdf'
 citation: 'G. Yu, J. Reis and C. Silvestre, "Quadrotor Neural Network Adaptive Control: Design and Experimental Validation," in IEEE Robotics and Automation Letters, vol. 8, no. 5, pp. 2574-2581, May 2023, doi: 10.1109/LRA.2023.3254450.'
 bibtex: '@ARTICLE{2023_Yu_RAL,<br />

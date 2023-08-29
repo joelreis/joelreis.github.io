@@ -5,6 +5,7 @@ permalink: /publication/2023-12-paper-title-number-18
 excerpt: 'We develop and experimentally test a prescribed performance control methodology for trajectory tracking of underactuated autonomous aerial vehicles under unknown time-varying disturbances.'
 date: 2023-12-01
 venue: automatica
+publisher: elsevier
 type: 'journal'
 number: 18
 authors: [weiming, yugan, reis, silvestre]

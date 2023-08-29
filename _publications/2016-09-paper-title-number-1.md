@@ -5,9 +5,11 @@ permalink: /publication/2016-09-paper-title-number-1
 excerpt: 'This paper presents the steps for developing a low-cost portable navigation tool for underwater scenarios to be used as a localization device for subsea targets.'
 date: 2016-09-01
 venue: sensors
+publisher: mdpi
 type: 'journal'
 number: 1
 authors: [reis,morgado,batista,oliveira,silvestre]
+publisherurl: 'https://www.mdpi.com/1424-8220/16/9/1491'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2016_SENSORS_Design_and_Experimental_Validation_of_a_USBL_Underwater_Acoustic_Positioning_System.pdf'
 citation: 'Joel Reis, Marco Morgado, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Design and Experimental Validation of a USBL Underwater Acoustic Positioning System," Sensors, 16(9):1491, Sep. 2016, doi:10.3390/s16091491'
 bibtex: '@ARTICLE{Reis2016-bt,<br />

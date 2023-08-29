@@ -87,7 +87,7 @@ layout: default
 					<p>Recommended citation: {{ page.citation }} </p>
 				{% endif %}
 				
-				{% if page.citation and page.paperurl %}
+				{% if page.citation and page.paperurl and page.publisherurl %}
 
 					<div class="row">
 						<div class="column">
@@ -96,10 +96,14 @@ layout: default
 						</div>
 						<div class="column">
 							<h2>Publisher's version</h2>
-							<img class="softwareicon" style="--neoncolor: #CD252F;" src="/images/ieeexploreicon.png" onclick="window.open('{{ page.paperurl }}', '_blank');">
+							<img class="softwareicon" style="--neoncolor: ##057AE8;" src="/images/{{ page.publisher }}icon.png" onclick="window.open('{{ page.publisherurl }}', '_blank');">
 						</div>
 					</div>
 
+				{% elsif page.citation and page.paperurl %}
+
+					<img class="softwareicon" style="--neoncolor: #CD252F;" src="/images/pdficon.png" onclick="window.open('{{ page.paperurl }}', '_blank');">
+					
 				{% endif %}
 		
 				</header>

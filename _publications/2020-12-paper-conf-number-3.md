@@ -5,10 +5,12 @@ permalink: /publication/2020-12-paper-conf-number-3
 excerpt: 'In this tutorial, a new class of attitude estimation solutions is presented to determine the orientation of a robotic platform resorting only to a set of triaxial gyroscopes and an additional measurement of a constant inertial vector.'
 date: 2020-12-20
 venue: cdc
+publisher: ieee
 location: Jeju, Korea (South)
 type: 'conference'
 number: 3
 authors: [reis,silvestre,batista,oliveira]
+publisherurl: 'https://ieeexplore.ieee.org/document/9304161'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2020_CDC_Attitude_observers_aided_by_implicit_measurements_of_the_Earth_angular_velocity.pdf'
 citation: 'Joel Reis, Carlos Silvestre, Pedro Batista and Paulo Oliveira, "Attitude observers aided by implicit measurements of the Earth angular velocity," 2020 59th IEEE Conference on Decision and Control (CDC), 2020, pp. 1300-1305, doi: 10.1109/CDC42340.2020.9304161.'
 bibtex: '@INPROCEEDINGS{9304161,<br />

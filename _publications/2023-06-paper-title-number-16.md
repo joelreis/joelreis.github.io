@@ -5,9 +5,11 @@ permalink: /publication/2023-06-paper-title-number-16
 excerpt: 'In this paper we develop a methodology for trajectory tracking control of a vertical take-off and landing unmanned aerial vehicle in the presence of unknown mass and time-varying external disturbances.'
 date: 2023-06-01
 venue: tcst
+publisher: ieee
 type: 'journal'
 number: 16
 authors: [linghuan, reis, weihe, silvestre]
+publisherurl: 'https://ieeexplore.ieee.org/document/10197442'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_TCST_Comprehensive_nonlinear_control_strategy_for_VTOL_UAVs_with_windowed_output_constraints.pdf'
 citation: 'L. Kong, J. Reis, W. He, and C. Silvestre, "Comprehensive nonlinear control strategy for
 VTOL-UAVs with windowed output constraints," IEEE Transactions on Control Systems Technology, 2023. (in press)'

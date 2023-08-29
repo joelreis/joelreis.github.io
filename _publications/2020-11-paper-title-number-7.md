@@ -5,9 +5,11 @@ permalink: /publication/2020-11-paper-title-number-7
 excerpt: 'This paper addresses the problem of trajectory tracking control of an underactuated surface vessel moving in a two-dimensional space in the presence of unknown disturbances.'
 date: 2020-11-01
 venue: nody
+publisher: springer
 type: 'journal'
 number: 7
 authors: [xiewei,reis,cabecinhas,silvestre]
+publisherurl: 'https://link.springer.com/article/10.1007/s11071-020-06058-8'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2020_NODY_Design_and_experimental_validation_of_a_nonlinear_controller_for_underactuated_surface_vessels.pdf'
 citation: 'Wei Xie, Joel Reis, David Cabecinhas and Carlos Silvestre, "Design and experimental validation of a nonlinear controller for underactuated surface vessels," Nonlinear Dynamics, 102, 2563–2581, Dec. 2020. doi:10.1007/s11071-020-06058-8'
 bibtex: '@ARTICLE{Xie2020-ad,<br />

@@ -5,9 +5,11 @@ permalink: /publication/2022-08-paper-title-number-10
 excerpt: 'This paper presents a control solution for the problem of slung load transportation, with simultaneous damping of oscillations, using an underactuated autonomous quadrotor vehicle in the presence of external disturbances.'
 date: 2022-08-01
 venue: ijrnc
+publisher: wiley
 type: 'journal'
 number: 10
 authors: [reis,yugan,cabecinhas,silvestre]
+publisherurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.6306'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2022_IJRNC_High_performance_quadrotor_slung_load_transportation_with_damped_oscillations.pdf'
 citation: 'J. Reis, G. Yu, D. Cabecinhas, and C. Silvestre, "High-performance quadrotor slung load transportation with damped oscillations," Int J Robust Nonlinear Control, 1-30, Aug. 2022, doi:10.1002/rnc.6306'
 bibtex: '@article{2023_Reis_IJRNC,<br />

@@ -5,9 +5,11 @@ permalink: /publication/2021-03-paper-title-number-8
 excerpt: 'This paper addresses the problem of estimating the attitude of a robotic platform using biased measurements of: (i) the direction of the gravitational field and (ii) angular velocity obtained from a set of high-grade gyroscopes sensitive to the Earth’s rotation.'
 date: 2021-03-01
 venue: automatica
+publisher: elsevier
 type: 'journal'
 number: 8
 authors: [reis,batista,oliveira,silvestre]
+publisherurl: 'https://www.sciencedirect.com/science/article/pii/S0005109820306749'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2021_AUTOMATICA_Attitude_body_fixed_Earth_rotation_rate_and_sensor_bias_estimation_using_single_observations_of_direction_of_gravitational_field.pdf'
 citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Attitude, body-fixed Earth rotation rate, and sensor bias estimation using single observations of direction of gravitational field," Automatica, Volume 125, 109475, ISSN 0005-1098, Mar. 2021, doi:10.1016/j.automatica.2020.109475.'
 bibtex: '@ARTICLE{Reis2021-gg,<br />
