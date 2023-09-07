@@ -13,8 +13,15 @@ layout: compress
 
   <body>
 
-    <script src="{{ '/assets/js/progressbar.js' | absolute_url }}"></script>
+    <script src="{{ '/assets/js/progressbar.js' }}"></script>
     <div id="progress-bar"></div>
+
+    <script src="{{ '/assets/js/up_button.js' }}"></script>
+    <script>addBackToTop({
+      diameter: 56,
+      backgroundColor: 'rgb(0,191,255)',
+      textColor: '#fff'
+    })</script>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
