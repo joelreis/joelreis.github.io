@@ -10,6 +10,47 @@
  *
 */
 
+html, html[data-theme="light"] { 
+  --light-text-color: rgb(72, 72, 74);
+    --link-color: rgb(0, 112, 201);
+    --main-background-color: rgb(255, 255, 255);
+    --main-text-color: rgb(51, 51, 51);
+}
+
+html[data-theme="dark"] {
+    --light-text-color: rgb(255, 255, 255);
+      --link-color: rgb( 100, 210, 255);
+      --main-background-color: rgb(28, 28, 30);
+      --main-text-color: rgb(255, 255, 255);
+  }
+
+@media (prefers-color-scheme: dark) {
+  html, html[data-theme="dark"] {
+    --light-text-color: rgb(255, 255, 255);
+      --link-color: rgb( 100, 210, 255);
+      --main-background-color: rgb(28, 28, 30);
+      --main-text-color: rgb(255, 255, 255);
+  }
+  
+  html[data-theme="light"] { 
+  --light-text-color: rgb(72, 72, 74);
+    --link-color: rgb(0, 112, 201);
+    --main-background-color: rgb(255, 255, 255);
+    --main-text-color: rgb(51, 51, 51);
+  }
+}
+
+body {
+  background-color: var(--main-background-color);
+  color: var(--main-text-color);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  padding: 1em;
+}
+
+a {
+  color: var(--link-color);
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
