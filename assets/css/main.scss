@@ -20,16 +20,16 @@ html, html[data-theme="light"] {
 html[data-theme="dark"] {
     --light-text-color: rgb(239, 239, 239);
       --link-color: rgb( 100, 210, 255);
-      --main-background-color: rgb(18, 18, 18);
-      --main-text-color: rgb(239, 239, 239);
+      --main-background-color: rgb(34, 39, 46);
+      --main-text-color: rgb(173, 186, 198);
   }
 
 @media (prefers-color-scheme: dark) {
   html, html[data-theme="dark"] {
     --light-text-color: rgb(239, 239, 239);
       --link-color: rgb( 100, 210, 255);
-      --main-background-color: rgb(18, 18, 18);
-      --main-text-color: rgb(239, 239, 239);
+      --main-background-color: rgb(34, 39, 46);
+      --main-text-color: rgb(173, 186, 198);
   }
   
   html[data-theme="light"] { 
