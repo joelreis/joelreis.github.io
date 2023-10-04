@@ -42,3 +42,10 @@ Change your github username to `[metadata]` in the "config.yml" file If you want
 No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 ```
 
+Instructions for Windows users
+
+1. Install [Ruby](https://rubyinstaller.org/downloads/) on Windows
+2. Open Windows PowerShell and run `gem install bundler`
+3. Install Git Bash
+4. Install [Jekyll](https://jekyllrb.com/docs/installation/windows/)
+5. Open Git Bash in your main directory and run `bundle install` followed then by `bundle update`
