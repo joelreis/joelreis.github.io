@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You may track the citations to my publications at <a href='https://scholar.google.com/citations?user=QIi3y4wAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar"></a>
 {% endif %}
 
 Publications in Journals
