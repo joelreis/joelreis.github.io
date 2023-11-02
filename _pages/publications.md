@@ -19,7 +19,7 @@ Publications in Journals
 
 {% for post in site.publications reversed %}
   {% if post.type == 'journal' %}
-    {% include article-cover.html %}
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
@@ -28,6 +28,6 @@ Publications in Conferences
 
 {% for post in site.publications reversed %}
   {% if post.type == 'conference' %}
-    {% include article-cover.html %}
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}

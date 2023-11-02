@@ -32,7 +32,7 @@ html[data-theme="dark"] {
       --link-color: rgb( 100, 210, 255);
       --main-background-color: rgb(34, 39, 46);
       --main-text-color: rgb(173, 186, 198);
-      --main-text-red: rgb(204, 41, 54);
+      --main-text-red: rgb(251, 54, 64);
   }
   
   html[data-theme="light"] { 
@@ -40,7 +40,7 @@ html[data-theme="dark"] {
     --link-color: rgb(0, 112, 201);
     --main-background-color: rgb(255, 255, 255);
     --main-text-color: rgb(51, 51, 51);
-    --main-text-red: rgb(251, 54, 64);
+    --main-text-red: rgb(204, 41, 54);
   }
 }
 
