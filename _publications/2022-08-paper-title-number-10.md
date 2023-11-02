@@ -11,18 +11,20 @@ number: 10
 authors: [reis,yugan,cabecinhas,silvestre]
 publisherurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.6306'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2022_IJRNC_High_performance_quadrotor_slung_load_transportation_with_damped_oscillations.pdf'
-citation: 'J. Reis, G. Yu, D. Cabecinhas, and C. Silvestre, "High-performance quadrotor slung load transportation with damped oscillations," Int J Robust Nonlinear Control, 1-30, Aug. 2022, doi:10.1002/rnc.6306'
-bibtex: '@article{2023_Reis_IJRNC,<br />
-author = {Reis, Joel and Yu, Gan and Cabecinhas, David and Silvestre, Carlos},<br />
-title = {High-performance quadrotor slung load transportation with damped oscillations},<br />
-journal = {International Journal of Robust and Nonlinear Control},<br />
-volume = {n/a},<br />
-number = {n/a},<br />
-pages = {},<br />
-keywords = {damped oscillations, load transportation, nonlinear control, underactuated unmanned aerial vehicles},<br />
-doi = {https://doi.org/10.1002/rnc.6306},<br />
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6306},<br />
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/rnc.6306},'
+citation: 'J. Reis, G. Yu, D. Cabecinhas, and C. Silvestre, “High‐performance quadrotor slung load transportation with damped oscillations,” International Journal of Robust and Nonlinear Control, vol. 33, no. 17. Wiley, pp. 10227–10256, Aug. 04, 2022.'
+bibtex: '@article{2022_Reis_IJRNC,<br />
+  doi = {10.1002/rnc.6306},<br />
+  url = {https://doi.org/10.1002/rnc.6306},<br />
+  year = {2022},<br />
+  month = aug,<br />
+  publisher = {Wiley},<br />
+  volume = {33},<br />
+  number = {17},<br />
+  pages = {10227--10256},<br />
+  author = {Joel Reis and Gan Yu and David Cabecinhas and Carlos Silvestre},<br />
+  title = {High-performance quadrotor slung load transportation with damped oscillations},<br />
+  journal = {International Journal of Robust and Nonlinear Control}<br />
+}'
 ---
 **Abstract**
 ---

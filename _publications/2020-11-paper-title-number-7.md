@@ -11,17 +11,20 @@ number: 7
 authors: [xiewei,reis,cabecinhas,silvestre]
 publisherurl: 'https://link.springer.com/article/10.1007/s11071-020-06058-8'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2020_NODY_Design_and_experimental_validation_of_a_nonlinear_controller_for_underactuated_surface_vessels.pdf'
-citation: 'Wei Xie, Joel Reis, David Cabecinhas and Carlos Silvestre, "Design and experimental validation of a nonlinear controller for underactuated surface vessels," Nonlinear Dynamics, 102, 2563–2581, Dec. 2020. doi:10.1007/s11071-020-06058-8'
-bibtex: '@ARTICLE{Xie2020-ad,<br />
-  title     = "Design and experimental validation of a nonlinear controller for underactuated surface vessels", <br />
-  author    = "Xie, Wei and Reis, Joel and Cabecinhas, David and Silvestre, Carlos",<br />
-  journal   = "Nonlinear Dyn.",<br />
-  publisher = "Springer Science and Business Media LLC",<br />
-  volume    =  102,<br />
-  number    =  4,<br />
-  pages     = "2563--2581",<br />
-  month     =  dec,<br />
-  year      =  2020}'
+citation: 'W. Xie, J. Reis, D. Cabecinhas, and C. Silvestre, “Design and experimental validation of a nonlinear controller for underactuated surface vessels,” Nonlinear Dynamics, vol. 102, no. 4. Springer Science and Business Media LLC, pp. 2563–2581, Nov. 06, 2020.'
+bibtex: '@article{2020_Xie_NODY,<br />
+  doi = {10.1007/s11071-020-06058-8},<br />
+  url = {https://doi.org/10.1007/s11071-020-06058-8},<br />
+  year = {2020},<br />
+  month = nov,<br />
+  publisher = {Springer Science and Business Media {LLC}},<br />
+  volume = {102},<br />
+  number = {4},<br />
+  pages = {2563--2581},<br />
+  author = {Wei Xie and Joel Reis and David Cabecinhas and Carlos Silvestre},<br />
+  title = {Design and experimental validation of a nonlinear controller for underactuated surface vessels},<br />
+  journal = {Nonlinear Dynamics}<br />
+}'
 ---
 **Abstract**
 ---

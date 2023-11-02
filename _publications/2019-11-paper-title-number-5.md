@@ -11,17 +11,19 @@ number: 5
 authors: [reis,batista,oliveira,silvestre]
 publisherurl: 'https://www.sciencedirect.com/science/article/pii/S096706611930139X'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2019_CEP_Attitude_estimation_using_high_grade_gyroscopes.pdf'
-citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Attitude estimation using high-grade gyroscopes," Control Engineering Practice, Volume 92, 2019, 104134, ISSN 0967-0661, doi:10.1016/j.conengprac.2019.104134.'
-bibtex: '@ARTICLE{Reis2019-tg,<br />
-  title     = "Attitude estimation using high-grade gyroscopes",<br />
-  author    = "Reis, Joel and Batista, Pedro and Oliveira, Paulo and Silvestre, Carlos",<br />
-  journal   = "Control Eng. Pract.",<br />
-  publisher = "Elsevier BV",<br />
-  volume    =  92,<br />
-  number    =  104134,<br />
-  pages     = "104134",<br />
-  month     =  nov,<br />
-  year      =  2019}'
+citation: 'J. Reis, P. Batista, P. Oliveira, and C. Silvestre, “Attitude estimation using high-grade gyroscopes,” Control Engineering Practice, vol. 92. Elsevier BV, p. 104134, Nov. 2019.'
+bibtex: '@article{2019_Reis_CEP,<br />
+  doi = {10.1016/j.conengprac.2019.104134},<br />
+  url = {https://doi.org/10.1016/j.conengprac.2019.104134},<br />
+  year = {2019},<br />
+  month = nov,<br />
+  publisher = {Elsevier {BV}},<br />
+  volume = {92},<br />
+  pages = {104134},<br />
+  author = {Joel Reis and Pedro Batista and Paulo Oliveira and Carlos Silvestre},<br />
+  title = {Attitude estimation using high-grade gyroscopes},<br />
+  journal = {Control Engineering Practice}<br />
+}'
 ---
 **Abstract**
 ---

@@ -12,14 +12,17 @@ number: 4
 authors: [casau,reis,silvestre]
 publisherurl: 'https://ieeexplore.ieee.org/document/9867657'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2022_ACC_Event-triggered_trajectory_tracking_control_of_an_underactuated_autonomous_surface_vessel.pdf'
-citation: 'P. Casau, J. Reis, and C. Silvestre, "Event-triggered trajectory tracking control of an underactuated autonomous surface vessel," 2022 American Control Conference (ACC), 2022, pp. 1757-1762, doi: 10.23919/ACC53348.2022.9867657.'
-bibtex: '@INPROCEEDINGS{9867657,<br />
-  author={Casau, Pedro and Reis, Joel and Silvestre, Carlos},<br />
-  booktitle={2022 American Control Conference (ACC)},<br />
-  title={Event-triggered trajectory tracking control of an underactuated autonomous surface vessel},<br />
-  year={2022},<br />
-  pages={1757-1762},<br />
-  doi={10.23919/ACC53348.2022.9867657}}' 
+citation: 'P. Casau, J. Reis, and C. Silvestre, “Event-triggered trajectory tracking control of an underactuated autonomous surface vessel,” 2022 American Control Conference (ACC). IEEE, Jun. 08, 2022.'
+bibtex: '@inproceedings{2022_Casau_ACC,<br />
+  doi = {10.23919/acc53348.2022.9867657},<br />
+  url = {https://doi.org/10.23919/acc53348.2022.9867657},<br />
+  year = {2022},<br />
+  month = jun,<br />
+  publisher = {{IEEE}},<br />
+  author = {Pedro Casau and Joel Reis and Carlos Silvestre},<br />
+  title = {Event-triggered trajectory tracking control of an underactuated autonomous surface vessel},<br />
+  booktitle = {2022 American Control Conference ({ACC})}<br />
+}' 
 ---
 **Abstract**
 ---

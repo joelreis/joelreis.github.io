@@ -11,16 +11,20 @@ number: 11
 authors: [reis, xiewei, cabecinhas, silvestre]
 publisherurl: 'https://ieeexplore.ieee.org/document/9947332'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2022_TIV_Nonlinear_Backstepping_Controller_for_an_Underactuated_ASV_With_Model_Parametric_Uncertainty_Design_and_Experimental_Validation.pdf'
-citation: 'J. Reis, W. Xie, D. Cabecinhas and C. Silvestre, "Nonlinear Backstepping Controller for an Underactuated ASV With Model Parametric Uncertainty: Design and Experimental Validation," in IEEE Transactions on Intelligent Vehicles, vol. 8, no. 3, pp. 2514-2526, March 2023, doi: 10.1109/TIV.2022.3221739.'
-bibtex: '@ARTICLE{2023_Reis_TIV,<br />
-  author={Reis, Joel and Xie, Wei and Cabecinhas, David and Silvestre, Carlos},<br />
-  journal={IEEE Transactions on Intelligent Vehicles},<br />
-  title={Nonlinear Backstepping Controller for an Underactuated ASV With Model Parametric Uncertainty: Design and Experimental Validation},<br />
-  year={2023},<br />
-  volume={8},<br />
-  number={3},<br />
-  pages={2514-2526},<br />
-  doi={10.1109/TIV.2022.3221739}}'
+citation: 'J. Reis, W. Xie, D. Cabecinhas, and C. Silvestre, “Nonlinear Backstepping Controller for an Underactuated ASV With Model Parametric Uncertainty: Design and Experimental Validation,” IEEE Transactions on Intelligent Vehicles, vol. 8, no. 3. Institute of Electrical and Electronics Engineers (IEEE), pp. 2514–2526, Mar. 2023.'
+bibtex: '@article{2023_Reis_TIV,<br />
+  doi = {10.1109/tiv.2022.3221739},<br />
+  url = {https://doi.org/10.1109/tiv.2022.3221739},<br />
+  year = {2023},<br />
+  month = mar,<br />
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},<br />
+  volume = {8},<br />
+  number = {3},<br />
+  pages = {2514--2526},<br />
+  author = {Joel Reis and Wei Xie and David Cabecinhas and Carlos Silvestre},<br />
+  title = {Nonlinear Backstepping Controller for an Underactuated {ASV} With Model Parametric Uncertainty: Design and Experimental Validation},<br />
+  journal = {{IEEE} Transactions on Intelligent Vehicles}<br />
+}'
 ---
 **Abstract**
 ---

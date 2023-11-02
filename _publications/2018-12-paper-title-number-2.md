@@ -11,17 +11,20 @@ number: 2
 authors: [reis,batista,oliveira,silvestre]
 publisherurl: 'https://ieeexplore.ieee.org/abstract/document/8351953'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2018_TAES_Source_Localization_Based_on_Acoustic_Single_Direction_Measurements.pdf'
-citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Source Localization Based on Acoustic Single Direction Measurements," IEEE Transactions on Aerospace and Electronic Systems, vol. 54, no. 6, pp. 2837-2852, Dec. 2018, doi:10.1109/TAES.2018.2831118.'
-bibtex: '@ARTICLE{Reis2018-wu,<br />
-  title     = "Source localization based on acoustic single direction measurements",<br />
-  author    = "Reis, Joel and Batista, Pedro and Oliveira, Paulo and Silvestre, Carlos",<br />
-  journal   = "IEEE Trans. Aerosp. Electron. Syst.",<br />
-  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",<br />
-  volume    =  54,<br />
-  number    =  6,<br />
-  pages     = "2837--2852",<br />
-  month     =  dec,<br />
-  year      =  2018}'
+citation: 'J. O. Reis, P. T. M. Batista, P. Oliveira, and C. Silvestre, “Source Localization Based on Acoustic Single Direction Measurements,” IEEE Transactions on Aerospace and Electronic Systems, vol. 54, no. 6. Institute of Electrical and Electronics Engineers (IEEE), pp. 2837–2852, Dec. 2018.'
+bibtex: '@article{2018_Reis_TAES,<br />
+  doi = {10.1109/taes.2018.2831118},<br />
+  url = {https://doi.org/10.1109/taes.2018.2831118},<br />
+  year = {2018},<br />
+  month = dec,<br />
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},<br />
+  volume = {54},<br />
+  number = {6},<br />
+  pages = {2837--2852},<br />
+  author = {Joel Oliveira Reis and Pedro T. M. Batista and Paulo Oliveira and Carlos Silvestre},<br />
+  title = {Source Localization Based on Acoustic Single Direction Measurements},<br />
+  journal = {{IEEE} Transactions on Aerospace and Electronic Systems}<br />
+}'
 ---
 **Abstract**
 ---

@@ -11,18 +11,20 @@ number: 16
 authors: [linghuan, reis, weihe, silvestre]
 publisherurl: 'https://ieeexplore.ieee.org/document/10197442'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_TCST_Comprehensive_nonlinear_control_strategy_for_VTOL_UAVs_with_windowed_output_constraints.pdf'
-citation: 'L. Kong, J. Reis, W. He, and C. Silvestre, "Comprehensive nonlinear control strategy for
-VTOL-UAVs with windowed output constraints," IEEE Transactions on Control Systems Technology, 2023. (in press)'
-bibtex: '@ARTICLE{2023_Kong_TCST,<br />
-  title = {Comprehensive nonlinear control strategy for VTOL-UAVs with windowed output constraints},<br />
-  journal   = "Transactions on Control Systems Technology",<br />
-  publisher = "IEEE",<br />
-  volume = {},<br />
-  pages = {},<br />
+citation: 'L. Kong, J. Reis, W. He, and C. Silvestre, “Comprehensive Nonlinear Control Strategy for VTOL-UAVs With Windowed Output Constraints,” IEEE Transactions on Control Systems Technology, vol. 31, no. 6. Institute of Electrical and Electronics Engineers (IEEE), pp. 2673–2684, Nov. 2023.'
+bibtex: '@article{2023_Kong_TCST,<br />
+  doi = {10.1109/tcst.2023.3286044},<br />
+  url = {https://doi.org/10.1109/tcst.2023.3286044},<br />
   year = {2023},<br />
-  issn = {},<br />
-  doi = {},<br />
-  author = {Linghuan Kong and Joel Reis and Wei He and Carlos Silvestre}'
+  month = nov,<br />
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},<br />
+  volume = {31},<br />
+  number = {6},<br />
+  pages = {2673--2684},<br />
+  author = {Linghuan Kong and Joel Reis and Wei He and Carlos Silvestre},<br />
+  title = {Comprehensive Nonlinear Control Strategy for {VTOL}-{UAVs} With Windowed Output Constraints},<br />
+  journal = {{IEEE} Transactions on Control Systems Technology}<br />
+}'
 ---
 **Abstract**
 ---

@@ -21,6 +21,10 @@ redirect_from:
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
+* Styles: /assets/css/
+
+The main colors of the website are defined in _/assets/css/main.scss
+
 
 ## Tips and hints
 

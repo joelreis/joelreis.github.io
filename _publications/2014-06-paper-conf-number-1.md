@@ -12,14 +12,17 @@ number: 1
 authors: [reis,oliveira,batista,silvestre]
 publisherurl: 'https://ieeexplore.ieee.org/document/6907285'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2014_ICRA_Filter_design_for_localization_aided_by_direction_and_Doppler_measurements.pdf'
-citation: 'Joel Reis, Paulo Oliveira, Pedro Batista and Carlos Silvestre, "Filter design for localization aided by direction and Doppler measurements," 2014 IEEE International Conference on Robotics and Automation (ICRA), 2014, pp. 2957-2962, doi: 10.1109/ICRA.2014.6907285.'
-bibtex: '@INPROCEEDINGS{6907285,<br />
-  author={Reis, Joel and Oliveira, Paulo and Batista, Pedro and Silvestre, Carlos},<br />
-  booktitle={2014 IEEE International Conference on Robotics and Automation (ICRA)},<br /> 
-  title={Filter design for localization aided by direction and Doppler measurements},<br /> 
-  year={2014},<br />
-  pages={2957-2962},<br />
-  doi={10.1109/ICRA.2014.6907285}}' 
+citation: 'J. Reis, P. Oliveira, P. Batista, and C. Silvestre, “Filter design for localization aided by direction and Doppler measurements,” 2014 IEEE International Conference on Robotics and Automation (ICRA). IEEE, May 2014.'
+bibtex: '@inproceedings{2014_Reis_ICRA,<br />
+  doi = {10.1109/icra.2014.6907285},<br />
+  url = {https://doi.org/10.1109/icra.2014.6907285},<br />
+  year = {2014},<br />
+  month = may,<br />
+  publisher = {{IEEE}},<br />
+  author = {Joel Reis and Paulo Oliveira and Pedro Batista and Carlos Silvestre},<br />
+  title = {Filter design for localization aided by direction and Doppler measurements},<br />
+  booktitle = {2014 {IEEE} International Conference on Robotics and Automation ({ICRA})}<br />
+}' 
 ---
 **Abstract**
 ---

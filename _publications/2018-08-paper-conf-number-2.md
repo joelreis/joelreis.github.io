@@ -12,14 +12,17 @@ number: 2
 authors: [reis,batista,oliveira,silvestre]
 publisherurl: 'https://ieeexplore.ieee.org/document/8511381'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2018_CCTA_Nonlinear_Attitude_Observer_on_SO3_Based_on_Single_Body-Vector_Measurements.pdf'
-citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Nonlinear Attitude Observer on SO(3) Based on Single Body-Vector Measurements (CCTA), 2018, pp. 1319-1324, doi: 10.1109/CCTA.2018.8511381.'
-bibtex: '@INPROCEEDINGS{8511381,<br />
-  author={Reis, Joel and Batista, Pedro and Oliveira, Paulo and Silvestre, Carlos},<br />
-  booktitle={2018 IEEE Conference on Control Technology and Applications (CCTA)},<br />
-  title={Nonlinear Attitude Observer on SO(3) Based on Single Body-Vector Measurements},<br />
-  year={2018},<br />
-  pages={1319-1324},<br />
-  doi={10.1109/CCTA.2018.8511381}}' 
+citation: 'J. Reis, P. Batista, P. Oliveira, and C. Silvestre, “Nonlinear Attitude Observer on SO(3) Based on Single Body-Vector Measurements,” 2018 IEEE Conference on Control Technology and Applications (CCTA). IEEE, Aug. 2018.'
+bibtex: '@inproceedings{2018_Reis_CCTA,<br />
+  doi = {10.1109/ccta.2018.8511381},<br />
+  url = {https://doi.org/10.1109/ccta.2018.8511381},<br />
+  year = {2018},<br />
+  month = aug,<br />
+  publisher = {{IEEE}},<br />
+  author = {Joel Reis and Pedro Batista and Paulo Oliveira and Carlos Silvestre},<br />
+  title = {Nonlinear Attitude Observer on {SO}(3) Based on Single Body-Vector Measurements},<br />
+  booktitle = {2018 {IEEE} Conference on Control Technology and Applications ({CCTA})}<br />
+}' 
 ---
 **Abstract**
 ---

@@ -11,17 +11,19 @@ number: 15
 authors: [reis, yugan, silvestre]
 publisherurl: 'https://www.sciencedirect.com/science/article/pii/S0005109823003084'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_Automatica_Kalman_based_velocity_free_trajectory_tracking_control_of_an_underactuated_aerial_vehicle_with_unknown_system_dynamics.pdf'
-citation: 'J. Reis, G. Yu, and C. Silvestre, “Kalman-based velocity-free trajectory tracking control of an underactuated aerial vehicle with unknown system dynamics,” Automatica, vol. 155. Elsevier BV, p. 111148, Sep. 2023. doi: 10.1016/j.automatica.2023.111148. '
-bibtex: '@ARTICLE{2023_Reis_Automatica,<br />
-  title = {Kalman-based velocity-free trajectory tracking control of an underactuated aerial vehicle with unknown system dynamics},<br />
-  journal   = "Automatica (Oxf.)",<br />
-  publisher = "Elsevier BV",<br />
+citation: 'J. Reis, G. Yu, and C. Silvestre, “Kalman-based velocity-free trajectory tracking control of an underactuated aerial vehicle with unknown system dynamics,” Automatica, vol. 155. Elsevier BV, p. 111148, Sep. 2023.'
+bibtex: '@article{2023_Reis_Automatica,<br />
+  doi = {10.1016/j.automatica.2023.111148},<br />
+  url = {https://doi.org/10.1016/j.automatica.2023.111148},<br />
+  year = {2023},<br />
+  month = sep,<br />
+  publisher = {Elsevier {BV}},<br />
   volume = {155},<br />
   pages = {111148},<br />
-  year = {2023},<br />
-  month = {sep},<br />
-  doi = {10.1016/j.automatica.2023.111148},<br />
-  author = {Joel Reis and Gan Yu and Carlos Silvestre}'
+  author = {Joel Reis and Gan Yu and Carlos Silvestre},<br />
+  title = {Kalman-based velocity-free trajectory tracking control of an underactuated aerial vehicle with unknown system dynamics},<br />
+  journal = {Automatica}<br />
+}'
 ---
 **Abstract**
 ---

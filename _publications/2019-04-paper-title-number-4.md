@@ -11,17 +11,20 @@ number: 4
 authors: [reis,batista,oliveira,silvestre]
 publisherurl: 'https://ieeexplore.ieee.org/abstract/document/8675345'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2019_SL_Calibration_of_High-Grade_Inertial_Measurement_Units_Using_a_Rate_Table.pdf'
-citation: 'Joel Reis, Pedro Batista, Paulo Oliveira and Carlos Silvestre, "Calibration of High-Grade Inertial Measurement Units Using a Rate Table," IEEE Sensors Letters, vol. 3, no. 4, pp. 1-4, April 2019, Art no. 6000704, doi:10.1109/LSENS.2019.2906569.'
-bibtex: '@ARTICLE{Reis2019-el,<br />
-  title     = "Calibration of high-grade inertial measurement units using a rate table",<br />
-  author    = "Reis, Joel and Batista, Pedro and Oliveira, Paulo and Silvestre, Carlos",<br />
-  journal   = "IEEE Sens. Lett.",<br />
-  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",<br />
-  volume    =  3,<br />
-  number    =  4,<br />
-  pages     = "1--4",<br />
-  month     =  apr,<br />
-  year      =  2019}'
+citation: 'J. Reis, P. Batista, P. Oliveira, and C. Silvestre, “Calibration of High-Grade Inertial Measurement Units Using a Rate Table,” IEEE Sensors Letters, vol. 3, no. 4. Institute of Electrical and Electronics Engineers (IEEE), pp. 1–4, Apr. 2019.'
+bibtex: '@article{2019_Reis_SL,<br />
+  doi = {10.1109/lsens.2019.2906569},<br />
+  url = {https://doi.org/10.1109/lsens.2019.2906569},<br />
+  year = {2019},<br />
+  month = apr,<br />
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},<br />
+  volume = {3},<br />
+  number = {4},<br />
+  pages = {1--4},<br />
+  author = {Joel Reis and Pedro Batista and Paulo Oliveira and Carlos Silvestre},<br />
+  title = {Calibration of High-Grade Inertial Measurement Units Using a Rate Table},<br />
+  journal = {{IEEE} Sensors Letters}<br />
+}'
 ---
 **Abstract**
 ---

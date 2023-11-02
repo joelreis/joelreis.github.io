@@ -12,14 +12,17 @@ number: 3
 authors: [reis,silvestre,batista,oliveira]
 publisherurl: 'https://ieeexplore.ieee.org/document/9304161'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2020_CDC_Attitude_observers_aided_by_implicit_measurements_of_the_Earth_angular_velocity.pdf'
-citation: 'Joel Reis, Carlos Silvestre, Pedro Batista and Paulo Oliveira, "Attitude observers aided by implicit measurements of the Earth angular velocity," 2020 59th IEEE Conference on Decision and Control (CDC), 2020, pp. 1300-1305, doi: 10.1109/CDC42340.2020.9304161.'
-bibtex: '@INPROCEEDINGS{9304161,<br />
-  author={Reis, Joel and Silvestre, Carlos and Batista, Pedro and Oliveira, Paulo},<br />
-  booktitle={2020 59th IEEE Conference on Decision and Control (CDC)},<br />
-  title={Attitude observers aided by implicit measurements of the Earth angular velocity},<br />
-  year={2020},<br />
-  pages={1300-1305},<br />
-  doi={10.1109/CDC42340.2020.9304161}}' 
+citation: 'J. Reis, C. Silvestre, P. Batista, and P. Oliveira, “Attitude observers aided by implicit measurements of the Earth angular velocity,” 2020 59th IEEE Conference on Decision and Control (CDC). IEEE, Dec. 14, 2020.'
+bibtex: '@inproceedings{2020_Reis_CDC,<br />
+  doi = {10.1109/cdc42340.2020.9304161},<br />
+  url = {https://doi.org/10.1109/cdc42340.2020.9304161},<br />
+  year = {2020},<br />
+  month = dec,<br />
+  publisher = {{IEEE}},<br />
+  author = {Joel Reis and Carlos Silvestre and Pedro Batista and Paulo Oliveira},<br />
+  title = {Attitude observers aided by implicit measurements of the Earth angular velocity},<br />
+  booktitle = {2020 59th {IEEE} Conference on Decision and Control ({CDC})}<br />
+}' 
 ---
 **Abstract**
 ---
