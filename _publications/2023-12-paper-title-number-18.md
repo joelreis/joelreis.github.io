@@ -9,6 +9,7 @@ publisher: elsevier
 type: 'journal'
 number: 18
 authors: [weiming, yugan, reis, silvestre]
+publisherurl: 'https://www.sciencedirect.com/science/article/pii/S0005109823005022'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_AUTOMATICA_Robust_Nonlinear_3D_Control_of_an_Inverted_Pendulum_Balanced_on_a_Quadrotor.pdf'
 citation: 'W. Yang, G. Yu, J. Reis, and C. Silvestre, “Robust nonlinear 3D control of an inverted pendulum balanced on a quadrotor,” Automatica, vol. 159. Elsevier BV, p. 111336, Jan. 2024.'
 bibtex: '@article{2024_Yang_Automatica,<br />
