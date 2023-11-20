@@ -8,7 +8,7 @@ venue: automatica
 publisher: elsevier
 type: 'journal'
 number: 19
-authors: [kong, reis, weihe, xinbo, silvestre]
+authors: [linghuan, reis, weihe, xinbo, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2024_AUTOMATICA_On_dynamic_performance_control_for_a_quadrotor_slung_load_system_with_unknown_load_mass.pdf'
 citation: 'L. Kong, J. Reis, W. He, X. Yu, and C. Silvestre, “On dynamic performance control for a quadrotor-slung-load system with unknown load mass,” Automatica, Elsevier BV, (in press), 2024.'
 bibtex: '@article{2024_Kong_Automatica,<br />
