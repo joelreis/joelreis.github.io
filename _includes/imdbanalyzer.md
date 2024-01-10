@@ -7,9 +7,15 @@ The ratings file is available from your IMDb user account.
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
+from datetime import date
 
 ratings  =  pd.read_csv("ratings.csv")
+
+print("Last updated:" + str(date.today()))
 ```
+
+    Last updated:2024-01-10
+    
 
 Parsing data.
 
@@ -63,7 +69,7 @@ plt.show()
 
 
     
-![png](../images/imdbanalyzer_5_0.png)
+![png](imdbanalyzer_files/imdbanalyzer_5_0.png)
     
 
 
@@ -137,7 +143,7 @@ genres_dataframe_less_watched.style.set_table_styles(
 
 
     
-![png](../images/imdbanalyzer_7_0.png)
+![png](imdbanalyzer_files/imdbanalyzer_7_0.png)
     
 
 
@@ -145,19 +151,19 @@ genres_dataframe_less_watched.style.set_table_styles(
 
 
 <style type="text/css">
-#T_1aece th {
+#T_1700b th {
   background-color: #D3D3D3;
 }
-#T_1aece tbody tr:nth-child(even) {
+#T_1700b tbody tr:nth-child(even) {
   background-color: #89CFF0;
 }
 </style>
-<table id="T_1aece">
+<table id="T_1700b">
   <thead>
     <tr>
       <th class="blank level0" >&nbsp;</th>
-      <th id="T_1aece_level0_col0" class="col_heading level0 col0" >Genre</th>
-      <th id="T_1aece_level0_col1" class="col_heading level0 col1" >Movies watched</th>
+      <th id="T_1700b_level0_col0" class="col_heading level0 col0" >Genre</th>
+      <th id="T_1700b_level0_col1" class="col_heading level0 col1" >Movies watched</th>
     </tr>
     <tr>
       <th class="index_name level0" >#</th>
@@ -167,79 +173,79 @@ genres_dataframe_less_watched.style.set_table_styles(
   </thead>
   <tbody>
     <tr>
-      <th id="T_1aece_level0_row0" class="row_heading level0 row0" >8</th>
-      <td id="T_1aece_row0_col0" class="data row0 col0" >Sci-Fi</td>
-      <td id="T_1aece_row0_col1" class="data row0 col1" >372</td>
+      <th id="T_1700b_level0_row0" class="row_heading level0 row0" >8</th>
+      <td id="T_1700b_row0_col0" class="data row0 col0" >Sci-Fi</td>
+      <td id="T_1700b_row0_col1" class="data row0 col1" >380</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row1" class="row_heading level0 row1" >9</th>
-      <td id="T_1aece_row1_col0" class="data row1 col0" >Romance</td>
-      <td id="T_1aece_row1_col1" class="data row1 col1" >268</td>
+      <th id="T_1700b_level0_row1" class="row_heading level0 row1" >9</th>
+      <td id="T_1700b_row1_col0" class="data row1 col0" >Romance</td>
+      <td id="T_1700b_row1_col1" class="data row1 col1" >286</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row2" class="row_heading level0 row2" >10</th>
-      <td id="T_1aece_row2_col0" class="data row2 col0" >Fantasy</td>
-      <td id="T_1aece_row2_col1" class="data row2 col1" >262</td>
+      <th id="T_1700b_level0_row2" class="row_heading level0 row2" >10</th>
+      <td id="T_1700b_row2_col0" class="data row2 col0" >Fantasy</td>
+      <td id="T_1700b_row2_col1" class="data row2 col1" >276</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row3" class="row_heading level0 row3" >11</th>
-      <td id="T_1aece_row3_col0" class="data row3 col0" >Horror</td>
-      <td id="T_1aece_row3_col1" class="data row3 col1" >254</td>
+      <th id="T_1700b_level0_row3" class="row_heading level0 row3" >11</th>
+      <td id="T_1700b_row3_col0" class="data row3 col0" >Horror</td>
+      <td id="T_1700b_row3_col1" class="data row3 col1" >255</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row4" class="row_heading level0 row4" >12</th>
-      <td id="T_1aece_row4_col0" class="data row4 col0" >Family</td>
-      <td id="T_1aece_row4_col1" class="data row4 col1" >168</td>
+      <th id="T_1700b_level0_row4" class="row_heading level0 row4" >12</th>
+      <td id="T_1700b_row4_col0" class="data row4 col0" >Family</td>
+      <td id="T_1700b_row4_col1" class="data row4 col1" >179</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row5" class="row_heading level0 row5" >13</th>
-      <td id="T_1aece_row5_col0" class="data row5 col0" >Biography</td>
-      <td id="T_1aece_row5_col1" class="data row5 col1" >125</td>
+      <th id="T_1700b_level0_row5" class="row_heading level0 row5" >13</th>
+      <td id="T_1700b_row5_col0" class="data row5 col0" >Biography</td>
+      <td id="T_1700b_row5_col1" class="data row5 col1" >129</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row6" class="row_heading level0 row6" >14</th>
-      <td id="T_1aece_row6_col0" class="data row6 col0" >Animation</td>
-      <td id="T_1aece_row6_col1" class="data row6 col1" >109</td>
+      <th id="T_1700b_level0_row6" class="row_heading level0 row6" >14</th>
+      <td id="T_1700b_row6_col0" class="data row6 col0" >Animation</td>
+      <td id="T_1700b_row6_col1" class="data row6 col1" >116</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row7" class="row_heading level0 row7" >15</th>
-      <td id="T_1aece_row7_col0" class="data row7 col0" >War</td>
-      <td id="T_1aece_row7_col1" class="data row7 col1" >80</td>
+      <th id="T_1700b_level0_row7" class="row_heading level0 row7" >15</th>
+      <td id="T_1700b_row7_col0" class="data row7 col0" >War</td>
+      <td id="T_1700b_row7_col1" class="data row7 col1" >84</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row8" class="row_heading level0 row8" >16</th>
-      <td id="T_1aece_row8_col0" class="data row8 col0" >History</td>
-      <td id="T_1aece_row8_col1" class="data row8 col1" >68</td>
+      <th id="T_1700b_level0_row8" class="row_heading level0 row8" >16</th>
+      <td id="T_1700b_row8_col0" class="data row8 col0" >History</td>
+      <td id="T_1700b_row8_col1" class="data row8 col1" >73</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row9" class="row_heading level0 row9" >17</th>
-      <td id="T_1aece_row9_col0" class="data row9 col0" >Western</td>
-      <td id="T_1aece_row9_col1" class="data row9 col1" >32</td>
+      <th id="T_1700b_level0_row9" class="row_heading level0 row9" >17</th>
+      <td id="T_1700b_row9_col0" class="data row9 col0" >Western</td>
+      <td id="T_1700b_row9_col1" class="data row9 col1" >33</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row10" class="row_heading level0 row10" >18</th>
-      <td id="T_1aece_row10_col0" class="data row10 col0" >Sport</td>
-      <td id="T_1aece_row10_col1" class="data row10 col1" >31</td>
+      <th id="T_1700b_level0_row10" class="row_heading level0 row10" >18</th>
+      <td id="T_1700b_row10_col0" class="data row10 col0" >Sport</td>
+      <td id="T_1700b_row10_col1" class="data row10 col1" >31</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row11" class="row_heading level0 row11" >19</th>
-      <td id="T_1aece_row11_col0" class="data row11 col0" >Music</td>
-      <td id="T_1aece_row11_col1" class="data row11 col1" >27</td>
+      <th id="T_1700b_level0_row11" class="row_heading level0 row11" >19</th>
+      <td id="T_1700b_row11_col0" class="data row11 col0" >Music</td>
+      <td id="T_1700b_row11_col1" class="data row11 col1" >29</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row12" class="row_heading level0 row12" >20</th>
-      <td id="T_1aece_row12_col0" class="data row12 col0" >Documentary</td>
-      <td id="T_1aece_row12_col1" class="data row12 col1" >25</td>
+      <th id="T_1700b_level0_row12" class="row_heading level0 row12" >20</th>
+      <td id="T_1700b_row12_col0" class="data row12 col0" >Musical</td>
+      <td id="T_1700b_row12_col1" class="data row12 col1" >28</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row13" class="row_heading level0 row13" >21</th>
-      <td id="T_1aece_row13_col0" class="data row13 col0" >Musical</td>
-      <td id="T_1aece_row13_col1" class="data row13 col1" >24</td>
+      <th id="T_1700b_level0_row13" class="row_heading level0 row13" >21</th>
+      <td id="T_1700b_row13_col0" class="data row13 col0" >Documentary</td>
+      <td id="T_1700b_row13_col1" class="data row13 col1" >26</td>
     </tr>
     <tr>
-      <th id="T_1aece_level0_row14" class="row_heading level0 row14" >22</th>
-      <td id="T_1aece_row14_col0" class="data row14 col0" >Film-Noir</td>
-      <td id="T_1aece_row14_col1" class="data row14 col1" >15</td>
+      <th id="T_1700b_level0_row14" class="row_heading level0 row14" >22</th>
+      <td id="T_1700b_row14_col0" class="data row14 col0" >Film-Noir</td>
+      <td id="T_1700b_row14_col1" class="data row14 col1" >15</td>
     </tr>
   </tbody>
 </table>
@@ -286,7 +292,7 @@ plt.show()
 
 
     
-![png](../images/imdbanalyzer_9_0.png)
+![png](imdbanalyzer_files/imdbanalyzer_9_0.png)
     
 
 
@@ -312,11 +318,11 @@ plt.show()
 
 
     
-![png](../images/imdbanalyzer_11_0.png)
+![png](imdbanalyzer_files/imdbanalyzer_11_0.png)
     
 
 
-Let us now take a look at the average ratings in function of release year.  
+Let us now take a look at the average ratings in function of release year. 
 
 
 ```python
@@ -347,11 +353,13 @@ ax.grid(axis='x')
 
 
     
-![png](../images/imdbanalyzer_13_0.png)
+![png](imdbanalyzer_files/imdbanalyzer_13_0.png)
     
 
 
-Let us see now aligned I am with the masses.
+Let us see now how aligned I am with the masses.
+
+It seems that we kind of agree on the 7's. 
 
 
 ```python
@@ -364,6 +372,9 @@ sequence_x = np.linspace(counted_ratings[0][0], counted_ratings[0][-1], num=50)
 
 # Plot regression line
 plt.plot(sequence_x, b + m * sequence_x, color="r", linestyle = '--', lw=1.5)
+
+# Plot y = x line
+plt.plot(sequence_x, sequence_x, color="g", linestyle = '--', lw=1.5)
 
 mean_rating = np.empty([len(counted_ratings[0])]) # Empty array
 std_rating  = np.empty([len(counted_ratings[0])]) # Empty array
@@ -385,6 +396,6 @@ plt.show()
 
 
     
-![png](../images/imdbanalyzer_15_0.png)
+![png](imdbanalyzer_files/imdbanalyzer_15_0.png)
     
 
