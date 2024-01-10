@@ -69,7 +69,7 @@ plt.show()
 
 
     
-![png](imdbanalyzer_files/imdbanalyzer_5_0.png)
+![png](images/imdbanalyzer_files/imdbanalyzer_5_0.png)
     
 
 
@@ -143,7 +143,7 @@ genres_dataframe_less_watched.style.set_table_styles(
 
 
     
-![png](imdbanalyzer_files/imdbanalyzer_7_0.png)
+![png](images/imdbanalyzer_files/imdbanalyzer_7_0.png)
     
 
 
@@ -292,7 +292,7 @@ plt.show()
 
 
     
-![png](imdbanalyzer_files/imdbanalyzer_9_0.png)
+![png](images/imdbanalyzer_files/imdbanalyzer_9_0.png)
     
 
 
@@ -318,7 +318,7 @@ plt.show()
 
 
     
-![png](imdbanalyzer_files/imdbanalyzer_11_0.png)
+![png](images/imdbanalyzer_files/imdbanalyzer_11_0.png)
     
 
 
@@ -353,7 +353,7 @@ ax.grid(axis='x')
 
 
     
-![png](imdbanalyzer_files/imdbanalyzer_13_0.png)
+![png](images/imdbanalyzer_files/imdbanalyzer_13_0.png)
     
 
 
@@ -396,6 +396,6 @@ plt.show()
 
 
     
-![png](imdbanalyzer_files/imdbanalyzer_15_0.png)
+![png](images/imdbanalyzer_files/imdbanalyzer_15_0.png)
     
 
