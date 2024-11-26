@@ -269,7 +269,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-jupyter-notebook
-  
+  - jekyll-gfm-admonitions
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

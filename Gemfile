@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -25,6 +27,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "jekyll-jupyter-notebook"
+  gem 'jekyll-gfm-admonitions', path: '.'
 end
 
 gem 'tzinfo-data'
