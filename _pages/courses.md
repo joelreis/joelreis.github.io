@@ -16,7 +16,9 @@ author_profile: true
 
 ---
 
+<!-- prettier-ignore -->
 > [!NOTE]
+> 
 > In the courses listed below, I served as a teaching assistant, conducting tutorial (problem-solving) lessons.
 
 # Academic Year 2023/2024
