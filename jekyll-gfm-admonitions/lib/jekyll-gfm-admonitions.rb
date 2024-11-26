@@ -49,14 +49,14 @@ module JekyllGFMAdmonitions
 
     def process_posts(site)
       site.posts.docs.each do |doc|
-        Jekyll.logger.info 'GFMA:', "Processing post '#{doc.path}' (#{doc.content.length} characters)."
+        Jekyll.logger.debug 'GFMA:', "Processing post '#{doc.path}' (#{doc.content.length} characters)."
         process_doc(doc)
       end
     end
 
     def process_pages(site)
       site.pages.each do |page|
-        Jekyll.logger.info 'GFMA:', "Processing page '#{page.path}' (#{page.content.length} characters)."
+        Jekyll.logger.debug 'GFMA:', "Processing page '#{page.path}' (#{page.content.length} characters)."
         process_doc_content(page)
       end
     end
