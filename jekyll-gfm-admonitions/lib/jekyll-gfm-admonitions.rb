@@ -49,14 +49,14 @@ module JekyllGFMAdmonitions
 
     def process_posts(site)
       site.posts.docs.each do |doc|
-        Jekyll.logger.debug 'GFMA:', "Processing post '#{doc.path}' (#{doc.content.length} characters)."
+        Jekyll.logger.info 'GFMA:', "Processing post '#{doc.path}' (#{doc.content.length} characters)."
         process_doc(doc)
       end
     end
 
     def process_pages(site)
       site.pages.each do |page|
-        Jekyll.logger.debug 'GFMA:', "Processing page '#{page.path}' (#{page.content.length} characters)."
+        Jekyll.logger.info 'GFMA:', "Processing page '#{page.path}' (#{page.content.length} characters)."
         process_doc_content(page)
       end
     end
@@ -76,7 +76,7 @@ module JekyllGFMAdmonitions
       code_blocks = []
       # Temporarily replace code blocks by a tag, so that we don't process any admonitions
       # inside of code blocks.
-      doc.content.gsub(/(?:^|\n)(?<!>)\s*```.*?```/m) do |match|
+      doc.content = doc.content.gsub(/(?:^|\n)(?<!>)\s*```.*?```/m) do |match|
         code_blocks << match
         "```{{CODE_BLOCK_#{code_blocks.length - 1}}}```"
       end
@@ -84,13 +84,13 @@ module JekyllGFMAdmonitions
       convert_admonitions(doc)
 
       # Put the code blocks back in place
-      doc.content.gsub(/```\{\{CODE_BLOCK_(\d+)}}```/) do
+      doc.content = doc.content.gsub(/```\{\{CODE_BLOCK_(\d+)}}```/) do
         code_blocks[::Regexp.last_match(1).to_i]
       end
     end
 
     def convert_admonitions(doc)
-      doc.content.gsub(/>\s*\[!(IMPORTANT|NOTE|WARNING|TIP|CAUTION)\]\s*\n((?:>.*\n?)*)/) do
+      doc.content = doc.content.gsub(/>\s*\[!(IMPORTANT|NOTE|WARNING|TIP|CAUTION)\]\s*\n((?:>.*\n?)*)/) do
         type = ::Regexp.last_match(1).downcase
         title = type.capitalize
         text = ::Regexp.last_match(2).gsub(/^>\s*/, '').strip

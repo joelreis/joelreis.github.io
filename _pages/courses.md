@@ -17,7 +17,6 @@ author_profile: true
 ---
 
 > [!NOTE]
->
 > In the courses listed below, I served as a teaching assistant, conducting tutorial (problem-solving) lessons.
 
 # Academic Year 2023/2024
@@ -25,6 +24,7 @@ author_profile: true
 > ## Spring (2nd) semester
 >
 >> - ECEN3001 Digital Signal Processing
+>
 > ## Fall (1st) semester
 >
 >> - ECEN2018 Linear Algebra - Probability and Statistics 
@@ -36,6 +36,7 @@ author_profile: true
 > ## Spring (2nd) semester
 >
 >> - ECEN3001 Digital Signal Processing
+>
 > ## Fall (1st) semester
 >
 >> - ECEN2018 Linear Algebra - Probability and Statistics 
@@ -47,6 +48,7 @@ author_profile: true
 > ## Spring (2nd) semester
 >
 >> - ECEN3001 Digital Signal Processing
+>
 > ## Fall (1st) semester
 >
 >> - ECEN2008 Linear Algebra
@@ -59,6 +61,7 @@ author_profile: true
 > ## Spring (2nd) semester
 >
 >> - ECEN3001 Digital Signal Processing
+>
 > ## Fall (1st) semester
 >
 >> - EMEN3002 Control Engineering
