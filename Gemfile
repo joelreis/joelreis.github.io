@@ -27,7 +27,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "jekyll-jupyter-notebook"
-  gem 'jekyll-gfm-admonitions', path: './_plugins/'
+  gem 'jekyll-gfm-admonitions', path: './_plugins'
 end
 
 gem 'tzinfo-data'

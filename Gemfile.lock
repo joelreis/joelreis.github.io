@@ -1,5 +1,5 @@
 PATH
-  remote: .
+  remote: _plugins
   specs:
     jekyll-gfm-admonitions (1.0.2)
       cssminify (~> 1.0)
@@ -58,6 +58,7 @@ GEM
       faraday (~> 2.0)
     ffi (1.17.0-x64-mingw-ucrt)
     ffi (1.17.0-x86_64-darwin)
+    ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     github-pages (232)
@@ -254,6 +255,8 @@ GEM
     nokogiri (1.16.7-x64-mingw-ucrt)
       racc (~> 1.4)
     nokogiri (1.16.7-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.16.7-x86_64-linux)
       racc (~> 1.4)
     octicons (19.12.0)
     octokit (4.25.1)
