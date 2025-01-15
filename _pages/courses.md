@@ -9,6 +9,11 @@ author_profile: true
 
 # Academic Year 2024/2025
 
+> ## Spring (2nd) semester
+>
+>> - OCES7003 Ocean Acoustics
+>> - CIVL7998/CIVL7198 Project Report
+>
 > ## Fall (1st) semester
 >
 >> - OCES7005 Marine Robotics and Applications
