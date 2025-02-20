@@ -15,3 +15,7 @@ ccta:
 acc:
   name     : American Control Conference
   publisher: IEEE
+
+wace:
+  name     : IFAC Workshop on Aerospace Control Education
+  publisher: Elsevier
