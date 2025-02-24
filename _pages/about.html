@@ -111,9 +111,20 @@ div.box div.body img {
 <p>Currently, I am an Assistant Professor with the <span class="colorgradlink"><a href="https://www.fst.um.edu.mo/ost/" target="_blank">Department of Ocean Science and Technology</a></span> at the <span class="colorgradlink"><a href="https://www.fst.um.edu.mo/" target="_blank">Faculty of Science and Technology</a></span> of the <span class="colorgradlink"><a href="https://www.um.edu.mo/" target="_blank">University of Macau</a></span>.</p>
 </div>
 
-<div class="container">
-  <img src="/images/ostposter.jpg" style="border-radius:10px;">
+<div id="container">
+  <img id="ostpe" src="/images/ostposter_eng.png" style="border-radius:10px;">
+  <img id="ostpc" src="/images/ostposter_chi.jpg" style="border-radius:10px;">
 </div>
+<button onclick="showImage('ostpe')">English</button>
+<button onclick="showImage('ostpc')">Chinese</button>
+
+<script>
+    function showImage(imageId) {
+        document.getElementById('ostpe').style.display = 'none';
+        document.getElementById('ostpc').style.display = 'none';
+        document.getElementById(imageId).style.display = 'block';
+    }
+</script>
 
 <div>
 <p>My research interests encompass estimation and control theory, with applications to aerial, marine surface, and underwater autonomous vehicles.</p>
