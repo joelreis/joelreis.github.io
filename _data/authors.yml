@@ -20,6 +20,11 @@ cunha:
   uri   : "http://name.com"
   email : "rita@isr.tecnico.ulisboa.pt"
 
+juyanhao:
+  name  : Yanhao Ju
+  uri   : "http://name.com"
+  email : "ss_juyh@163.com"
+
 linghuan:
   name  : Linghuan Kong
   uri   : "http://name.com"
@@ -44,6 +49,11 @@ silvestre:
   name  : Carlos Silvestre
   uri   : "http://name.com"
   email : "csilvestre@um.edu.mo"
+
+sunyuangong:
+  name  : Yuangong Sun
+  uri   : "http://name.com"
+  email : "ss_sunyg@ujn.edu.cn"
 
 yugan:
   name  : Gan Yu

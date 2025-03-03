@@ -6,6 +6,12 @@ automatica:
   quartile: Q1
   edition : SCI
 
+tac:
+  name    : IEEE Transactions on Automatic Control
+  IF      : 6.2
+  quartile: Q1
+  edition : SCI
+
 cep:
   name    : Control Engineering Practice
   IF      : 4.9
