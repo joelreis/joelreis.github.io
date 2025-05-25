@@ -10,10 +10,15 @@ type: 'journal'
 number: 20
 authors: [reis, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2025_AUTOMATICA_Kinematics_informed_neural_network_control_on_SO3.pdf'
-citation: 'J. Reis, and C. Silvestre, “Kinematics-informed neural network control on SO(3),” Automatica, Elsevier BV, (in press), 2025.'
+citation: 'J. Reis, and C. Silvestre, “Kinematics-informed neural network control on SO(3),” Automatica, vol. 174. Elsevier BV, p. 112172, Apr. 2025.'
 bibtex: '@article{2025_Reis_Automatica,<br />
+  doi = {10.1016/j.automatica.2025.112172},<br />
+  url = {https://doi.org/10.1016/j.automatica.2025.112172},<br />
   year = {2025},<br />
+  month = apr,<br />
   publisher = {Elsevier {BV}},<br />
+  volume = {174},<br />
+  pages = {112172},<br />
   author = {Joel Reis and Carlos Silvestre},<br />
   title = {Kinematics-informed neural network control on SO(3)},<br />
   journal = {Automatica}<br />
