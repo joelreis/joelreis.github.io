@@ -1,7 +1,7 @@
 ---
 title: "Filter design for localization aided by direction and Doppler measurements"
 collection: confererences
-permalink: /publication/2014-06-paper-title-number-1
+permalink: /publication/2014_Reis_ICRA
 excerpt: 'This paper presents a localization solution for the study of tagged marine animals based on direction and Doppler measurements.'
 date: 2014-06-01
 venue: icra

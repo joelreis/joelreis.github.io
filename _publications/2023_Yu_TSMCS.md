@@ -1,7 +1,7 @@
 ---
 title: "Reduced-Complexity Active Disturbance Rejection Controller for Quadrotor-Slung-Load Transportation"
 collection: publications
-permalink: /publication/2023-04-paper-title-number-14
+permalink: /publication/2023_Yu_TSMCS
 excerpt: 'In this paper we address the problem of trajectory tracking control of a quadrotor-slung-load system.'
 date: 2023-04-01
 venue: smca

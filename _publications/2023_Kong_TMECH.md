@@ -1,7 +1,7 @@
 ---
 title: "Experimental Validation of a Robust Prescribed Performance Nonlinear Controller for an Unmanned Aerial Vehicle With Unknown Mass"
 collection: publications
-permalink: /publication/2023-06-paper-title-number-17
+permalink: /publication/2023_Kong_TMECH
 excerpt: 'We develop and experimentally test a prescribed performance control methodology for trajectory tracking of underactuated autonomous aerial vehicles under unknown time-varying disturbances.'
 date: 2023-06-01
 venue: tmech

@@ -1,7 +1,7 @@
 ---
 title: "Kalman Filter Cascade for Attitude Estimation on Rotating Earth"
 collection: publications
-permalink: /publication/2020-02-paper-title-number-6
+permalink: /publication/2020_Reis_TMECH
 excerpt: 'This article presents a discrete-time attitude estimation solution based on a cascade of two linear time-varying Kalman filters.'
 date: 2020-02-01
 venue: tmech

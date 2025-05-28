@@ -1,7 +1,7 @@
 ---
 title: "On the asymptotic stability of 2-D linear inhomogeneous systems"
 collection: publications
-permalink: /publication/2025-03-paper-title-number-21
+permalink: /publication/2025_Ju_TAC
 excerpt: 'We investigate the stability of discrete-time two-dimensional (2-D) linear inhomogeneous systems.'
 date: 2025-03-01
 venue: tac
@@ -14,6 +14,7 @@ citation: 'Y. Ju, J. Reis, Y. Sun, and C. Silvestre, “On the asymptotic stabil
 bibtex: '@article{2025_Ju_TAC,<br />
   year = {2025},<br />
   publisher = {IEEE,<br />
+  url = {https://doi.org/10.1109/TAC.2025.3549346},<br />
   author = {Yanhao Ju, Joel Reis, Yuangong Sun, and Carlos Silvestre},<br />
   title = {On the asymptotic stability of 2-D linear inhomogeneous systems},<br />
   journal = {Transactions on Automatica Control}<br />

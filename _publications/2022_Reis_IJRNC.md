@@ -1,7 +1,7 @@
 ---
 title: "High performance quadrotor slung load transportation with damped oscillations"
 collection: publications
-permalink: /publication/2022-08-paper-title-number-10
+permalink: /publication/2022_Reis_IJRNC
 excerpt: 'This paper presents a control solution for the problem of slung load transportation, with simultaneous damping of oscillations, using an underactuated autonomous quadrotor vehicle in the presence of external disturbances.'
 date: 2022-08-01
 venue: ijrnc

@@ -1,7 +1,7 @@
 ---
 title: "Discrete-time Kalman filter for heave motion estimation"
 collection: publications
-permalink: /publication/2023-03-paper-title-number-13
+permalink: /publication/2023_Reis_OE
 excerpt: 'In this paper we address the problem of estimating the heave motion of a platform using biased measurements of an accelerometer.'
 date: 2023-03-01
 venue: oe

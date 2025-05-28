@@ -1,7 +1,7 @@
 ---
 title: "Attitude, body-fixed Earth rotation rate, and sensor bias estimation using single observations of direction of gravitational field"
 collection: publications
-permalink: /publication/2021-03-paper-title-number-8
+permalink: /publication/2021_Reis_Automatica
 excerpt: 'This paper addresses the problem of estimating the attitude of a robotic platform using biased measurements of: (i) the direction of the gravitational field and (ii) angular velocity obtained from a set of high-grade gyroscopes sensitive to the Earth’s rotation.'
 date: 2021-03-01
 venue: automatica

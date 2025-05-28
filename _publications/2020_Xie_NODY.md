@@ -1,7 +1,7 @@
 ---
 title: "Design and experimental validation of a nonlinear controller for underactuated surface vessels"
 collection: publications
-permalink: /publication/2020-11-paper-title-number-7
+permalink: /publication/2020_Xie_NODY
 excerpt: 'This paper addresses the problem of trajectory tracking control of an underactuated surface vessel moving in a two-dimensional space in the presence of unknown disturbances.'
 date: 2020-11-01
 venue: nody

@@ -1,7 +1,7 @@
 ---
 title: "Event-triggered trajectory tracking control of an underactuated autonomous surface vessel"
 collection: confererences
-permalink: /publication/2022-06-paper-conf-number-4
+permalink: /publication/2022_Casau_ACC
 excerpt: 'In this paper we develop an event-triggered mechanism to track a reference trajectory using an underactuated autonomous surface vessel.'
 date: 2022-06-08
 venue: acc

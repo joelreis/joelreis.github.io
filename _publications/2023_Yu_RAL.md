@@ -1,7 +1,7 @@
 ---
 title: "Quadrotor Neural Network Adaptive Control: Design and Experimental Validation"
 collection: publications
-permalink: /publication/2023-02-paper-title-number-12
+permalink: /publication/2023_Yu_RAL
 excerpt: 'In this letter, we present the design and experimental study of an adaptive nonlinear controller for Unmanned Aerial Vehicles (UAVs) in the presence of unknown time-varying disturbances, and model parametric uncertainty.'
 date: 2023-02-01
 venue: ral

@@ -1,7 +1,7 @@
 ---
 title: "Kalman-based velocity-free trajectory tracking control of an underactuated aerial vehicle with unknown system dynamics"
 collection: publications
-permalink: /publication/2023-06-paper-title-number-15
+permalink: /publication/2023_Reis_Automatica
 excerpt: 'In this paper we solve the problem of trajectory tracking control of an underactuated autonomous aerial vehicle in the presence of unknown time-varying dynamics.'
 date: 2023-06-01
 venue: automatica

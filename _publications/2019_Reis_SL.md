@@ -1,7 +1,7 @@
 ---
 title: "Calibration of High-Grade Inertial Measurement Units Using a Rate Table"
 collection: publications
-permalink: /publication/2019-04-paper-title-number-4
+permalink: /publication/2019_Reis_SL
 excerpt: 'This article describes an offline calibration methodology, resorting to a three-axis rate and positioning table, for high-grade inertial measurement units that encompass three sets of triaxial sensors: advanced fiber optic gyroscopes sensitive to the Earth''s rotational velocity; low-noise accelerometers; and integrated magnetometers.'
 date: 2019-04-01
 venue: sl

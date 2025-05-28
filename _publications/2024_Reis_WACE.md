@@ -1,7 +1,7 @@
 ---
 title: "Kalman Filter as Observer and Smoother for Rigid-Body Motion Control Applications"
 collection: confererences
-permalink: /publication/2024-12-paper-conf-number-5
+permalink: /publication/2024_Reis_WACE
 excerpt: 'In this paper we develop an event-triggered mechanism to track a reference trajectory using an underactuated autonomous surface vessel.'
 date: 2024-12-01
 venue: wace
@@ -13,7 +13,7 @@ authors: [reis,silvestre]
 publisherurl: 'https://www.sciencedirect.com/science/article/pii/S2405896324012370'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2024_WACE_Kalman_Filter_as_Observer_and_Smoother.pdf'
 citation: 'J. Reis and C. Silvestre, ‘Kalman filter as observer and smoother for rigid-body motion control applications’, IFAC-PapersOnLine, vol. 58, no. 16, pp. 95–100, 2024.'
-bibtex: '@article{REIS202495,<br />
+bibtex: '@article{2024_Reis_WACE,<br />
 title = {Kalman Filter as Observer and Smoother for Rigid-Body Motion Control Applications},<br />
 journal = {IFAC-PapersOnLine},<br />
 volume = {58},<br />

@@ -1,7 +1,7 @@
 ---
 title: "On dynamic performance control for a quadrotor-slung-load system with unknown load mass"
 collection: publications
-permalink: /publication/2023-12-paper-title-number-19
+permalink: /publication/2024_Kong_Automatica
 excerpt: 'We investigate the trajectory tracking problem of a quadrotor-slung-load system with unknown load mass in the presence of pre-specified performance specifications imposed on both the position of the load and the cable direction.'
 date: 2023-12-01
 venue: automatica

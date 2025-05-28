@@ -1,7 +1,7 @@
 ---
 title: "Attitude observers aided by implicit measurements of the Earth angular velocity"
 collection: confererences
-permalink: /publication/2020-12-paper-conf-number-3
+permalink: /publication/2020_Reis_CDC
 excerpt: 'In this tutorial, a new class of attitude estimation solutions is presented to determine the orientation of a robotic platform resorting only to a set of triaxial gyroscopes and an additional measurement of a constant inertial vector.'
 date: 2020-12-20
 venue: cdc
