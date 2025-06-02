@@ -14,10 +14,12 @@ author_profile: true
   You may track the citations to my publications at <a href='https://scholar.google.com/citations?user=QIi3y4wAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google Scholar"></a>
 {% endif %}
 
+{% assign my_sorted_list = site.publications | sort:"number" %}
+
 Publications in Journals
 ------
 
-{% for post in site.publications reversed %}
+{% for post in my_sorted_list reversed %}
   {% if post.type == 'journal' %}
     {% include archive-single.html %}
   {% endif %}
@@ -26,7 +28,7 @@ Publications in Journals
 Publications in Conferences
 ------
 
-{% for post in site.publications reversed %}
+{% for post in my_sorted_list reversed %}
   {% if post.type == 'conference' %}
     {% include archive-single.html %}
   {% endif %}

@@ -60,7 +60,7 @@
             {% assign venue = site.data.journals[post.venue] -%}
             <p>Published in <i>{{ venue.name }}</i> 
             {%- if venue.IF -%}
-              , Impact Factor: <span class="bold red">{{ venue.IF }}</span>, {{ venue.edition }} {{ venue.quartile }}  
+              , IF: <span class="bold">{{ venue.IF }}</span>, Edition: {{ venue.edition }}, Rank: <span class="bold">{{ venue.jifrank }}</span>, {{ venue.quartile }} in {{ venue.category }}
             {%- endif -%} </p>
           {% elsif post.type == 'conference' %}
             {% assign venue = site.data.conferences[post.venue] -%}
