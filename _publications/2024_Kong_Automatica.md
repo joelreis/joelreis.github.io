@@ -10,13 +10,18 @@ type: 'journal'
 number: 19
 authors: [linghuan, reis, weihe, xinbo, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2024_AUTOMATICA_On_dynamic_performance_control_for_a_quadrotor_slung_load_system_with_unknown_load_mass.pdf'
-citation: 'L. Kong, J. Reis, W. He, X. Yu, and C. Silvestre, “On dynamic performance control for a quadrotor-slung-load system with unknown load mass,” Automatica, Elsevier BV, (in press), 2024.'
+citation: 'L. Kong, J. Reis, W. He, X. Yu, and C. Silvestre, “On dynamic performance control for a quadrotor-slung-load system with unknown load mass,” Automatica, vol. 162, Elsevier BV, p. 111516, Apr. 2024.'
 bibtex: '@article{2024_Kong_Automatica,<br />
-  year = {2024},<br />
-  publisher = {Elsevier {BV}},<br />
-  author = {Linghuan Kong and and Joel Reis and Wei He and Xinbo Yu and Carlos Silvestre},<br />
   title = {On dynamic performance control for a quadrotor-slung-load system with unknown load mass},<br />
-  journal = {Automatica}<br />
+  journal = {Automatica},<br />
+  volume = {162},<br />
+  pages = {111516},<br />
+  year = {2024},<br />
+  issn = {0005-1098},<br />
+  doi = {https://doi.org/10.1016/j.automatica.2024.111516},<br />
+  url = {https://www.sciencedirect.com/science/article/pii/S0005109824000086},<br />
+  author = {Linghuan Kong and Joel Reis and Wei He and Xinbo Yu and Carlos Silvestre},<br />
+  publisher = {Elsevier {BV}},<br />
 }'
 ---
 **Abstract**
