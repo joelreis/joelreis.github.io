@@ -10,14 +10,16 @@ type: 'journal'
 number: 21
 authors: [juyanhao, reis, sunyuangong, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2025_TAC_On_the_asymptotic_stability_of_2_D_linear_inhomogeneous_systems.pdf'
-citation: 'Y. Ju, J. Reis, Y. Sun, and C. Silvestre, “On the asymptotic stability of 2-D linear inhomogeneous systems,” Transactions on Automatic Control, IEEE, (in press), 2025.'
+citation: 'Y. Ju, J. Reis, Y. Sun and C. Silvestre, "On the Asymptotic Stability of 2-D Linear Inhomogeneous Systems," in IEEE Transactions on Automatic Control, vol. 70, no. 8, pp. 5546-5552, Aug. 2025.'
 bibtex: '@article{2025_Ju_TAC,<br />
-  year = {2025},<br />
-  publisher = {IEEE,<br />
   url = {https://doi.org/10.1109/TAC.2025.3549346},<br />
   author = {Yanhao Ju, Joel Reis, Yuangong Sun, and Carlos Silvestre},<br />
   title = {On the asymptotic stability of 2-D linear inhomogeneous systems},<br />
-  journal = {Transactions on Automatica Control}<br />
+  journal = {IEEE Transactions on Automatic Control}<br />
+  year={2025},<br />
+  volume={22},<br />
+  pages={16476-16486},<br />
+  doi = {10.1109/TAC.2025.3549346}<br />
 }'
 ---
 **Abstract**
