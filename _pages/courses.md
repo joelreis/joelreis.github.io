@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+# Academic Year 2025/2026
+
+> ## Fall (1st) semester
+>
+>> - OCES7005 Marine Robotics and Applications
+>> - CIVL7998/CIVL7198 Project Report
+
+---
+
 # Academic Year 2024/2025
 
 > ## Spring (2nd) semester

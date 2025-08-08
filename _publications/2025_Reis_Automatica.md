@@ -2,7 +2,7 @@
 title: "Kinematics-informed neural network control on SO(3)"
 collection: publications
 permalink: /publication/2025_Reis_Automatica
-excerpt: 'We present an adaptive geometric control method for dynamic-model-free attitude tracking on the manifold of 3D rotations (SO(3)).'
+excerpt: 'We present an adaptive geometric control method for dynamic-model-free attitude tracking on the manifold of 3D rotations SO(3).'
 date: 2025-02-01
 venue: automatica
 publisher: elsevier
@@ -26,7 +26,7 @@ bibtex: '@article{2025_Reis_Automatica,<br />
 ---
 **Abstract**
 ---
-This paper presents an adaptive geometric control method for dynamic-model-free attitude tracking on the manifold of 3D rotations (SO(3)).
+This paper presents an adaptive geometric control method for dynamic-model-free attitude tracking on the manifold of 3D rotations SO(3).
 Utilizing well-established definitions of attitude errors on SO(3), we develop a general control-affine linear error system.
 The input to this system is implicitly approximated by a kinematics-informed neural network (NN), which serves as the controller.
 The weights of this NN, designed to be inherently bounded, are adjusted online using a modified gradient descent strategy that relies solely on system kinematics.
