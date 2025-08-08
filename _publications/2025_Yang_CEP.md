@@ -10,7 +10,7 @@ type: 'journal'
 number: 23
 authors: [weiming, reis, yugan, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2025_CEP_Output_Feedback_Control_of_an_Underactuated_Flying_Inverted_Pendulum.pdf'
-citation: 'W. Yang, J. Reis, G. Yu, and C. Silvestre, "Output feedback control of an underactuated flying inverted pendulum", Control Engineering Practice, vol. 164, lsevier BV, p. 106474, Nov. 2025.'
+citation: 'W. Yang, J. Reis, G. Yu, and C. Silvestre, "Output feedback control of an underactuated flying inverted pendulum", Control Engineering Practice, vol. 164, Elsevier BV, p. 106474, Nov. 2025.'
 bibtex: '@article{2025_Yang_CEP,<br />
   doi = {10.1016/j.conengprac.2025.106474},<br />
   url = {https://doi.org/10.1016/j.conengprac.2025.106474},<br />
