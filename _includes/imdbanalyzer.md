@@ -4,6 +4,11 @@ You can obtain the ratings file from your IMDb user account.
 
 
 ```python
+
+```
+
+
+```python
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,7 +19,7 @@ ratings  =  pd.read_csv("ratings.csv")
 print("Last updated:" + str(date.today()))
 ```
 
-    Last updated:2024-11-18
+    Last updated:2025-11-07
     
 
 Parsing data.
@@ -69,7 +74,7 @@ plt.show()
 
 
     
-![png](../images/imdbanalyzer_files/imdbanalyzer_5_0.png)
+![png](../images/imdbanalyzer_files/imdbanalyzer_6_0.png)
     
 
 
@@ -142,26 +147,27 @@ print(genres_dataframe_less_watched.to_string(index=False))
 
 
     
-![png](../images/imdbanalyzer_files/imdbanalyzer_7_0.png)
+![png](../images/imdbanalyzer_files/imdbanalyzer_8_0.png)
     
 
 
           Genre  Movies watched
-         Sci-Fi             401
-        Romance             297
-        Fantasy             284
-         Horror             264
-         Family             179
-      Biography             131
-      Animation             117
+         Sci-Fi             417
+        Romance             307
+        Fantasy             290
+         Horror             282
+         Family             182
+      Biography             134
+      Animation             122
             War              85
-        History              78
+        History              82
         Western              37
-          Sport              34
-    Documentary              31
-          Music              30
-        Musical              28
-      Film-Noir              14
+          Sport              36
+    Documentary              34
+          Music              31
+        Musical              29
+      Film-Noir              15
+      Talk-Show               1
     
 
 In the following, I will plot the average rate for each genre.
@@ -203,7 +209,7 @@ plt.show()
 
 
     
-![png](../images/imdbanalyzer_files/imdbanalyzer_9_0.png)
+![png](../images/imdbanalyzer_files/imdbanalyzer_10_0.png)
     
 
 
@@ -229,7 +235,7 @@ plt.show()
 
 
     
-![png](../images/imdbanalyzer_files/imdbanalyzer_11_0.png)
+![png](../images/imdbanalyzer_files/imdbanalyzer_12_0.png)
     
 
 
@@ -264,7 +270,7 @@ ax.grid(axis='x')
 
 
     
-![png](../images/imdbanalyzer_files/imdbanalyzer_13_0.png)
+![png](../images/imdbanalyzer_files/imdbanalyzer_14_0.png)
     
 
 
@@ -307,6 +313,6 @@ plt.show()
 
 
     
-![png](../images/imdbanalyzer_files/imdbanalyzer_15_0.png)
+![png](../images/imdbanalyzer_files/imdbanalyzer_16_0.png)
     
 
