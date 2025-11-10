@@ -127,6 +127,19 @@ Honorable mentions in Chinese cinema: <em>The Assassin</em> (2015), <em>A World 
   float: left;
   width: 180px;" src="../images/jagten_poster.jpg"/>
 
+Ever wanted to watch a film that leaves you drowning in heartbreak and helpless rage?
+This is that movie.
+The kind that makes you want to scream at the screen, desperate to intervene.
+
+It follows a kindergarten teacher caught in a devastating spiral of false accusations.
+Set in a seemingly idyllic village, the story unfolds in a place where the quiet charm of places and people, including friends, colleagues, and neighbors, masks a chilling refusal to hear the truth.
+
+Forget the presumption of innocence.
+This is a harrowing tale of guilty until proven innocent.
+It is infuriating, gripping, and painfully relevant.
+
+Honorable mentions in the fight for truth: <em>The Lives of Others</em> (2006), <em>12 Angry Men</em> (1957), <em>Prisoners</em> (2014), <em>Mystic River</em> (2003), <em>The Teachers' Lounge</em> (2023).
+
 ***
 
 # IMDb Data Analyzer
