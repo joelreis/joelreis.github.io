@@ -24,6 +24,10 @@ Let's just say these are the ones that, with a bit of effort in digging through 
 
 Go watch them!
 
+Just stating the obvious here: I am sure there are hundreds of excellent movies I have not seen yet.
+Hopefully, I will get the chance to watch them someday.
+In the meantime, I will keep doing my best and stay open to any recommendations.
+
 ***
 
 ### 12 Monkeys (1995)
@@ -70,7 +74,7 @@ Make no mistake: you won't find happiness here.
 <em>A Separation</em> is an incredibly heartbreaking film, but one that absolutely deserves to be seen, rich in dialogue and emotional depth.
 I believe there is something profoundly human to be learned from it...
 
-Honorable mentions in family drama: <em>La graine et le mulet</em> (2007), <em>Kramer vs. Kramer</em> (1979), <em>Le Passé</em> (2013), <em>The Squid and the Whale (2005).
+Honorable mentions in (dysfunctional) family drama: <em>La graine et le mulet</em> (2007), <em>Kramer vs. Kramer</em> (1979), <em>Le Passé</em> (2013), <em>The Squid and the Whale (2005), <em>Force Majeure (2014).
 
 ***
 
@@ -89,7 +93,7 @@ Still, I believe it deserves a place on this list.
 Technically impressive at times, its emotional impact lingers long after the credits roll.
 As I tried to process the implications of the choices made by certain characters, I found myself in one of those quiet, reflective moments, wondering: what would I have done?
 
-Honorable mentions in films that might stir existential dread: <em>Oldboy</em> (2003), <em>Contratiempo</em> (2016), <em>The Game</em> (1997), <em>Memento</em> (2000), <em>Ad Astra</em> (2019).
+Honorable mentions in films that might stir existential dread: <em>Oldboy</em> (2003), <em>Contratiempo</em> (2016), <em>The Game</em> (1997), <em>Memento</em> (2000), <em>Ad Astra</em> (2019), <em>Aniara</em> (2018).
 
 ***
 
@@ -101,6 +105,16 @@ Honorable mentions in films that might stir existential dread: <em>Oldboy</em> (
   border-radius: 10px;
   float: left;
   width: 180px;" src="../images/let_the_bullets_fly_poster.jpg"/>
+
+When it comes to Chinese comedies, much of the world tends to highlight the early works of Jackie Chan and, of course, Stephen Chow, whose <em>Kung Fu Hustle</em> and <em>Shaolin Soccer</em> are arguably the most universally acclaimed and widely recognized Chinese comedy films in the West. (Allow me to leave a big shoutout here to Zhang Yimou!)
+
+However, overlooking Jiang Wen's satirical masterpiece <em>Let the Bullets Fly</em> would be a mistake.
+As the title suggests, "letting the bullets fly" reflects a passive stance, that of hoping problems will resolve themselves without direct action.
+Unsurprisingly, this approach leads to questionable outcomes and raises serious moral dilemmas.
+Admittedly, having some familiarity with Chinese culture and society can deepen one's appreciation of the film's nuances and characters.
+But regardless of cultural background, this is a wildly chaotic and riotously funny movie that stands out in the genre.
+
+Honorable mentions in Chinese cinema: <em>The Assassin</em> (2015), <em>A World without Thieves</em> (2004), <em>Blind Shaft</em> (2003), <em>Black Coal, Thin Ice</em> (2014), <em>Mr. Six</em> (2015).
 
 ***
 
