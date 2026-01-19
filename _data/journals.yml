@@ -105,6 +105,14 @@ tiv:
   category: Engineering, Electrical & Electronic
   edition : SCI
 
+tie:
+  name    : IEEE Transactions on Industrial Electronics
+  IF      : 7.2
+  quartile: Q1
+  jifrank : 11/89
+  category: Automation & Control Systems
+  edition : SCI
+
 tcst:
   name    : IEEE Transactions on Control Systems Technology
   IF      : 4.9
