@@ -10,6 +10,7 @@ type: 'journal'
 number: 28
 authors: [reis, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2026_TAC_Attitude_Estimation_on_SO3_Under_Biased_Scaled_and_Misaligned_Rate_Gyro_Measurements.pdf'
+publisherurl: 'https://ieeexplore.ieee.org/document/11505051'
 citation: 'J. Reis, and C. Silvestre, "Attitude Estimation on SO(3) Under Biased, Scaled and Misaligned Rate Gyro Measurements," in IEEE Transactions on Automatic Control, vol. xx, no. xx, pp. xx-xx, Oct. 2026.'
 bibtex: '@article{2026_Reis_TAC,<br />
   url = {https://ieeexplore.ieee.org/document/11505051},<br />
