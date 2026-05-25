@@ -19,3 +19,7 @@ acc:
 wace:
   name     : IFAC Workshop on Aerospace Control Education
   publisher: Elsevier
+
+ifac:
+  name     : IFAC World Congress
+  publisher: Elsevier
