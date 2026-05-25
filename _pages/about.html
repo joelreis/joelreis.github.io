@@ -102,6 +102,45 @@ div.box div.body img {
 
 </style>
 
+<style>
+button.collapsible2 {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+button.active2, button.collapsible2:hover {
+  background-color: #555;
+}
+
+div.content2 {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+
+button.collapsible2:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: white;
+  float: right;
+  margin-left: 5px;
+  margin-bottom: 15px;
+}
+
+button.active2:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+</style>
 <body>
 
 <div>
@@ -111,6 +150,7 @@ div.box div.body img {
 <p>Currently, I am an Assistant Professor with the <span class="colorgradlink"><a href="https://www.fst.um.edu.mo/ost/" target="_blank">Department of Ocean Science and Technology</a></span> at the <span class="colorgradlink"><a href="https://www.fst.um.edu.mo/" target="_blank">Faculty of Science and Technology</a></span> of the <span class="colorgradlink"><a href="https://www.um.edu.mo/" target="_blank">University of Macau</a></span>.</p>
 </div>
 
+<!--
 <button onclick="showImage('ostpe')">English Version</button>
 <button onclick="showImage('ostpc')">Chinese Version</button>
 <div id="container">
@@ -132,6 +172,7 @@ div.box div.body img {
         document.getElementById(imageId).style.display = 'block';
     }
 </script>
+-->
 
 <div>
 <p>My research interests encompass estimation and control theory, with applications to aerial, marine surface, and underwater autonomous vehicles.</p>
@@ -140,7 +181,89 @@ div.box div.body img {
 </div>
 
 <header>
-  <h1>Master's in IST, Lisbon</h1>
+  <h1>UM welcomes you!</h1>
+</header>
+
+<p>The application pathways, funding programmes, and eligibility criteria described below are subject to change by the University of Macau (UM) at any time.</p>
+
+<p>While I strive to keep this information updated, policies may be revised, or programmes discontinued without prior notice.</p>
+
+<p>I strongly encourage prospective candidates to:
+<ul>
+  <li>Verify current opportunities on the official UM website.</li>
+  <li>Reach out directly to our lab leadership to express interest and confirm available options.</li>
+</ul></p>
+
+<p>Establishing early contact allows me to guide you through the latest application procedures and explore potential alignment with the research of our group.</p>
+
+<button type="button" class="collapsible2">PhD Students</button>
+<div class="content2">
+  <p>If you are interested in pursuing a PhD in our research group, you must first apply and be admitted through the University of Macau (UM) PhD Scholarship.</p>
+
+  <p>This competitive scholarship provides outstanding candidates with financial support, including a monthly stipend.</p>
+
+<p>Application Steps:
+<ul>
+  <li>Check the eligibility criteria and required documents on the UM PhD Admission page: <span class="colorgradlink"><a href="https://grs.um.edu.mo/index.php/prospective-students/phd-funding/um-phd-scholarship/" target="_blank">check it here!</a></span>.</li>
+  <li>Submit your application through the official UM application system.</li>
+  <li>Indicate your interest in our research group in your statement of purpose.</li>
+</ul></p>
+
+<p>I encourage applications from strong candidates with expertise in control theory, applied mathematics, or related disciplines, particularly those with a solid foundation in linear algebra, differential calculus, state-space control, Lyapunov theory, and Kalman filtering.</p>
+
+<p>If you have any questions about our research or the application process, feel free to contact me directly.</p>
+</div>
+
+<button type="button" class="collapsible2">Postdoctoral Researchers</button>
+<div class="content2">
+<p>I welcome applications from highly motivated postdoctoral researchers to join our team at the University of Macau (UM). Depending on your background and eligibility, there are several ways to apply.</p>
+
+<p>Application Pathways</p>
+
+<ul>
+  <li>Direct Application
+    <ul>
+      <li>Candidates may apply spontaneously by submitting a CV, research statement, and references directly to me.</li>
+    </ul>
+  </li>
+  <li>UM Talent Programme (UMTP) (<span class="colorgradlink"><a href="https://rskto.um.edu.mo/umtp/#02" target="_blank">check it here!</a></span>)</li>
+    <ul>
+      <li>Designed to attract outstanding graduates from top universities worldwide, the UMTP fosters high-caliber professionals, strengthens international collaboration, and aligns with Macao SAR's vision of "building a better Macao through education."</li>
+      <li>Benefits include competitive funding, research support, and opportunities for academic exchange.</li>
+    </ul>
+  <li>UM Macau Fellow (For Macau Permanent Residents) (<span class="colorgradlink"><a href="https://rskto.um.edu.mo/umtp/#00" target="_blank">check it here!</a></span>)</li>
+    <ul>
+      <li>Macau ID holders may apply through this special initiative aimed at nurturing local talent and advancing research excellence at UM.</li>
+    </ul>
+</ul>
+
+<p>Requirements</p>
+<ul>
+  <li>A PhD in robotics, control theory, applied mathematics, electrical/mechanical engineering, or a related field.</li>
+  <li>Expertise in autonomous systems navigation, estimation theory (e.g., Kalman filtering), optimization, or experimental robotics.</li>
+  <li>A track record of publications or prototyping (e.g., algorithms tested on real platforms).</li>
+  <li>Curiosity to tackle challenges at the intersection of theory and experimentation.</li>
+</ul>
+</div>
+
+<script>
+let coll = document.getElementsByClassName("collapsible2");
+              
+for (let i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active2");
+    let content = this.nextElementSibling;
+    if (content.style.maxHeight) {
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+<header>
+  <h1>My master's in IST, Lisbon</h1>
 </header>
 
 <div>
@@ -158,7 +281,7 @@ div.box div.body img {
 </div>
 
 <header>
-  <h1>PhD in UM, Macau</h1>
+  <h1>My PhD in UM, Macau</h1>
 </header>
 
 <p>Afterwards, I pursued a PhD degree at the <span class="colorgradlink"><a href="https://www.um.edu.mo/" target="_blank">University of Macau</a></span> (UM), under the guidance of <span class="colorgradlink"><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.fst.um.edu.mo%2Fpersonal%2Fcsilvestre%2F&sa=D" target="_blank">Professor Carlos Silvestre</a></span>, <span class="colorgradlink"><a href="https://www.google.com/url?q=https%3A%2F%2Fpbatista.weebly.com%2F&sa=D" target="_blank">Professor Pedro Batista</a></span> and <span class="colorgradlink"><a href="https://www.google.com/url?q=http%3A%2F%2Fwww.dem.ist.utl.pt%2Fpoliveira%2F&sa=D" target="_blank">Professor Paulo Oliveira</a></span>.</p>

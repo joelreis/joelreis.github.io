@@ -34,3 +34,9 @@ gem 'tzinfo-data'
 gem 'faraday-retry'
 gem "webrick", "~> 1.7"
 
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.7"
+
+gem "bigdecimal", "~> 4.1"
