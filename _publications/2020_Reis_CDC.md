@@ -3,10 +3,10 @@ title: "Attitude observers aided by implicit measurements of the Earth angular v
 collection: confererences
 permalink: /publication/2020_Reis_CDC
 excerpt: 'In this tutorial, a new class of attitude estimation solutions is presented to determine the orientation of a robotic platform resorting only to a set of triaxial gyroscopes and an additional measurement of a constant inertial vector.'
-date: 2020-12-20
+year: 2020
 venue: cdc
 publisher: ieee
-location: Jeju, Korea (South)
+location: Jeju, Republic of Korea
 type: 'conference'
 number: 3
 authors: [reis,silvestre,batista,oliveira]

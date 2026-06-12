@@ -3,7 +3,7 @@ title: "Nonlinear Attitude Observer on SO(3) Based on Single Body-Vector Measure
 collection: confererences
 permalink: /publication/2018_Reis_CCTA
 excerpt: 'This paper proposes a nonlinear attitude observer using high-grade fiber optic gyros.'
-date: 2018-08-21
+year: 2018
 venue: ccta
 publisher: ieee
 location: Copenhagen, Denmark

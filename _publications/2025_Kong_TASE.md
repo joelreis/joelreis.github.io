@@ -3,7 +3,7 @@ title: "Event-triggered prescribed-time tracking control for UAVs using polynomi
 collection: publications
 permalink: /publication/2025_Kong_TASE
 excerpt: 'We propose a novel event-triggered prescribed-time tracking control method for an underactuated unmanned aerial vehicle.'
-date: 2025-06-01
+year: 2025
 venue: tase
 publisher: ieee
 type: 'journal'

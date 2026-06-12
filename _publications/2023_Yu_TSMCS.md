@@ -3,7 +3,7 @@ title: "Reduced-Complexity Active Disturbance Rejection Controller for Quadrotor
 collection: publications
 permalink: /publication/2023_Yu_TSMCS
 excerpt: 'In this paper we address the problem of trajectory tracking control of a quadrotor-slung-load system.'
-date: 2023-04-01
+year: 2023
 venue: smca
 publisher: ieee
 type: 'journal'

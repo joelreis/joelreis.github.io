@@ -3,22 +3,22 @@ title: "Hybrid triggering adaptive prescribed performance control of underactuat
 collection: publications
 permalink: /publication/2025_Kong_TIE
 excerpt: 'We present a novel hybrid triggering framework for trajectory tracking of underactuated unmanned aerial vehicles (UAVs), incorporating adaptive prescribed performance specifications on the position error.'
-date: 2025-12-01
+year: 2026
 venue: tie
 publisher: ieee
 type: 'journal'
 number: 25
 authors: [linghuan, reis, weihe, silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2025_TIE_Hybrid_triggering_adaptive_prescribed_performance_control_of_underactuated_UAVs.pdf'
-citation: 'L. Kong, J. Reis, W. He, and C. Silvestre, "Hybrid triggering adaptive prescribed performance control of underactuated UAVs," in IEEE Transactions on Industrial Electronics, (in press), 2026'
+citation: 'L. Kong, J. Reis, W. He and C. Silvestre, "Hybrid Triggering Adaptive Prescribed Performance Control of Underactuated UAVs," in IEEE Transactions on Industrial Electronics, vol. 73, no. 7, pp. 10242-10253, July 2026'
 bibtex: '@article{2025_Kong_TIE,<br />
-  doi = {},<br />
-  url = {},<br />
-  year = {2025},<br />
-  month = dec,<br />
+  doi = {10.1109/TIE.2026.3658643},<br />
+  year = {2026},<br />
+  month = jul,<br />
   publisher = {IEEE},<br />
-  volume = {},<br />
-  pages = {},<br />
+  volume = {73},<br />
+  number = {7},<br />
+  pages = {10242--10253},<br />
   author = {Linghuan Kong and Joel Reis and Wei He and Carlos Silvestre},<br />
   title = {Hybrid triggering adaptive prescribed performance control of underactuated UAVs},<br />
   journal = {IEEE Transactions on Industrial Electronics}<br />

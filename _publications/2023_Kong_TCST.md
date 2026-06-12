@@ -3,7 +3,7 @@ title: "Comprehensive nonlinear control strategy for VTOL-UAVs with windowed out
 collection: publications
 permalink: /publication/2023_Kong_TCST
 excerpt: 'In this paper we develop a methodology for trajectory tracking control of a vertical take-off and landing unmanned aerial vehicle in the presence of unknown mass and time-varying external disturbances.'
-date: 2023-06-01
+year: 2023
 venue: tcst
 publisher: ieee
 type: 'journal'

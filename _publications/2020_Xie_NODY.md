@@ -3,7 +3,7 @@ title: "Design and experimental validation of a nonlinear controller for underac
 collection: publications
 permalink: /publication/2020_Xie_NODY
 excerpt: 'This paper addresses the problem of trajectory tracking control of an underactuated surface vessel moving in a two-dimensional space in the presence of unknown disturbances.'
-date: 2020-11-01
+year: 2020
 venue: nody
 publisher: springer
 type: 'journal'

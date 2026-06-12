@@ -3,7 +3,7 @@ title: "Kalman Filter as Observer and Smoother for Rigid-Body Motion Control App
 collection: confererences
 permalink: /publication/2024_Reis_WACE
 excerpt: 'In this paper we develop an event-triggered mechanism to track a reference trajectory using an underactuated autonomous surface vessel.'
-date: 2024-12-01
+year: 2024
 venue: wace
 publisher: elsevier
 location: Bertinoro, Italy

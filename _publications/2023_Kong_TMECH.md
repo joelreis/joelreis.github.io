@@ -3,7 +3,7 @@ title: "Experimental Validation of a Robust Prescribed Performance Nonlinear Con
 collection: publications
 permalink: /publication/2023_Kong_TMECH
 excerpt: 'We develop and experimentally test a prescribed performance control methodology for trajectory tracking of underactuated autonomous aerial vehicles under unknown time-varying disturbances.'
-date: 2023-06-01
+year: 2024
 venue: tmech
 publisher: ieee
 type: 'journal'
@@ -12,7 +12,7 @@ authors: [linghuan, reis, weihe, silvestre]
 publisherurl: 'https://ieeexplore.ieee.org/document/10175189'
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2023_TMECH_Experimental_validation_of_a_robust_prescribed_performance_nonlinear_controller_for_an_unmanned_aerial_vehicle_with_unknown_mass.pdf'
 citation: 'L. Kong, J. Reis, W. He, and C. Silvestre, ‘Experimental validation of a robust prescribed performance nonlinear controller for an unmanned aerial vehicle with unknown mass’, IEEE ASME Trans. Mechatron., vol. 29, no. 1, pp. 301–312, Feb. 2024.'
-bibtex: '@ARTICLE{2023_Kong_TMECH,<br />
+bibtex: '@ARTICLE{2024_Kong_TMECH,<br />
   title = {Experimental validation of a robust prescribed performance nonlinear controller for an unmanned aerial vehicle with unknown mass},<br />
   journal   = "Transactions on Mechatronics",<br />
   publisher = "IEEE",<br />

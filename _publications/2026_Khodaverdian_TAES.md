@@ -3,7 +3,7 @@ title: "Koopman-Based Discrete-Time Controller Design for Nonlinear Flexible Spa
 collection: publications
 permalink: /publication/2026_Khodaverdian_TAES
 excerpt: 'To address the challenges of controlling flexible spacecraft with nonlinear dynamics, this paper proposes a Koopman-based approach that represents these dynamics in a space of an infinite-dimensional observable that facilitates analysis and control design.'
-date: 2026-03-11
+year: 2026
 venue: taes
 publisher: ieee
 type: 'journal'

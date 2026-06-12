@@ -2,33 +2,33 @@
 
 automatica:
   name    : Automatica
-  IF      : 4.8
+  IF      : 5.9
   quartile: Q1
-  jifrank : 20/84
+  jifrank : 17/89
   category: Automation & Control Systems
   edition : SCI
 
 tac:
   name    : IEEE Transactions on Automatic Control
-  IF      : 6.2
+  IF      : 7.0
   quartile: Q1
-  jifrank : 12/84
+  jifrank : 13/89
   category: Automation & Control Systems
   edition : SCI
 
 cep:
   name    : Control Engineering Practice
-  IF      : 5.4
+  IF      : 4.6
   quartile: Q1
-  jifrank : 17/84
+  jifrank : 21/89
   category: Automation & Control Systems
   edition : SCI
 
 csl:
   name    : IEEE Control Systems Letters
-  IF      : 2.4   
-  quartile: Q2
-  jifrank : 40/84
+  IF      : 2.0   
+  quartile: Q3
+  jifrank : 46/89
   category: Automation & Control Systems
   edition : ESCI
 
@@ -42,15 +42,15 @@ ijrnc:
 
 nody:
   name    : Nonlinear Dynamics
-  IF      : 5.2
+  IF      : 6.0
   quartile: Q1
-  jifrank : 14/170
+  jifrank : 12/171
   category: Mechanics
   edition : SCI
 
 oe:
   name    : Ocean Engineering
-  IF      : 4.6
+  IF      : 5.5
   quartile: Q1
   jifrank : 2/25
   category: Engineering, Marine
@@ -58,50 +58,50 @@ oe:
 
 ral:
   name    : IEEE Robotics and Automation Letters
-  IF      : 4.6
-  quartile: Q2
-  jifrank : 12/46
+  IF      : 5.3
+  quartile: Q1
+  jifrank : 12/48
   category: Robotics
   edition : SCI
 
 sl:
   name    : IEEE Sensors Letters
   IF      : 2.2
-  quartile: Q2
-  jifrank : 34/76
+  quartile: Q3
+  jifrank : 40/79
   category: Instruments & Instrumentation
   edition : ESCI
 
 sensors:
   name    : Sensors
-  IF      : 3.4
+  IF      : 3.5
   quartile: Q2
-  jifrank : 24/76
+  jifrank : 24/79
   category: Instruments & Instrumentation
   edition : SCI
 
 smca:
   name    : >
             IEEE Transactions on Systems, Man, and Cybernetics: Systems
-  IF      : 8.6
+  IF      : 8.7
   quartile: Q1
-  jifrank : 5/84
+  jifrank : 6/89
   category: Automation & Control Systems
   edition : SCI
 
 taes:
   name    : IEEE Transactions on Aerospace and Electronic Systems
-  IF      : 5.1
+  IF      : 5.7
   quartile: Q1
-  jifrank : 5/52
+  jifrank : 7/55
   category: Engineering, Aerospace
   edition : SCI
 
 tiv:
   name    : IEEE Transactions on Intelligent Vehicles
-  IF      : 14.0
+  IF      : 14.3
   quartile: Q1
-  jifrank : 5/353
+  jifrank : 7/368
   category: Engineering, Electrical & Electronic
   edition : SCI
 
@@ -115,25 +115,25 @@ tie:
 
 tcst:
   name    : IEEE Transactions on Control Systems Technology
-  IF      : 4.9
+  IF      : 3.9
   quartile: Q2
-  jifrank : 18/84
+  jifrank : 27/89
   category: Automation & Control Systems
   edition : SCI
 
 tmech:
   name    : IEEE-ASME Transactions on Mechatronics
-  IF      : 6.1
+  IF      : 7.3
   quartile: Q1
-  jifrank : 13/84
+  jifrank : 9/89
   category: Automation & Control Systems
   edition : SCI
 
 tase:
   name    : IEEE Transactions on Automation Science and Engineering
-  IF      : 5.9
+  IF      : 6.4
   quartile: Q1
-  jifrank : 15/84
+  jifrank : 15/89
   category: Automation & Control Systems
   edition : SCI
 

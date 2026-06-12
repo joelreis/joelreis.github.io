@@ -3,7 +3,7 @@ title: "Source Localization Based on Acoustic Single Direction Measurements"
 collection: publications
 permalink: /publication/2018_Reis_TAES
 excerpt: 'This paper presents a novel filtering technique to estimate the position of a moving target based on discrete-time direction and velocity measurements.'
-date: 2018-12-01
+year: 2018
 venue: taes
 publisher: ieee
 type: 'journal'

@@ -3,7 +3,7 @@ title: "On the asymptotic stability of 2-D linear inhomogeneous systems"
 collection: publications
 permalink: /publication/2025_Ju_TAC
 excerpt: 'We investigate the stability of discrete-time two-dimensional (2-D) linear inhomogeneous systems.'
-date: 2025-03-01
+year: 2025
 venue: tac
 publisher: ieee
 type: 'journal'

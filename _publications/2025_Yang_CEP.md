@@ -3,7 +3,7 @@ title: "Output Feedback Control of an Underactuated Flying Inverted Pendulum"
 collection: publications
 permalink: /publication/2025_Yang_CEP
 excerpt: 'We present a trajectory tracking controller for an inverted pendulum mounted on an underactuated unmanned aerial vehicle, operating under constant external disturbances.'
-date: 2025-08-01
+year: 2025
 venue: cep
 publisher: elsevier
 type: 'journal'

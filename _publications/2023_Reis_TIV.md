@@ -3,7 +3,7 @@ title: "Nonlinear Backstepping Controller for an Underactuated ASV With Model Pa
 collection: publications
 permalink: /publication/2023_Reis_TIV
 excerpt: 'In this article, we tackle the problem of path following control of an underactuated autonomous surface vehicle in the presence of external disturbances and model parametric uncertainty.'
-date: 2022-11-01
+year: 2023
 venue: tiv
 publisher: ieee
 type: 'journal'

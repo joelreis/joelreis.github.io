@@ -50,6 +50,11 @@ reis:
   uri   : "http://name.com"
   email : "joelreis@um.edu.mo"
 
+santos: 
+  name  : Pedro Santos
+  uri   : "http://name.com"
+  email : "pedrodossantos31@tecnico.ulisboa.pt"
+
 silvestre:
   name  : Carlos Silvestre
   uri   : "http://name.com"

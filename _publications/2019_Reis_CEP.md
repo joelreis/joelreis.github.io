@@ -3,7 +3,7 @@ title: "Attitude estimation using high-grade gyroscopes"
 collection: publications
 permalink: /publication/2019_Reis_CEP
 excerpt: 'This paper addresses the problem of attitude estimation using the angular velocity of Earth as a reference vector.'
-date: 2019-11-01
+year: 2019
 venue: cep
 publisher: elsevier
 type: 'journal'

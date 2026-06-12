@@ -3,7 +3,7 @@ title: "Bottom-following control of AUVs using multibeam forward-looking sonar"
 collection: confererences
 permalink: /publication/2026_Reis_IFAC
 excerpt: 'A novel sensor-based nonlinear control strategy is presented for bottom-following of AUVs equipped with a multibeam forward-looking imaging sonar, operating under exogenous forces and moments.'
-date: 2026-08-01
+year: 2026
 venue: ifac
 publisher: elsevier
 location: Busan, Republic of Korea

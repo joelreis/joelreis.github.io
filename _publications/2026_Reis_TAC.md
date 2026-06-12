@@ -3,7 +3,7 @@ title: "Attitude Estimation on SO(3) Under Biased, Scaled and Misaligned Rate Gy
 collection: publications
 permalink: /publication/2026_Reis_TAC
 excerpt: 'We present a nonlinear attitude observer formulated directly on the special orthogonal group (SO(3)).'
-date: 2026-10-01
+year: 2026
 venue: tac
 publisher: ieee
 type: 'journal'

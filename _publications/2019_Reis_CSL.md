@@ -3,7 +3,7 @@ title: "Nonlinear Observer on SO(3) for Attitude Estimation on Rotating Earth Us
 collection: publications
 permalink: /publication/2019_Reis_CSL
 excerpt: 'This letter presents a novel attitude estimation solution, built on SO(3) , that resorts to single measurements of a constant inertial vector, in addition to angular velocity readings provided by a set of three high-grade fiber optic rate gyros, which are assumed to be sensitive to the angular motion of the Earth.'
-date: 2019-04-01
+year: 2019
 venue: csl
 publisher: ieee
 type: 'journal'
