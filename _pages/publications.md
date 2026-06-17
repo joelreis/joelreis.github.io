@@ -15,12 +15,16 @@ author_profile: true
 {% endif %}
 
 {% assign my_sorted_list = site.publications | sort:"number" %}
-
+{% assign loopyear = 0 %}
 Publications in Journals
 ------
 
 {% for post in my_sorted_list reversed %}
   {% if post.type == 'journal' %}
+    {% if post.year != loopyear %}
+      {% include year-separator.html %}  
+      {% assign loopyear = post.year %}
+    {% endif %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
