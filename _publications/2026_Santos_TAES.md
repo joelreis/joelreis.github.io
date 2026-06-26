@@ -10,17 +10,17 @@ type: 'journal'
 number: 30
 authors: [santos,reis,oliveira,silvestre]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2026_TAES_QuadRocket_An_Aerial_Robotic_Testbed_for_Adaptive_Thrust_Vector_Control_of_Rocket_Like_Vehicles.pdf'
-publisherurl: ''
+publisherurl: 'https://ieeexplore.ieee.org/document/11578091'
 citation: 'P. Santos, J. Reis, P. Oliveira, and C. Silvestre, "QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles," in IEEE Transactions on Aerospace and Electronic Systems, vol. xx, no. xx, pp. xx-xx, 2026 (in press).'
 bibtex: '@article{2026_Santos_TAES,<br />
-  url = {},<br />
+  url = {https://ieeexplore.ieee.org/document/11578091},<br />
   author = {Pedro Santos, Joel Reis, Paulo Oliveira, and Carlos Silvestre},<br />
   title = {QuadRocket: An Aerial Robotic Testbed for Adaptive Thrust-Vector Control of Rocket-Like Vehicles},<br />
   journal = {IEEE Transactions on Aerospace and Electronic Systems}<br />
   year={2026},<br />
   volume={xx},<br />
   pages={xx-xx},<br />
-  doi = {}<br />
+  doi = {10.1109/TAES.2026.3706328}<br />
 }'
 ---
 **Abstract**
