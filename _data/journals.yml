@@ -8,14 +8,6 @@ automatica:
   category: Automation & Control Systems
   edition : SCI
 
-tac:
-  name    : IEEE Transactions on Automatic Control
-  IF      : 7.0
-  quartile: Q1
-  jifrank : 12/88
-  category: Automation & Control Systems
-  edition : SCI
-
 cep:
   name    : Control Engineering Practice
   IF      : 5.3
@@ -37,6 +29,15 @@ ijrnc:
   IF      : 3.1
   quartile: Q1
   jifrank : 20/345
+  category: Mathematics, Applied
+  edition : SCI
+
+nahs:
+  name    : >
+            Nonlinear Analysis: Hybrid Systems
+  IF      : 3.2
+  quartile: Q1
+  jifrank : 15/345
   category: Mathematics, Applied
   edition : SCI
 
@@ -86,6 +87,14 @@ smca:
   IF      : 8.4
   quartile: Q1
   jifrank : 9/88
+  category: Automation & Control Systems
+  edition : SCI
+
+tac:
+  name    : IEEE Transactions on Automatic Control
+  IF      : 7.0
+  quartile: Q1
+  jifrank : 12/88
   category: Automation & Control Systems
   edition : SCI
 

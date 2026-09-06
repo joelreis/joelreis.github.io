@@ -20,6 +20,11 @@ cunha:
   uri   : "http://name.com"
   email : "rita@isr.tecnico.ulisboa.pt"
 
+joaosilvestre:
+  name  : João Silvestre
+  uri   : "http://name.com"
+  email : "joaosilvestre@g.ucla.edu"
+  
 juyanhao:
   name  : Yanhao Ju
   uri   : "http://name.com"
