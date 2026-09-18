@@ -10,17 +10,16 @@ type: 'journal'
 number: 31
 authors: [joaosilvestre,reis,casau,oliveira]
 paperurl: 'http://web.tecnico.ulisboa.pt/ist164985/publications/2026_NAHS_Event_Triggered_Neural_Network_Adaptive_Hybrid_Attitude_Control.pdf'
-publisherurl: ''
+publisherurl: 'https://www.sciencedirect.com/science/article/pii/S1751570X2600138X'
 citation: 'J. Silvestre, J. Reis, P. Casau, and P. Oliveira, "Event-Triggered Neural Network Adaptive Hybrid Attitude Control," in Nonlinear Analysis: Hybrid Systems, vol. xx, no. xx, pp. xx-xx, 2026 (in press).'
 bibtex: '@article{2026_Silvestre_NAHS,<br />
-  url = {},<br />
   author = {João Silvestre, Joel Reis, Pedro Casau, and Paulo Oliveira},<br />
   title = {Event-Triggered Neural Network Adaptive Hybrid Attitude Control},<br />
   journal = {Nonlinear Analysis: Hybrid Systems}<br />
   year={2026},<br />
-  volume={xx},<br />
-  pages={xx-xx},<br />
-  doi = {}<br />
+  volume={63},<br />
+  pages={101812},<br />
+  doi = {10.1016/j.nahs.2026.101812}<br />
 }'
 ---
 **Abstract**
